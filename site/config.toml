@@ -59,7 +59,7 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Kittr adventures around the world"
+  header    = "Kittyr adventures around the world"
 
   paragraph = "Kittyr around the world!  <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 
@@ -161,7 +161,7 @@ DefaultContentLanguage = "en"
   wordpress       = ""
   medium          = ""
   # Professional/Business Oriented Communities
-  linkedin        = "blas-gomez-49080155"
+  linkedin        = ""
   foursquare      = ""
   xing            = ""
   slideshare      = ""
@@ -178,11 +178,11 @@ DefaultContentLanguage = "en"
     qq              = "" # User ID Number
   instagram       = ""
   tumblr          = ""
-  twitter         = "JBlasGomez"
+  twitter         = ""
   skype           = ""
   snapchat        = ""
   pinterest       = ""
   telegram        = ""
   vine            = ""
   # Email
-  email           = "jblas1989@gmail.com"
+  email           = ""

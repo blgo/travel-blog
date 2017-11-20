@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+    {{ $.Scratch.Set "shareNav" true }}
+    {{ partial "navbar" . }}
+
+    <!-- Main -->
+    <script>
+        if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+            window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+            });
+            }
+        });
+        }
+    </script>
+    <div id="main">
+        {{ range first 1 (where .Site.Pages "Type" "post") }} 
+            {{ .Render "content-single" }}
+
+            {{ partial "share-menu" . }}
+        {{ end }}
+    </div>
+    {{ partial "sidebar" . }}
+{{ partial "footer" . }}
