@@ -11,7 +11,7 @@ featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
 tag: morocco1
 date: 2017-11-22T19:53:42.557Z
 type: post
-author: "Kitty R."
+author: Kitty R.
 featuredpath: cloudinary
 featuredalt: Image hosted by Cloudinary
 ---
