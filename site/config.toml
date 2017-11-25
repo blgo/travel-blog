@@ -1,6 +1,6 @@
 baseurl = "https://www.kittyr.com/"
 languageCode = "en-uk"
-title = "Hugo Future Imperfect"
+title = "Kitty R around the world"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -12,7 +12,7 @@ pluralizeListTitles = false
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Kittyr adventures around the world"
+  navbarTitle          = "Kitty R Adventures"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -61,18 +61,18 @@ pluralizeListTitles = false
 [params.intro]
   header    = "Kittyr adventures around the world"
 
-  paragraph = "Kittyr around the world!  <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = ""
 
-  about     = "About! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "-"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
+    imperfect = false
     width     = ""
     alt       = "Kittyr pic here"
 
@@ -86,8 +86,6 @@ DefaultContentLanguage = "en"
 [Languages]
     [Languages.en]
         LanguageName = "English"
-        title = "Kittyr around the world"
-        description = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
         weight = 1
         
             # Sets the menu items in the navigation bar
@@ -123,41 +121,42 @@ DefaultContentLanguage = "en"
                 identifier = "fa fa-envelope-o"
                 weight = 6
 
-    [Languages.fr]
-        LanguageName = "Français"
-        title = "Hugo Future Imperfect in fr"
+    [Languages.pl]
+        LanguageName = "Polskie"
+        title = "Kicia R na całym świecie"
         description = "HTML5 UP theme, Future Imperfect avec quelques extra goodies, porté par Julio Pescador. Multilangues par StatnMap. Powered by Hugo"
         weight = 2
     
-            [[Languages.fr.menu.main]]
-                name = "Accueil"
+            [[Languages.pl.menu.main]]
+                name = "Home"
                 url = "/"
                 identifier = "fa fa-home"
                 weight = 1
 
-            [[Languages.fr.menu.main]]
+            [[Languages.pl.menu.main]]
                 name = "Blog"
                 url = "/blog/"
                 identifier = "fa fa-newspaper-o"
                 weight = 2  
 
             [[Languages.en.menu.main]]
-                name = "A propos"
+                name = "About"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
                 weight = 3
 
-            [[Languages.fr.menu.main]]
-                name = "Catégories"
+            [[Languages.pl.menu.main]]
+                name = "Categories"
                 url = "/categories/"
                 identifier = "fa fa-sitemap"
                 weight = 5
 
-            [[Languages.fr.menu.main]]
+            [[Languages.pl.menu.main]]
                 name = "Contact"
                 url = "/contact/"
                 identifier = "fa fa-envelope-o"
                 weight = 6
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -165,8 +164,8 @@ DefaultContentLanguage = "en"
 [social]
   # Coding Communities
   github          = "blgo/travel-blog"
-  gitlab          = "blgo"
-  stackoverflow   = "8573887" # User Number
+  gitlab          = ""
+  stackoverflow   = "" # User Number
   bitbucket       = ""
   jsfiddle        = ""
   codepen         = ""
