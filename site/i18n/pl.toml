@@ -1,0 +1,38 @@
+[date_format]
+  other = "2 stycznia 2006"  
+[postreadingtime]
+  other = "minutes read"
+[recent_posts]
+  other = "Ostatnie posty"
+[see_more]
+  other = "Zobacz więcej"
+[read_more]
+  other = "Czytaj więcej"
+[categories]
+  other = "Kategorie"
+[category]
+  other = "Kategoria"
+[uncategorized]
+  other = "Bez kategorii"
+[share_post]
+  other = "Udostępnij ten post"
+[about]
+  other = "O tej"
+[learn_more]
+  other = "dowiedz się więcej"
+[repliestext]
+  other = "Replies typically within"
+[hours]
+  other = "Godziny"
+[submit]
+  other = "Prześlij"
+[Zatwierdź]
+   other = "Prześlij"
+[404_oops]
+   other = "Ups, strona, którą szukasz <br/>, nie istnieje."
+[404_backorreport]
+   other = "Możesz wrócić do strony głównej. <br/> Jeśli uważasz, że coś jest nie tak, zgłoś problem."
+[404_gotohome]
+   other = "Przejdź do strony głównej"
+[404_report]
+   other = "Zgłoś problem"
