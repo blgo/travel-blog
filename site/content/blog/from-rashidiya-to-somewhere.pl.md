@@ -1,18 +1,17 @@
 ---
 title: From Rashidiya to somewhere
-description: From Rashidiya to somewhere
+description: From Rashidiya to somewhere pl
 categories:
   - Morocco
   - Rashidiya
   - hitch hiking
   - travels
-images:
 featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
+featuredpath: cloudinary
 tag: morocco1
 date: 2015-01-17T19:53:42.557Z
 type: post
 author: Kitty R.
-featuredpath: cloudinary
 featuredalt: Image hosted by Cloudinary
 ---
 Kitty R. and Grandpa T. are looking for the master of qwan ki do in Rashidia to get back (after 12 years) the violin of a kung fu master from Tetouan. The Master is not found, but a clue is caught, and a letter left.
