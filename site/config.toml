@@ -124,7 +124,7 @@ DefaultContentLanguage = "en"
     [Languages.pl]
         LanguageName = "Polskie"
         title = "Kicia R na całym świecie"
-        description = "HTML5 UP theme, Future Imperfect avec quelques extra goodies, porté par Julio Pescador. Multilangues par StatnMap. Powered by Hugo"
+        description = "Kicia R. powstala w 2015 roku w trakcie kolejnej autostopowej podróży z Dziadkiem T. po Maroku. Kicia R. podróżowała całkiem sporo jeszcze nim powstała... od Skandynawii po Polwysep Iberyjski czy też Azję Mniejszą. Z plecakiem, stopem, śpiąc gdziekolwiek. Teraz rusza dalej w świat I postanowiła podzielić się swoimi małymi przygodami."
         weight = 2
     
             [[Languages.pl.menu.main]]
