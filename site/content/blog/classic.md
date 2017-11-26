@@ -12,7 +12,7 @@ categories:
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
 tag: morocco2
-date: '01/15/2015 1:33 PM'
+date: 2015-01-15T19:53:42.557Z
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
