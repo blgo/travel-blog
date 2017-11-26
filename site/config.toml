@@ -1,6 +1,6 @@
 baseurl = "https://www.kittyr.com/"
 languageCode = "en-uk"
-title = "Kitty R around the world"
+title = "Kitty R. around the world"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -12,7 +12,7 @@ pluralizeListTitles = false
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Kitty R Adventures"
+  navbarTitle          = "Kitty R. Adventures"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -59,7 +59,7 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Kittyr adventures around the world"
+  header    = "Kitty R. adventures around the world"
 
   paragraph = ""
 
@@ -74,7 +74,7 @@ pluralizeListTitles = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = ""
-    alt       = "Kittyr pic here"
+    alt       = "Kitty R. pic"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
