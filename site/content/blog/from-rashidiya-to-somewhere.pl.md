@@ -1,6 +1,8 @@
 ---
-title: From Rashidiya to somewhere
-description: From Rashidiya to somewhere pl
+title: ' Z Ar-Raszidijja do...'
+description: >-
+  Kicia R. i Dziadek T. spotykają Człowieka i Jego Owcę oraz mają gwiazdy na
+  wyciągnięcie ręki. 
 categories:
   - Morocco
   - Rashidiya
@@ -14,16 +16,14 @@ type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 ---
-Kitty R. and Grandpa T. are looking for the master of qwan ki do in Rashidia to get back (after 12 years) the violin of a kung fu master from Tetouan. The Master is not found, but a clue is caught, and a letter left.
+Kicia R. i Dziadek T. poszukują mistrza quankido w Rashidiji, by po 12 latach latach odebrać skrzypce mistrza kung fu z Tetouanu. Mistrz nie odnaleziony, ale trop złapany, a list pozostawiony.
 
-The cold of the region can be found in the signs. Kitty R. and Grandpa T. continue their journey without a plan. On the bridge leading to outside town, they hear a voice from down the river "Salam! Ça va?" and here it is: an invitation for tea. A homeless pebble on palm sticks and inside: A Man and His Sheep. We drink sweet moroccan coffee and eat salty almonds. The man is sitting with his sheep, two dogs and watching his non-growing vegetables on red African soil. From time to time he smokes hashish ("it’s better to have a dog as a friend than a friend for a dog"). Soon Kitty R. and Grandpa T. are persuaded to visit the Man’s family living nearby. In a thankful manner they decide to bring a bag of candies, a kilo of rice and a kilo of sugar (a delight for everyone).
+Zimno regionu daje się we znaki. Kicia R. i Dziadek T. ruszają dalej bez planu, by w połowie mostu wychodzącego z miasta usłyszeć z dołu "Salam! ça va?" i chodźcie na herbatę. Bezdomny zlepek folii na palach palmowych, a w środku Człowiek i Jego Owca. Piją słodko marokańską kawę i zajadają solone migdały. A człowiek siedzi sobie ze swoją owcą, dwoma psami i pilnują warzyw, niekiedy popalając hasz ("lepiej mieć psa za przyjaciela niż przyjaciela za psa"). Wkrótce Kicia R. i Dziadek T. zostają namówieni na gościnę w jego rodzinie, a w podzięce wnoszą torbę cukierków, kilogram ryżu i kilogram cukru (ku uciesze wszystkich).
 
-The next day Kitty R. grabs the sun on her face and together with Grandpa T., they continue hitchhiking. The next driver, a professor of French literature, takes them to his place of work, a high school. There Kitty R. is surprised by a mixture of quotes from Bob Marley and the Koran put together on the school walls.
+Następnego dnia Kicia R. chwyta słońce na twarz i wraz z Dziadkiem T. łapią kolejnego stopa. Kierowca, profesor literatury francuskiej zabiera ich do liceum, gdzie Kicię powala mieszanka cytatów Boba Marleya i Koranu, na szkolnych murach. Profesor zaprasza ich na obiad do domu ("Wedle marokańskiej gościny jesteście Królową i Królem przez 3 dni w moim domu i nic nie robicie, a ja Wam służę. A po trzech dniach jesteście już mieszkańcami domu". Kuszeni pokusą 3 dniowego rządu, dziękują uprzejmie i yallah!
 
-‘’Now, for 3 days, you are the Queen and the King in my house and you do nothing but enjoy, and I serve you.  After three days you become a resident/member of the house" –says the professor. Tempted by the prospect of ruling for 3 days, Kitty R. and Grandpa T. thank him kindly and yallah!
+Wkrótce potem Kicia R. zauważa, że samochody na drodze co raz częściej są terenowe, przyroda niespodzianie ogranicza się do zagajników palm daktylowych, sama droga wkrótce się kończy...
 
-While back on the trail Kitty R. notes that cars are more and more often off road, nature is unexpectedly limited to coppices of date palm, and the road itself soon ends...
+I tu na końcu drogi, Kicia R. ma niebo na wyciągnięcie ręki, gwiazdozbiory blisko i jasno jak nigdy, i czuje, że odnalazła jeden z końców świata!
 
-And there, at the end of the road, Kitty R. has the sky within arm’s reach, the star constellations so close and as bright as ever, and that moment she feels that she has found one of the ends of the world! 
-
-This place is called Sahara.
+A to miejsce nazywa się Sahara.
