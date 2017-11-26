@@ -6,13 +6,12 @@ categories:
   - Rashidiya
   - hitch hiking
   - travels
-images:
 featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
+featuredpath: cloudinary
 tag: morocco1
 date: 2015-01-17T19:53:42.557Z
 type: post
 author: Kitty R.
-featuredpath: cloudinary
 featuredalt: Image hosted by Cloudinary
 ---
 Kitty R. and Grandpa T. are looking for the master of qwan ki do in Rashidia to get back (after 12 years) the violin of a kung fu master from Tetouan. The Master is not found, but a clue is caught, and a letter left.
@@ -21,7 +20,7 @@ The cold of the region can be found in the signs. Kitty R. and Grandpa T. contin
 
 The next day Kitty R. grabs the sun on her face and together with Grandpa T., they continue hitchhiking. The next driver, a professor of French literature, takes them to his place of work, a high school. There Kitty R. is surprised by a mixture of quotes from Bob Marley and the Koran put together on the school walls.
 
-‘’Now, for 3 days, you are the Queen and the King in my house and you do nothing but enjoy, and I serve you.  After three days you become a resident/member of the house" –says the professor. Tempted by the prospect of ruling for 3 days, Kitty R. and Grandpa T. thank him kindly and yallah!
+‘’Now, for 3 days, you are the Queen and the King in my house and you do nothing but enjoy, and I serve you.  After three days you become a resident/member of the house" –says the professor. Tempted by the prospect of ruling for 3 days, Kitty R. and Grandpa T. thank him kindly and yallah!.
 
 While back on the trail Kitty R. notes that cars are more and more often off road, nature is unexpectedly limited to coppices of date palm, and the road itself soon ends...
 
