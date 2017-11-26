@@ -107,13 +107,13 @@ DefaultContentLanguage = "en"
                 name = "About"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
-                weight = 3
+                weight = 4
 
             [[Languages.en.menu.main]]
                 name = "Categories"
                 url = "/categories/"
                 identifier = "fa fa-sitemap"
-                weight = 5
+                weight = 3 
 
             [[Languages.en.menu.main]]
                 name = "Contact"
@@ -139,17 +139,17 @@ DefaultContentLanguage = "en"
                 identifier = "fa fa-newspaper-o"
                 weight = 2  
 
-            [[Languages.en.menu.main]]
+            [[Languages.pl.menu.main]]
                 name = "O tej"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
-                weight = 3
+                weight = 4
 
             [[Languages.pl.menu.main]]
                 name = "Kategorie"
                 url = "/categories/"
                 identifier = "fa fa-sitemap"
-                weight = 5
+                weight = 3
 
             [[Languages.pl.menu.main]]
                 name = "Kontakt"
