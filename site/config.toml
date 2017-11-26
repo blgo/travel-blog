@@ -140,19 +140,19 @@ DefaultContentLanguage = "en"
                 weight = 2  
 
             [[Languages.en.menu.main]]
-                name = "About"
+                name = "O tej"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
                 weight = 3
 
             [[Languages.pl.menu.main]]
-                name = "Categories"
+                name = "Kategorie"
                 url = "/categories/"
                 identifier = "fa fa-sitemap"
                 weight = 5
 
             [[Languages.pl.menu.main]]
-                name = "Contact"
+                name = "Kontakt"
                 url = "/contact/"
                 identifier = "fa fa-envelope-o"
                 weight = 6
