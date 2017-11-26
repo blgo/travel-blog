@@ -1,8 +1,8 @@
 ---
-title: Classic.  PL
+title: 'Klasyka. '
 description: >-
-  A classic story about good people Kitty R. and Grandpa T. meet when they
-  travel.
+  Klasyczna historia o dobrych ludziach, których Kicia R. i Dziadek T. spotykają
+  na swej drodze.
 categories:
   - travels
   - Morocco
@@ -17,19 +17,14 @@ type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 ---
-Twilight. One minute to night.
+Zmierzch. Za minutę noc.
 
-Kitty R. and Grandpa T. stand next to the road to catch a ride to Rashidija.
+Kicia R. i Dziadek T. stają przy drodze, by złapać stopa do Ar-Raszidijji. Już po chwili staje przy nich kobieta z dzieckiem na plecach, a za plecami resztą rodziny (dwóch synów, jednego z nich żona i ich dziecko). Głośno i dobitnie kobieta mówi ("nie możecie tak tu"), potrząsa swoją piersią ("jesteście moimi dziećmi") i autorytarnie nakazuje ("najpierw zjecie, wyśpicie się i rano ruszycie dalej"). I tak Kicia R. i Dziadek T. trafiają do ogromnego domu, z jeszcze większą rodziną, drzewkiem cytrynowym w ogrodo-kuchni, rybkami na skraju (bez napowietrzacza w akwarium). Obowiązkowo myją stopy przed jedzeniem i oddają się błogości gościny. Kicia R. dowiaduje się co grozi za posiadanie noża w miejscu publicznym, co za picie alkoholu, a co za palenie haszu. Wtenczas tata rodu wraca do domu z pracy, natychmiast zostaje otulony kocem, dostaje baraninę ("wczoraj jeszcze beczącą") do przyprawienia ("bo nikt tak dobrze jak on nie potrafi") i długą fajeczkę do pykania. Mama rodu zawiązuje chustę na głowie Kici, by było jej najcieplej w czasie snu. 
 
-After a while, a woman appears and approaches them with a child on her back and the rest of the family behind her (two sons, the wife of one of the sons and another child). Loudly and emphatically she says (‘you can’t stand here like that’), grabs and shakes one of her breasts (‘you are my kids’) and commands (‘first you eat, then you sleep and in the morning you continue your travel’).
+\
+Pewien Berber wczoraj powiedział: dobrzy ludzie spotykają dobrych, źli złych.\
+A Kicia R, uwielbia podróż bez planu. Klasyka.
 
-And so Kitty R. and Grandpa T. end in a huge house with an even more huge family inside, a lemon tree in the kitchen-garden and fish on the verge of exhaustion (no aerator in the aquarium). They mandatorily wash their feet before dinner and give themselves in to the bliss of hospitality. Kitty R. finds out what the consequences are of walking with a knife in public, drinking alcohol or smoking hashish. The father of the family returns home, immediately gets covered with a blanket, gets the mutton (‘yesterday was a sheep’) for seasoning (‘no one does it as well as he does’) and a long smoking pipe. Mother ties a headscarf on Kitty’s head to keep her the warmest in bedtime.  
+Następnego dnia Kicia R. suszy włosy w słońcu, by kilka godzin później oddychać mroźnym powietrzem gór Atlasu. Widzi małpy w lesie, zapierające dech bezkresy i paletę barw Atlasu. To wszystko pokręca Kicię do reszty (fot.1), a Dziadek T. musi rozprostować kości (fot.2).
 
- The day before a Berber told us: good people meet good people, bad people meet bad people.
-
-And Kitty R. loves travelling without a plan. Classic.
-
- The following morning Kitty R. dries her hair in the warm sunshine, and only a few hours later she breathes in the frosty air of the Atlas Mountains. She sees monkeys in the forests playing in the snow, a breathless immensity of nothing and everything and a fabulous palette of Atlas colours. All that wrings her out completely (photo 1) and Grandpa T. needs to stretch his bones (photo 2)
-.
-
-\*(dialogues from Arabic translated by Grandpa T.)
+\*Dialogi z arabskiego tłumaczył Dziadek T.
