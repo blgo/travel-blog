@@ -10,7 +10,7 @@ pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "Kitty R. was created in 2015 during a hitch-hiking trip with Grandpa T. through Morocco. Before that time, she had already been traveling quite a lot; from Scandinavia to the Iberian Peninsula and Asia Minor. HTML5 UP theme, Future Imperfect, ported by Julio Pescador. Powered by Hugo"
+  description          = "Kitty R. was created in 2015 during a hitch-hiking trip with Grandpa T. through Morocco. Before that time, she had already been traveling quite a lot; from Scandinavia to the Iberian Peninsula and Asia Minor."
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Kitty R. Adventures"
   # Sets where "View More Posts" links
