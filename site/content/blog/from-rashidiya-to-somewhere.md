@@ -1,6 +1,8 @@
 ---
-title: From Rashidiya to somewhere
-description: From Rashidiya to somewhere
+title: From Ar-Raszidijja to somewhere....
+description: >-
+  Kitty R. and Grandpa T. meet a Man and His Sheep and have the stars within
+  arm's reach.
 categories:
   - Morocco
   - Rashidiya
