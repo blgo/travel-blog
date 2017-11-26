@@ -4,10 +4,10 @@ description: >-
   A classic story about good people Kitty R. and Grandpa T. meet when they
   travel.
 categories:
-  - travel
-  - morocco
+  - travels
+  - Morocco
   - Atlas mountains
-  - hitchhiking
+  - hitch hiking
   - blissful host
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
