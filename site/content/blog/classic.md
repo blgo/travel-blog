@@ -12,7 +12,7 @@ categories:
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
 tag: morocco2
-date: '1/15/2015 1:33 PM'
+date: '15/01/2015 1:33 PM'
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
@@ -29,6 +29,7 @@ And so Kitty R. and Grandpa T. end in a huge house with an even more huge family
 
 And Kitty R. loves travelling without a plan. Classic.
 
- The following morning Kitty R. dries her hair in the warm sunshine, and only a few hours later she breathes in the frosty air of the Atlas Mountains. She sees monkeys in the forests playing in the snow, a breathless immensity of nothing and everything and a fabulous palette of Atlas colours. All that wrings her out completely (photo 1) and Grandpa T. needs to stretch his bones (photo 2).
+ The following morning Kitty R. dries her hair in the warm sunshine, and only a few hours later she breathes in the frosty air of the Atlas Mountains. She sees monkeys in the forests playing in the snow, a breathless immensity of nothing and everything and a fabulous palette of Atlas colours. All that wrings her out completely (photo 1) and Grandpa T. needs to stretch his bones (photo 2)
+.
 
 \*(dialogues from Arabic translated by Grandpa T.)
