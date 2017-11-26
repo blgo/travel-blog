@@ -1,12 +1,12 @@
 +++
-title = "Kontact"
+title = "Kontakt"
 type = "contact"
 netlify  = false
 emailservice = "formspree.io/jblas1989@gmail.com"
-contactname = "Your name"
-contactemail = "Your Email"
-contactsubject = "Subject"
-contactmessage = "Your Message"
+contactname = "Twoje imię"
+contactemail = "Twój email"
+contactsubject = "Temat"
+contactmessage = "Twoja wiadomość"
 contactlang = "pl"
 contactanswertime = 24
 +++
