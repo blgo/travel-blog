@@ -140,7 +140,7 @@ DefaultContentLanguage = "en"
                 weight = 2  
 
             [[Languages.pl.menu.main]]
-                name = "O tej"
+                name = "O mnie"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
                 weight = 4
