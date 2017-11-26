@@ -1,6 +1,6 @@
 +++
 title = "O tej stronie"
-date = "2014-04-09"
+date = "2017-11-24"
 +++
 
 Kicia R. powstala w 2015 roku w trakcie kolejnej autostopowej podróży z Dziadkiem T. po
