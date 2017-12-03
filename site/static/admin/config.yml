@@ -20,5 +20,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
-      - {label: "author", name: "author", widget: "hidden", default: "Paula Woźniakowska"}
+      - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
