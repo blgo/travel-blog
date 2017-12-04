@@ -8,10 +8,14 @@
   other = "Zobacz więcej"
 [read_more]
   other = "Czytaj więcej"
+[destination]
+  other = "Przeznaczenie"
+[destinations]
+  other = "Przeznaczenie"
 [categories]
-  other = "Kategorie"
+  other = "Przeznaczenie"
 [category]
-  other = "Kategoria"
+  other = "Przeznaczenie"
 [uncategorized]
   other = "Bez kategorii"
 [share_post]
