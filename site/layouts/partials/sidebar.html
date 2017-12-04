@@ -76,25 +76,25 @@
   <!-- This if statement only applies if someone goes to the /categories url -->
   <!-- Otherwise this section is shown for all other links -->
   {{ if ne ($.Scratch.Get "showCategories") false }}
-  <!-- Categories List -->
+  <!-- Destinations List -->
     <section id="categories">
       <header>
         <h3>
-          <a href="/{{ .Site.Language.Lang }}/categories/">{{ i18n "categories" }}</a>
+          <a href="/{{ .Site.Language.Lang }}/destinations/">{{ i18n "destinations" }}</a>
         </h3>
       </header>
         {{ if .Site.Params.categoriesByCount }}
-          {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.ByCount }}
+          {{ $.Scratch.Set "destinations" .Site.Taxonomies.destinations.ByCount }}
         {{ else }}
-          {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.Alphabetical }}
+          {{ $.Scratch.Set "destinations" .Site.Taxonomies.destinations.Alphabetical }}
         {{ end }}
 
-        {{ range $key, $value := $.Scratch.Get "categories" }}
+        {{ range $key, $value := $.Scratch.Get "destinations" }}
         <p>
           <article>
             <header>
               {{ if ne $value.Name "" }}
-                <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | absLangURL }}/">{{ $value.Name }}</a>
+                <a href="{{ printf "%s/%s" "destinations" $value.Name | urlize | absLangURL }}/">{{ $value.Name }}</a>
                 <span style="float:right;">{{ $value.Count }}</span>
               {{ else }}
                 {{ i18n "uncategorized" }}

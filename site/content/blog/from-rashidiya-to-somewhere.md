@@ -3,11 +3,7 @@ title: From Ar-Raszidijja to somewhere....
 description: >-
   Kitty R. and Grandpa T. meet a Man and His Sheep and have the stars within
   arm's reach.
-categories:
-  - Morocco
-  - Rashidiya
-  - hitch hiking
-  - travels
+destinations: Morocco
 featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
 featuredpath: cloudinary
 tag: notag

@@ -3,12 +3,7 @@ title: 'Klasyka. '
 description: >-
   Klasyczna historia o dobrych ludziach, których Kicia R. i Dziadek T. spotykają
   na swej drodze.
-categories:
-  - travels
-  - Morocco
-  - Atlas mountains
-  - hitch hiking
-  - blissful host
+destinations: Morocco
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
 tag: morocco2
