@@ -8,7 +8,7 @@
   other = "Zobacz więcej"
 [read_more]
   other = "Czytaj więcej"
-[destination]
+[Destinations]
   other = "Przeznaczenie"
 [destinations]
   other = "Przeznaczenie"
@@ -38,3 +38,11 @@
    other = "Przejdź do strony głównej"
 [404_report]
    other = "Zgłoś problem"
+[blog]
+ other = "Blog"
+[contact]
+ other = "Kontakt"
+[Next_Page]
+ other = "Następna strona"
+[Previous_Page]
+ other = "Poprzednia strona"

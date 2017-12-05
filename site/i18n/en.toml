@@ -10,7 +10,7 @@
   other = "Read more"
 [destinations]
   other = "Destinations"
-[destination]
+[Destinations]
   other = "Destinations"
 [categories]
   other = "Destinations"
@@ -38,3 +38,11 @@
   other = "Go To Homepage"
 [404_report]
   other = "Report A Problem"
+[blog]
+ other = "Blog"
+[contact]
+ other = "Contact"
+[Next_Page]
+ other = "Next Page"
+[Previous_Page]
+ other = "Previous Page"
