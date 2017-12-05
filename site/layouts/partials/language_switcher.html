@@ -1,6 +1,6 @@
 {{ if gt (len .Site.Languages) 2 }}
   <li class="lang-switcher dropdown more-than-two-lang">  
-    <a class="active" href="{{ .Permalink }}" lang="{{ .Site.Language.Lang }}">
+    <a class="active" lang="{{ .Site.Language.Lang }}">
       <img src="/flags/{{ .Site.Language.Lang }}.png" alt="{{ .Site.Language.Lang }}">
     </a>
     <ul class="dropdown-menu">
@@ -24,7 +24,7 @@
   </li>
 {{ else }}
   <li class="lang-switcher dropdown two-lang">  
-    <a class="active" href="{{ .Permalink }}" lang="{{ .Site.Language.Lang }}">
+    <a class="active" lang="{{ .Site.Language.Lang }}">
       <img src="/flags/{{ .Site.Language.Lang }}.png" alt="{{ .Site.Language.Lang }}">
     </a>
     <ul class="dropdown-menu">
