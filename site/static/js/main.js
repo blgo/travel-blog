@@ -8,7 +8,7 @@
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
-		large:	'(max-width: 1280px)',
+		large:	'(max-width: 99999999px)',
 		medium:	'(max-width: 980px)',
 		small:	'(max-width: 736px)',
 		xsmall:	'(max-width: 480px)'
@@ -131,14 +131,13 @@
 			var $intro = $('#intro');
 
 			// Move to main on <=large, back to sidebar on >large.
-				// skel
-					// .on('+large', function() {
+				skel
+					.on('+large', function() {
 						$intro.prependTo($main);
-					// })
-					// .on('-large', function() {
-						// $intro.prependTo($sidebar);
-					// });
-			$sidebar.appendTo($main);
+					})
+					.on('-large', function() {
+						$intro.prependTo($sidebar);
+					});
 
 	});
 
