@@ -24,12 +24,8 @@ I tu na końcu drogi, Kicia R. ma niebo na wyciągnięcie ręki, gwiazdozbiory b
 
 A to miejsce nazywa się Sahara.
 
-<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/v1511379244/Morocco/10933839_10204653577716790_7352838927756802868_n_lc8stb.jpg">
-
-<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/v1511379210/Morocco/10580018_10204653576156751_3766423908479146450_n_1_x5dqeb.jpg">
-
-<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/v1511379208/Morocco/10922612_10204660658333801_5531533960657191398_n_d2kdgf.jpg">
-
-<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/v1511379208/Morocco/10942424_10204653566876519_8939063777415793244_n_zgpi2h.jpg">
-
-<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/v1511379207/Morocco/10896947_10204670169811582_6775778537811329013_n_kdddta.jpg">
+{{< fancybox "cloudinary" "Morocco/10933839_10204653577716790_7352838927756802868_n_lc8stb.jpg" "caption" "gallery" >}}
+{{< fancybox "cloudinary" "Morocco/10580018_10204653576156751_3766423908479146450_n_1_x5dqeb.jpg" "caption" "gallery" >}}
+{{< fancybox "cloudinary" "Morocco/10922612_10204660658333801_5531533960657191398_n_d2kdgf.jpg" "caption" "gallery" >}}
+{{< fancybox "cloudinary" "Morocco/10942424_10204653566876519_8939063777415793244_n_zgpi2h.jpg" "caption" "gallery" >}}
+{{< fancybox "cloudinary" "Morocco/10896947_10204670169811582_6775778537811329013_n_kdddta.jpg" "caption" "gallery" >}}
