@@ -17,7 +17,7 @@
       id: "facybox",
       label: "Cloudinary Fancybox",
 	    fields: [{name: 'public_id', label: 'Image filename'}, {name: 'caption', label: 'Caption'}],
-      pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)\.\S{3}"\s"(.*)"\s"(.*)"\s?>}}/,
+      pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)\.?\S{0,3}"\s"(.*)"\s"(.*)"\s?>}}/,
       fromBlock: function(match) {
         return {
           public_id: match[2],
