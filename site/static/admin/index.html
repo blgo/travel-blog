@@ -17,7 +17,7 @@
       id: "facybox",
       label: "Cloudinary Fancybox",
 	    fields: [{name: 'public_id', label: 'Image filename'}, {name: 'caption', label: 'Caption'}],
-      pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)\.?\S{0,3}"\s"(.*)"\s"(.*)"\s?>}}/,
+      pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)"\s"(.*)"\s"(.*)"\s?>}}/,
       fromBlock: function(match) {
         return {
           public_id: match[2],
@@ -25,11 +25,11 @@
         };
       },
       toBlock: function(obj) {
-        return '{{< fancybox "cloudinary" "' + obj.public_id + '.jpg" " ' + obj.caption + '" "gallery" >}}';
+        return '{{< fancybox "cloudinary" "' + obj.public_id + '" " ' + obj.caption + '" "gallery" >}}';
       },
       toPreview: function(obj) {
         return (
-		'<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/' + obj.public_id + '.jpg" alt="The link to the image is broken, check the filename"/> <div> ' + obj.caption  + ' </div>'
+		'<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/' + obj.public_id + '" alt="The link to the image is broken, check the filename"/> <div> ' + obj.caption  + ' </div>'
         );
       }
     }); 
