@@ -12,5 +12,46 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^0.7.6/dist/cms.js"></script>
+  <script>
+    CMS.registerEditorComponent({
+      id: "facybox",
+      label: "Cloudinary Fancybox",
+	    fields: [{name: 'public_id', label: 'Image filename'}, {name: 'caption', label: 'Caption'}],
+      pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)\.\S{3}"\s"(.*)"\s"(.*)"\s?>}}/,
+      fromBlock: function(match) {
+        return {
+          public_id: match[2],
+	  caption: match[3]
+        };
+      },
+      toBlock: function(obj) {
+        return '{{< fancybox "cloudinary" "' + obj.public_id + '.jpg" " ' + obj.caption + '" "gallery" >}}';
+      },
+      toPreview: function(obj) {
+        return (
+		'<img src="http://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/' + obj.public_id + '.jpg" alt="The link to the image is broken, check the filename"/> <div> ' + obj.caption  + ' </div>'
+        );
+      }
+    }); 
+    CMS.registerEditorComponent({
+      id: "youtube",
+      label: "Youtube",
+      fields: [{name: 'id', label: 'Youtube Video ID'}],
+      pattern: /^{{<\s?youtube (\S+)\s?>}}/,
+      fromBlock: function(match) {
+        return {
+          id: match[1]
+        };
+      },
+      toBlock: function(obj) {
+        return '{{< youtube ' + obj.id + ' >}}';
+      },
+      toPreview: function(obj) {
+        return (
+          '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+        );
+      }
+    });
+  </script>
 </body>
 </html>
