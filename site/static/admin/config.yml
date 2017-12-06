@@ -14,9 +14,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Description", name: "description", widget: "string", tagname: "h1"}
       - {label: "Country of destination", name: "destinations", widget: "string" }
-      - {label: "Image filename", name: "featured", widget: "string"}
-      - {label: "Images provider", name: "featuredpath", widget: "string", default: "cloudinary"}
-      - {label: "Images tag", name: "tag", widget: "string"}
+      - {label: "Heading - Image filename", name: "featured", widget: "string"}
+      - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
