@@ -19,7 +19,22 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+	{{ if and (isset .Params "featuredpath") (ne .Params.featuredpath "") }}
+	    {{ $.Scratch.Set "path" .Params.featuredpath }}
+
+	    {{ if and (isset .Params "featured") (ne .Params.featuredpath "") }}
+		{{ $.Scratch.Set "structType" "page" }}
+		{{ partial "img-path" . }}
+		{{ $path := $.Scratch.Get "path" }}
+		{{ $alt := $.Scratch.Get "alt" }}
+		{{ $img := $.Scratch.Get "img" }}
+		<meta property="og:image" content="{{ $path | relURL }}/{{ .Params.featured }}" />
+	    {{ end }}
+
+	{{ else }}
 	<meta property="og:image" content="https://github.com/blgo/travel-blog/raw/master/site/static/img/main/logo.jpg" />
+	
+	{{ end }}
 
         {{ .Hugo.Generator }}
         {{ partial "favicon" . }}
