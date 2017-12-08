@@ -19,23 +19,6 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	{{ if and (isset .Params "featuredpath") (ne .Params.featuredpath "") }}
-	    {{ $.Scratch.Set "path" .Params.featuredpath }}
-
-	    {{ if and (isset .Params "featured") (ne .Params.featuredpath "") }}
-		{{ $.Scratch.Set "structType" "page" }}
-		{{ partial "img-path" . }}
-		{{ $path := $.Scratch.Get "path" }}
-		{{ $alt := $.Scratch.Get "alt" }}
-		{{ $img := $.Scratch.Get "img" }}
-		<meta property="og:image" content="{{ $path | relURL }}/{{ .Params.featured }}" />
-	    {{ end }}
-
-	{{ else }}
-	<meta property="og:image" content="https://github.com/blgo/travel-blog/raw/master/site/static/img/main/logo.jpg" />
-	
-	{{ end }}
-
         {{ .Hugo.Generator }}
         {{ partial "favicon" . }}
 
@@ -52,6 +35,26 @@
 
         {{ template "_internal/twitter_cards.html" . }}
         {{ template "_internal/opengraph.html" . }}
+
+	<!-- Extend opengraph meta properties: Specify post image for sharing on facebook. If none are specified fallback to website logo -->
+
+	{{ if and (isset .Params "featuredpath") (ne .Params.featuredpath "") }}
+	    {{ $.Scratch.Set "path" .Params.featuredpath }}
+
+	    {{ if and (isset .Params "featured") (ne .Params.featuredpath "") }}
+		{{ $.Scratch.Set "structType" "page" }}
+		{{ partial "img-path" . }}
+		{{ $path := $.Scratch.Get "path" }}
+
+	<meta property="og:image" content="{{ $path | relURL }}/{{ .Params.featured }}" />
+	    {{ end }}
+
+	{{ else }}
+	<meta property="og:image" content="/img/main/logo.jpg" />
+	
+	{{ end }}
+
+
         {{ template "_internal/schema.html" . }}
         {{ template "_internal/google_news.html" . }}
 
