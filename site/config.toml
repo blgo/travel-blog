@@ -205,6 +205,4 @@ DefaultContentLanguage = "en"
   email           = ""
 
 [taxonomies]
-  tag = "tags"
   category = "destinations"
-  series = "series"
