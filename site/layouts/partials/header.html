@@ -54,6 +54,8 @@
 	
 	{{ end }}
 
+	<meta property="og:locale" content="{{ .Site.Language.Lang }}" />
+
 
         {{ template "_internal/schema.html" . }}
         {{ template "_internal/google_news.html" . }}
