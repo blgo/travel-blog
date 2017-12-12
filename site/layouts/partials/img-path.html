@@ -10,6 +10,7 @@
      otherwise use the explicit path provided by the user
 -->
 {{ $path := $.Scratch.Get "path" }}
+{{ $featuredpath := $.Scratch.Get "path" }}
 {{ $alt := $.Scratch.Get "featuredalt" }}
 {{ $img := $.Scratch.Get "featured" }}
 {{ $structType := $.Scratch.Get "structType" }}
@@ -29,7 +30,7 @@
         {{ $.Scratch.Add "path" (.Date.Format "2006/01") }}
     {{ end }}
 {{ else if eq $path "cloudinary" }}
-    {{ $.Scratch.Set "path" "https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,q_auto:eco,w_1200/" }}
+    {{ $.Scratch.Set "path" "https://res.cloudinary.com/dkdpqgjhi/image/upload/w_auto" }}
 {{ else }}
     {{ $.Scratch.Set "path" $path }}
 {{ end }}
