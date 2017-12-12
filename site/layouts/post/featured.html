@@ -1,0 +1,24 @@
+{{ if and (isset .Params "featuredpath") (ne .Params.featuredpath "") }}
+    {{ $.Scratch.Set "path" .Params.featuredpath }}
+
+    {{ if and (isset .Params "featured") (ne .Params.featuredpath "") }}
+        {{ $.Scratch.Set "structType" "page" }}
+        {{ partial "img-path" . }}
+        {{ $path := $.Scratch.Get "path" }}
+        {{ $alt := $.Scratch.Get "alt" }}
+        {{ $img := $.Scratch.Get "img" }}
+
+	{{ if (ne $.Params.featuredpath "cloudinary") }}
+
+        <a href="{{ .RelPermalink }}" class="image featured">
+            <img src="{{ $path | relURL }}/{{ .Params.featured }}" 
+	    	alt="{{ $alt }}">
+        </a>
+	{{ else }}
+        <a href="{{ .RelPermalink }}" class="image featured">
+            <img data-src="{{ $path | relURL }}/{{ .Params.featured }}" 
+	    	alt="{{ $alt }}" class="cld-responsive">
+        </a>
+	{{ end }}
+    {{ end }}
+{{ end }}

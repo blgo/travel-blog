@@ -50,10 +50,27 @@
     {{ $file := $.Scratch.Get "file" }}
     {{ $caption  := $.Scratch.Get "caption" }}
     {{ $gallery := $.Scratch.Get "gallery" }}
+    {{ $imgprovider := $.Scratch.Get "featuredpath" }}
 
+
+
+{{ if ne $imgprovider "cloudinary" }}
     <div class="fancybox" align="center">
-      <a data-fancybox="{{ $gallery }}" href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}"><img src="{{ $path }}/{{ $file }}"></a>
+      <a data-fancybox="{{ $gallery }}" 
+        href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}">
+      <img data-src="{{ $path }}/{{ $file }}" class="cld-responsive"></a>
       <p><div class="caption">{{ $caption }}</div></p>
     </div>
+    {{ else }}
+
+    <div class="fancybox" align="center">
+      <a data-fancybox="{{ $gallery }}" 
+        href="{{ $path }}/{{ $file }}" data-caption="{{ $caption }}">
+    <img src="{{ $path }}/{{ $file }}"></a>
+      <p><div class="caption">{{ $caption }}</div></p>
+</div>
+
+	{{ end }}
+
   {{ end }}
 {{ end }}
