@@ -1,34 +1,34 @@
-title	description	destinations	featured	featuredpath	tag	date	type	author	featuredalt
-W gaju palm daktylowych.
-A classic story about good people Kitty R. and Grandpa T. meet when they travel.
-Morocco
-386526_2562951310509_1220752190_n_twrqk9.jpg
-cloudinary
-morocco2
-2015-01-15 19:53:42 UTC
-post
-Kitty R.
-Image hosted by Cloudinary
-Twilight. One minute to night.
+---
+title: W gaju palm daktylowych.
+description: >-
+  Kicia R. i Dziadek T. śpią na dziko, a rano zaliczają szalony przejazd przez
+  Atlas Wysoki. 
+destinations: Morocco
+featured: title_photo_lbv6di.jpg
+date: 2015-01-23T00:00:00+00:00
+---
+Kicia Rożek i Dziadek T. śpią na dziko, w gaju palm daktylowych. Kicia Rożek bardzo boi się mutantycznych, afrykańskich mrówek nadchodzących zewsząd. Dzielnie podgrzewa mleko na ognisku i patrząc w saharyjskie gwiazdozbiory ostatecznie błogo zasypia. 
 
-Kitty R. and Grandpa T. stand next to the road to catch a ride to Rashidija.
+Poranne kilo mandarynek i jajówa zmieniają kierunek podróży o 180 stopni (przejście na drugą stronę drogi). Już po chwili pędzą z kierowcą perełką (Kicia w ogóle wpada totalnie w twardość i błysk oczu pustynnych Berberów). Kierowca twierdzi, że jest elektrykiem, ale dla Kici Rożek jest mistrzem rajdowym. Szalony przejazd przez Atlas Wysoki, nadaje Kici Rożek królicze tempo bicia serca, kilkukrotną śmierć w oczach i bezgraniczną radość w sercu. Na wysokości 2160m przypomina sobie o zimie (rzuca nawet Dziadka T. śnieżką), a następnie psuje jej się wzrok, góry ktoś ewidentnie pomalował pastelami (?!). 
 
-After a while, a woman appears and approaches them with a child on her back and the rest of the family behind her (two sons, the wife of one of the sons and another child). Loudly and emphatically she says (‘you can’t stand here like that’), grabs and shakes one of her breasts (‘you are my kids’) and commands (‘first you eat, then you sleep and in the morning you continue your travel’).
+Ostatni kierowca tego dnia wciska im hajs i hasz. Witamy Marakesh.
 
-And so Kitty R. and Grandpa T. end in a huge house with an even more huge family inside, a lemon tree in the kitchen-garden and fish on the verge of exhaustion (no aerator in the aquarium). They mandatorily wash their feet before dinner and give themselves in to the bliss of hospitality. Kitty R. finds out what the consequences are of walking with a knife in public, drinking alcohol or smoking hashish. The father of the family returns home, immediately gets covered with a blanket, gets the mutton (‘yesterday was a sheep’) for seasoning (‘no one does it as well as he does’) and a long smoking pipe. Mother ties a headscarf on Kitty’s head to keep her the warmest in bedtime.  
+\- Dziadku T., ale zajebiście było!
 
- The day before a Berber told us: good people meet good people, bad people meet bad people.
+\- Kiedy Kiciu?
 
-And Kitty R. loves travelling without a plan. Classic.
+\- Teraz Dziadku! Już wspominam...
 
- The following morning Kitty R. dries her hair in the warm sunshine, and only a few hours later she breathes in the frosty air of the Atlas Mountains. She sees monkeys in the forests playing in the snow, a breathless immensity of nothing and everything and a fabulous palette of Atlas colours. All that wrings her out completely (photo 1) and Grandpa T. needs to stretch his bones (photo 2) .
 
-*(dialogues from Arabic translated by Grandpa T.)
 
-{{< fancybox "cloudinary" "1_1782162_10204633926225515_2774856572369525421_n_1_hhf3rj.jpg" " " "gallery" >}}
+P.s. Kicia Rożek tęskni za lustrzanką. Zdjęcia z telefonu to nie ta bajka.
 
-{{< fancybox "cloudinary" "2_10264709_10204633926945533_6851904599870030670_n_suucxw.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "2_h6xe6n.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "10888542_10204660669574082_6784075800251099038_n_fbjfb1.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "1_jtulnk.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_15922_10204660670174097_4927097105764048736_n_er9mhy.jpg" " " "gallery" >}}
+{{< fancybox "cloudinary" "6_vn7qqx.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_iyrjkl.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_i6r0eq.jpg" " undefined" "gallery" >}}
