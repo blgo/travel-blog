@@ -202,7 +202,7 @@ DefaultContentLanguage = "en"
   telegram        = ""
   vine            = ""
   # Email
-  email           = ""
+  email           = "kittyrtravels@gmail.com"
 
 [taxonomies]
   destination = "destinations"

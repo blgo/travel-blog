@@ -2,7 +2,7 @@
 title = "Contact"
 type = "contact"
 netlify = false
-emailservice = "formspree.io/jblas1989@gmail.com"
+emailservice = "formspree.io/kittyrtravels@gmail.com"
 contactname = "Your name"
 contactemail = "Your Email"
 contactsubject = "Subject"
