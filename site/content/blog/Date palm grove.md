@@ -1,7 +1,7 @@
 ---
 title: 'Date palm grove. '
 description: >-
-  Kitty R. and Grandpa T. sleep in date palm grove and next day they experience
+  Kitty R. and Grandpa T. sleep in a date palm grove and the next day they experience
   crazy ride through Atlas Mountains.
 destinations: Morocco
 featured: title_photo_eytwyf.jpg
