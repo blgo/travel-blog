@@ -28,12 +28,12 @@ Ostatni kierowca tego dnia wciska im hajs i hasz. Witamy Marakesh.
 
 P.s. Kicia Rożek tęskni za lustrzanką. Zdjęcia z telefonu to nie ta bajka.
 
-{{< fancybox "cloudinary" "2_h6xe6n.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "2_h6xe6n.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "1_jtulnk.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "1_jtulnk.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_vn7qqx.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_vn7qqx.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "7_iyrjkl.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7_iyrjkl.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_i6r0eq.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_i6r0eq.jpg" " " "gallery" >}}

@@ -33,12 +33,12 @@ The last driver of that day gives them cash and hash. Welcome to Marrakesh.
 
  
 
-{{< fancybox "cloudinary" "1_tkvyjq.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "1_tkvyjq.jpg" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "2_mztsmu.jpg" " Atlas" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_olmgev.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_olmgev.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "7_guhgaj.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7_guhgaj.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_xwxhea.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_xwxhea.jpg" " " "gallery" >}}
