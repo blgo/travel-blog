@@ -29,7 +29,7 @@
         {{ $.Scratch.Add "path" (.Date.Format "2006/01") }}
     {{ end }}
 {{ else if eq $path "cloudinary" }}
-    {{ $.Scratch.Set "path" "https://res.cloudinary.com/dkdpqgjhi/image/upload" }}
+    {{ $.Scratch.Set "path" "https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,q_auto:eco,w_1200/" }}
 {{ else }}
     {{ $.Scratch.Set "path" $path }}
 {{ end }}
