@@ -2,23 +2,68 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "site/static/img/" # Folder where user uploaded files should go
-public_folder: "img/"
+media_folder: "site/static/img/"
+display_url: https://www.kittyr.com
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
+  - name: "enblog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "English post" # Used in the UI, ie.: "New Post"
     folder: "site/content/blog" # The path to the folder where the documents are stored
+    filter:
+      field: language
+      value: en
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Description", name: "description", widget: "string", tagname: "h1"}
-      - {label: "Country of destination", name: "destinations", widget: "string" }
-      - {label: "Heading - Image filename", name: "featured", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
+      - {label: "Country of destination", name: "destinations", widget: "string" , required: true}
+      - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
       - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
       - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
+      - {label: "Language", name: "language", widget: "hidden", default: "pl"}
+  - name: "plblog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Polish post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/blog" # The path to the folder where the documents are stored
+    filter:
+      field: language
+      value: pl
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}.pl"
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
+      - {label: "Country of destination", name: "destinations", widget: "string" , required: true}
+      - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
+      - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "type", name: "type", widget: "hidden", default: "post"}
+      - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
+      - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
+      - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
+      - {label: "Language", name: "language", widget: "hidden", default: "pl"}
+  - label: "About Pages"
+    name: "pages"
+    files:
+    - name: "enabout" 
+      label: "English About page"
+      file: "site/content/about/_index.md"
+      description: "About page in English"
+      fields:
+        - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+        - {label: "Body", name: "body", widget: "markdown", required: false}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+    - name: "plabout" 
+      label: "Polish About page"
+      file: "site/content/about/_index.pl.md"
+      description: "About page in Polish"
+      fields:
+        - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+        - {label: "Body", name: "body", widget: "markdown", required: false}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
