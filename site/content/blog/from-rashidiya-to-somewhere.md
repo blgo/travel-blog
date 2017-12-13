@@ -10,6 +10,7 @@ date: 2015-01-17T19:53:42.557Z
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
+language: en
 ---
 Kitty R. and Grandpa T. are looking for the master of qwan ki do in Rashidia to get back (after 12 years) the violin of a kung fu master from Tetouan. The Master is not found, but a clue is caught, and a letter left.
 

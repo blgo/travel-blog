@@ -10,6 +10,7 @@ date: 2015-01-17T19:53:42.557Z
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
+language: pl
 ---
 Kicia R. i Dziadek T. poszukują mistrza quankido w Rashidiji, by po 12 latach latach odebrać skrzypce mistrza kung fu z Tetouanu. Mistrz nie odnaleziony, ale trop złapany, a list pozostawiony.
 

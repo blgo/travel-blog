@@ -10,6 +10,7 @@ featuredalt: "Image hosted by Cloudinary"
 type: post
 author: Kitty R.
 date: 2015-01-23T00:00:00+00:00
+language: pl
 ---
 Kicia Rożek i Dziadek T. śpią na dziko, w gaju palm daktylowych. Kicia Rożek bardzo boi się mutantycznych, afrykańskich mrówek nadchodzących zewsząd. Dzielnie podgrzewa mleko na ognisku i patrząc w saharyjskie gwiazdozbiory ostatecznie błogo zasypia. 
 

@@ -10,6 +10,7 @@ featuredalt: "Image hosted by Cloudinary"
 type: post
 author: Kitty R.
 date: 2015-01-23T00:00:00+00:00
+language: en
 ---
 Kitty R. and Grandpa T. sleep in the wild, in the middle of a date palm grove. Kitty R. is significantly afraid of the giant African ants coming everywhere from nowhere. Nevertheless she bravely heats up the milk on the fire and soon after she blissfully falls asleep while looking into Saharian constellations…
 
