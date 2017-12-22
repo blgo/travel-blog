@@ -8,7 +8,7 @@ date: 2017-12-22T20:36:41.551Z
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
-language: pl
+language: en
 ---
 Kitty R. and Grandpa T. hitch hike pleasantly from Marakesh to Essaouira. The driver offers them delicious bread made by his mum and a place to sleep in his car when the night comes, but Kitty R. and Grandpa T. have other plans. By sunrise they reach Essaouira, where they treat themselves with an awesome mix of fried no-name fishes. They share their food with some street cats, which eat given snips in a lazy and unwillingly way (in this town such a fishy treat must be an _overboard_ for everyone).
 
