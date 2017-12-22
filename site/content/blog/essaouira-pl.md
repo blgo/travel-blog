@@ -22,20 +22,16 @@ W nocy Kicia R. śni, że ma za zadanie oddzielić Ziemię od Nieba. Boski sen.
 
 P.s. W ciągu kolejnych dni Kicia R. i Dziadek T. nie są już zupełnie sami. Okazuje się, że mieszka z nimi pustynny gekon, jedna mysz i trzy dzikie psy. Razem tworzą spoko stadko!
 
+{{< fancybox "cloudinary" "3_digvs7.jpg" "  kot sprzedawca" "gallery" >}}
 
+{{< fancybox "cloudinary" "4_lifrtv.jpg" "  mięso i oliwki" "gallery" >}}
 
+{{< fancybox "cloudinary" "5_qo9vm1.jpg" "  Jessica i Dziadek T." "gallery" >}}
 
+{{< fancybox "cloudinary" "6_jmphuv.jpg" "  Kicia R." "gallery" >}}
 
-{{< fancybox "cloudinary" "3_digvs7.jpg" " kot sprzedawca" "gallery" >}}
+{{< fancybox "cloudinary" "8_ge8beg.jpg" "  Dziadek T., Biała Suka i ich kamienna izdebka" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_lifrtv.jpg" " mięso i oliwki" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7923_uw7u47.jpg" "  pustynne pieskie życie" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_qo9vm1.jpg" " Jessica i Dziadek T." "gallery" >}}
-
-{{< fancybox "cloudinary" "6_jmphuv.jpg" " Kicia R." "gallery" >}}
-
-{{< fancybox "cloudinary" "8_ge8beg.jpg" " Dziadek T., Biała Suka i ich kamienna izdebka" "gallery" >}}
-
-{{< fancybox "cloudinary" "DSCF7923_uw7u47.jpg" " pustynne pieskie życie" "gallery" >}}
-
-{{< fancybox "cloudinary" "DSCF7910_enhrsx.jpg" " bardzo nieśmiały gekon" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7910_enhrsx.jpg" "  bardzo nieśmiały gekon" "gallery" >}}
