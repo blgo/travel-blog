@@ -27,7 +27,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
       - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
-      - {label: "Language", name: "language", widget: "hidden", default: "pl"}
+      - {label: "Language", name: "language", widget: "hidden", default: "en"}
   - name: "plblog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Polish post" # Used in the UI, ie.: "New Post"
     folder: "site/content/blog" # The path to the folder where the documents are stored
