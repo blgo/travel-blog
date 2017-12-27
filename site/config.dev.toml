@@ -1,5 +1,4 @@
 baseurl = "/"
-languageCode = "en-uk"
 title = "Kitty R. around the world"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
@@ -70,7 +69,7 @@ pluralizeListTitles = false
   [params.intro.pic]
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = true
+    circle    = false 
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = ""
@@ -81,7 +80,7 @@ pluralizeListTitles = false
     sidebar = 5
 
 # Sets the default language for multilanguage use.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "en-uk"
 
 [Languages]
     [Languages.en]
@@ -107,6 +106,7 @@ DefaultContentLanguage = "en"
                 name = "About"
                 url = "/about/"
                 identifier = "fa fa-id-card-o"
+languageCode = "en-uk"
                 weight = 4
 
             [[Languages.en.menu.main]]
