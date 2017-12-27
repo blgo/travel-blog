@@ -1,5 +1,4 @@
 baseurl = "https://www.kittyr.com/"
-languageCode = "en-uk"
 title = "Kitty R. around the world"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
@@ -70,7 +69,7 @@ pluralizeListTitles = false
   [params.intro.pic]
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = ""
@@ -85,6 +84,7 @@ DefaultContentLanguage = "en"
 
 [Languages]
     [Languages.en]
+	languageCode = "en-GB"
         LanguageName = "English"
         weight = 1
         
@@ -122,6 +122,7 @@ DefaultContentLanguage = "en"
                 weight = 6
 
     [Languages.pl]
+	languageCode = "pl"
         LanguageName = "Polskie"
         title = "Kicia R na całym świecie"
         description = "Kicia R. powstala w 2015 roku w trakcie kolejnej autostopowej podróży z Dziadkiem T. po Maroku. Kicia R. podróżowała całkiem sporo jeszcze nim powstała... od Skandynawii po Polwysep Iberyjski czy też Azję Mniejszą. Z plecakiem, stopem, śpiąc gdziekolwiek. Teraz rusza dalej w świat I postanowiła podzielić się swoimi małymi przygodami."
