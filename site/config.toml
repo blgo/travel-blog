@@ -194,7 +194,7 @@ DefaultContentLanguage = "en"
     # WeChat and QQ need testing.
     wechat          = ""
     qq              = "" # User ID Number
-  instagram       = ""
+  instagram       = "kicia_r_superstar"
   tumblr          = ""
   twitter         = ""
   skype           = ""
