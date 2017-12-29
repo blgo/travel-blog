@@ -48,10 +48,9 @@
 
 	<meta property="og:image" content="{{ $path | relURL }}/{{ .Params.featured }}" />
 	    {{ end }}
+    	{{ else }}
+	<meta property="og:image" content="https://www.kittyr.com/img/main/logo.jpg" />
 
-	{{ else }}
-	<meta property="og:image" content="/img/main/logo.jpg" />
-	
 	{{ end }}
 
 	<meta property="og:locale" content="{{ .Site.Language.Lang }}" />
