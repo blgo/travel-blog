@@ -2580,6 +2580,11 @@
 		    border-radius: 50%;
 		}
 
+		#intro .image-link {
+			border: 0 none;
+		    text-decoration: none;
+		}
+
 		#intro .logo {
 			border-bottom: 0;
 			display: inline-block;
