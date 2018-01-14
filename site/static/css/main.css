@@ -804,6 +804,7 @@
 		.image.featured {
 			display: block;
 			margin: 0 0 3em 0;
+			max-height: 41em;
 			width: 100%;
 		}
 
@@ -1175,6 +1176,7 @@
 		.mini-post .image {
 			overflow: hidden;
 			width: 100%;
+			max-height: 11em;
 		}
 
 			.mini-post .image img {
@@ -2110,8 +2112,10 @@
 
   .fancybox {
     max-width: 85%;
-    width: fit-content;
-    /* padding: .5em; */
+	width: fit-content;
+	max-height: 40em;
+	overflow: hidden;
+    padding: .5em;
     /* background: #ddd; */
     margin: auto;
   }
