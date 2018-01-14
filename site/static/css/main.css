@@ -1174,6 +1174,7 @@
 
 		.mini-post .image {
 			overflow: hidden;
+			max-height: 11em;
 			width: 100%;
 		}
 
