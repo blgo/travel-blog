@@ -77,7 +77,7 @@ pluralizeListTitles = false
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 4
 
 # Sets the default language for multilanguage use.
 DefaultContentLanguage = "en"

@@ -2,7 +2,7 @@
 title: Bangkok
 description: 'Kitty R. lands in Southeast Asia. For the first time. With one way ticket. '
 destinations: Thailand
-featured: title_wblgud.jpg
+featured: v1515893239/title_wblgud.jpg
 featuredpath: cloudinary
 date: 2018-01-13T11:52:15.812Z
 type: post
