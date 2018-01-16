@@ -10,7 +10,7 @@
       {{ else if $pic.imperfect }}
         <a href='{{"/" | relURL}}' class="logo"><img src="{{ . | relURL }}" alt="{{ $pic.alt }}" /></a>
       {{ else }}
-        <a href='{{"/" | relURL}}' class="image-link"><img src="{{ . | relURL }}" width="250" height="250" alt="{{ $pic.alt }}" /></a>
+        <a href='{{"/" | relURL}}' class="image-link"><img src="{{ . | relURL }}" width="200" height="200" alt="{{ $pic.alt }}" /></a>
       {{ end }}
     {{ end }}
     {{ with .Site.Params.intro }}
