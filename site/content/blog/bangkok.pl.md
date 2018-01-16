@@ -2,7 +2,7 @@
 title: Bangkok
 description: 'Kicia R. leci do Azji. Z biletem w jedną stronę. '
 destinations: Tajlandia
-featured: title_ceni8p.jpg
+featured: title_wblgud.jpg
 featuredpath: cloudinary
 date: 2018-01-13T12:09:17.334Z
 type: post
@@ -20,18 +20,18 @@ Po północy, otoczeni moskitierą Kicia R. i Sir Last zasypiają. Śpią 11 god
 
 Tego dnia Kicia R. próbuje zupy, która jest ostra sama w sobie, ale potem myli pływającą w niej zieloną mini papryczkę z liściem. Wtedy nie tylko płacze, smarcze i skacze, ale pierwszy raz prawie wymiotuje przez piekło na języku i w gardle. Witamy w Tajlandii. Jest cudnie!
 
-{{< fancybox "cloudinary" "1Bangkok_pwbbct.jpg" "   Bangkok" "gallery" >}}
+{{< fancybox "cloudinary" "1Bangkok_pwbbct.jpg" "     Bangkok" "gallery" >}}
 
-{{< fancybox "cloudinary" "2ChaoPhraya_River_a4kyhz.jpg" "   Rzeka  Chao Praya" "gallery" >}}
+{{< fancybox "cloudinary" "2ChaoPhraya_River_a4kyhz.jpg" "     Rzeka  Chao Praya" "gallery" >}}
 
-{{< fancybox "cloudinary" "3Rich_and_poor_lpu0xm.jpg" "   Biedni i bogaci" "gallery" >}}
+{{< fancybox "cloudinary" "3Rich_and_poor_lpu0xm.jpg" "     Biedni i bogaci" "gallery" >}}
 
-{{< fancybox "cloudinary" "4WatPho_cpztjp.jpg" "   Wat Pho" "gallery" >}}
+{{< fancybox "cloudinary" "4WatPho_cpztjp.jpg" "     Wat Pho" "gallery" >}}
 
-{{< fancybox "cloudinary" "5After_six_hours_of_rain_ywua0r.jpg" "   Po tropikalnej burzy" "gallery" >}}
+{{< fancybox "cloudinary" "5After_six_hours_of_rain_ywua0r.jpg" "     Po tropikalnej burzy" "gallery" >}}
 
-{{< fancybox "cloudinary" "6shrine_on_the_car_krph4w.jpg" "   Mała kapliczka na samochodzie" "gallery" >}}
+{{< fancybox "cloudinary" "6shrine_on_the_car_krph4w.jpg" "     Mała kapliczka na samochodzie" "gallery" >}}
 
-{{< fancybox "cloudinary" "7Two_sides_rz4mnk.jpg" "   Po dwóch stronach" "gallery" >}}
+{{< fancybox "cloudinary" "7Two_sides_rz4mnk.jpg" "     Po dwóch stronach" "gallery" >}}
 
-{{< fancybox "cloudinary" "10Chao_Phraya_River_lwh848.jpg" "   Chao Praya, czyli płyną do centrum" "gallery" >}}
+{{< fancybox "cloudinary" "10Chao_Phraya_River_lwh848.jpg" "     Chao Praya, czyli płyną do centrum" "gallery" >}}
