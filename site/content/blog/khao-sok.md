@@ -64,4 +64,10 @@ Kitty R. and Sir Last move further south. To an island. But that’s another sto
 
 
 
-{{< fancybox "cloudinary" "11a_fw9lvw.jpg" " Kitty R. eating beans from the tin. " "gallery" >}}
+{{< fancybox "cloudinary" "11a_fw9lvw.jpg" " Kitty R. eats beans from the tin. " "gallery" >}}
+
+{{< fancybox "cloudinary" "13_lvorsz.jpg" " Caterpillar." "gallery" >}}
+
+{{< fancybox "cloudinary" "14cicada_horn_elephant_xoua5a.jpg" " Cicada horn elephant." "gallery" >}}
+
+{{< fancybox "cloudinary" "15Crab-eating_macaque_hpuydg.jpg" " Crab-eating macaque." "gallery" >}}
