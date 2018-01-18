@@ -42,12 +42,16 @@ Kicia R. i Sir Last ruszają dalej na południe. Na wyspę. Ale o tym następnym
 
 \*nieatrakcyjni- nie kuszą ich atrakcje
 
+{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" "  The jungle. Khao Sok National Park." "gallery" >}}
 
+{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" "  Crab-eating macaque. Probably. " "gallery" >}}
 
-{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" " The jungle. Khao Sok National Park." "gallery" >}}
+{{< fancybox "cloudinary" "4Langur_zeoxr1.jpg" "  Langur." "gallery" >}}
 
-{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" " Crab-eating macaque. Probably. " "gallery" >}}
+{{< fancybox "cloudinary" "5lizardinthejungle_gxu6xq.jpg" " Lizard" "gallery" >}}
 
+{{< fancybox "cloudinary" "6Butterfly_shadow_srmapi.jpg" " Shadow play." "gallery" >}}
 
+{{< fancybox "cloudinary" "8_e0ox1g.jpg" " Fairy tail butterflies" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Langur_zeoxr1.jpg" " Langur." "gallery" >}}
+{{< fancybox "cloudinary" "9Cheo_Larn_ebbgps.jpg" " Cheo Larn Lake" "gallery" >}}
