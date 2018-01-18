@@ -40,36 +40,30 @@ Zdaje się, że zwierzęta mają wybór, mogą schować się w pozostałych 170k
 
 Kicia R. i Sir Last ruszają dalej na południe. Na wyspę. Ale o tym następnym razem.. 
 
-
-
-
-
 \*nieatrakcyjni- nie kuszą ich atrakcje
 
-{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" "  Las deszczowy, dżungla. Narodowy Park Khao Sok." "gallery" >}}
+{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" "    Las deszczowy, dżungla. Narodowy Park Khao Sok." "gallery" >}}
 
-{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" " Makak krabożerny. Prawdopodobnie." "gallery" >}}
+{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" "   Makak krabożerny. Prawdopodobnie." "gallery" >}}
 
-{{< fancybox "cloudinary" "4Langur_zeoxr1.jpg" "  Langur." "gallery" >}}
+{{< fancybox "cloudinary" "4Langur_zeoxr1.jpg" "    Langur." "gallery" >}}
 
-{{< fancybox "cloudinary" "5lizardinthejungle_gxu6xq.jpg" " Jaszczur." "gallery" >}}
+{{< fancybox "cloudinary" "5lizardinthejungle_gxu6xq.jpg" "   Jaszczur." "gallery" >}}
 
-{{< fancybox "cloudinary" "6Butterfly_shadow_srmapi.jpg" " Cienie." "gallery" >}}
+{{< fancybox "cloudinary" "6Butterfly_shadow_srmapi.jpg" "   Cienie." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_e0ox1g.jpg" " Baśniowe motyle." "gallery" >}}
+{{< fancybox "cloudinary" "8_e0ox1g.jpg" "   Baśniowe motyle." "gallery" >}}
 
+{{< fancybox "cloudinary" "9Cheo_Larn_ebbgps.jpg" "   Jezioro Cheow Lan." "gallery" >}}
 
+{{< fancybox "cloudinary" "10Cheo_Larn_Lake_xolqek.jpg" "   Jezioro Cheow Lan." "gallery" >}}
 
-{{< fancybox "cloudinary" "9Cheo_Larn_ebbgps.jpg" " Jezioro Cheow Lan." "gallery" >}}
+{{< fancybox "cloudinary" "11_d3ve3y.jpg" "   Jezioro Cheow Lan. " "gallery" >}}
 
-{{< fancybox "cloudinary" "10Cheo_Larn_Lake_xolqek.jpg" " Jezioro Cheow Lan." "gallery" >}}
+{{< fancybox "cloudinary" "11a_prmzbx.jpg" "   Kicia R. je fasolkę z puszki. W sosie pomidorowym. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_d3ve3y.jpg" " Jezioro Cheow Lan. " "gallery" >}}
+{{< fancybox "cloudinary" "13_kjjluo.jpg" "   Gąsienica. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_prmzbx.jpg" " Kicia R. je fasolkę z puszki. W sosie pomidorowym. " "gallery" >}}
+{{< fancybox "cloudinary" "14cicada_horn_elephant_srrj0y.jpg" "   Cyk Cyk Cykada. " "gallery" >}}
 
-{{< fancybox "cloudinary" "13_kjjluo.jpg" " Gąsienica. " "gallery" >}}
-
-{{< fancybox "cloudinary" "14cicada_horn_elephant_srrj0y.jpg" " Cyk Cyk Cykada. " "gallery" >}}
-
-{{< fancybox "cloudinary" "15Crab-eating_macaque_nakiol.jpg" " Makak krabożerny. Chyba. " "gallery" >}}
+{{< fancybox "cloudinary" "15Crab-eating_macaque_nakiol.jpg" "   Makak krabożerny. Chyba. " "gallery" >}}
