@@ -42,32 +42,30 @@ Kitty R. and Sir Last move further south. To an island. But that’s another sto
 
 \*unattractive – not interested in attractions
 
-{{< fancybox "cloudinary" "1jungle_w7k5mi.jpg" "  The jungle. Khao Sok National Park. " "gallery" >}}
+{{< fancybox "cloudinary" "1jungle_w7k5mi.jpg" "    The jungle. Khao Sok National Park. " "gallery" >}}
 
-{{< fancybox "cloudinary" "2Crab-eating_macaque2_wxcdid.jpg" "  Crab-eating macaque. Probably." "gallery" >}}
+{{< fancybox "cloudinary" "2Crab-eating_macaque2_wxcdid.jpg" "    Crab-eating macaque. Probably." "gallery" >}}
 
-{{< fancybox "cloudinary" "4Langur_g9zst0.jpg" "  Langur." "gallery" >}}
+{{< fancybox "cloudinary" "4Langur_g9zst0.jpg" "    Langur." "gallery" >}}
 
-{{< fancybox "cloudinary" "5lizardinthejungle_ba8hl0.jpg" "  Lizard." "gallery" >}}
+{{< fancybox "cloudinary" "5lizardinthejungle_ba8hl0.jpg" "    Lizard." "gallery" >}}
 
-{{< fancybox "cloudinary" "6Butterfly_shadow_nu5mn8.jpg" "  Shadow play." "gallery" >}}
+{{< fancybox "cloudinary" "6Butterfly_shadow_nu5mn8.jpg" "    Shadow play." "gallery" >}}
 
-{{< fancybox "cloudinary" "7_aa25gh.jpg" "  Lizard" "gallery" >}}
+{{< fancybox "cloudinary" "7_aa25gh.jpg" "    Lizard" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_wnfjp2.jpg" "  Fairy tail." "gallery" >}}
+{{< fancybox "cloudinary" "8_wnfjp2.jpg" "    Fairy tail." "gallery" >}}
 
-{{< fancybox "cloudinary" "9Cheo_Larn_m4ak14.jpg" "  Cheow Lan Lake." "gallery" >}}
+{{< fancybox "cloudinary" "9Cheo_Larn_m4ak14.jpg" "    Cheow Lan Lake." "gallery" >}}
 
-{{< fancybox "cloudinary" "10Cheo_Larn_Lake_b7vn3w.jpg" "  Cheow Lan Lake." "gallery" >}}
+{{< fancybox "cloudinary" "10Cheo_Larn_Lake_b7vn3w.jpg" "    Cheow Lan Lake." "gallery" >}}
 
-{{< fancybox "cloudinary" "11_jtl4wz.jpg" " Cheow Lan Lake." "gallery" >}}
+{{< fancybox "cloudinary" "11_jtl4wz.jpg" "   Cheow Lan Lake." "gallery" >}}
 
+{{< fancybox "cloudinary" "11a_fw9lvw.jpg" "   Kitty R. eats beans from the tin. " "gallery" >}}
 
+{{< fancybox "cloudinary" "13_lvorsz.jpg" "   Caterpillar." "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_fw9lvw.jpg" " Kitty R. eats beans from the tin. " "gallery" >}}
+{{< fancybox "cloudinary" "14cicada_horn_elephant_xoua5a.jpg" "   Cicada horn elephant." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_lvorsz.jpg" " Caterpillar." "gallery" >}}
-
-{{< fancybox "cloudinary" "14cicada_horn_elephant_xoua5a.jpg" " Cicada horn elephant." "gallery" >}}
-
-{{< fancybox "cloudinary" "15Crab-eating_macaque_hpuydg.jpg" " Crab-eating macaque. Probably." "gallery" >}}
+{{< fancybox "cloudinary" "15Crab-eating_macaque_hpuydg.jpg" "   Crab-eating macaque. Probably." "gallery" >}}
