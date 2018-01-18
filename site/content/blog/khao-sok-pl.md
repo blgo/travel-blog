@@ -30,7 +30,7 @@ A dla ochłody kąpiel w rzece. A tam rybki różnych maści i form. I motyle! J
 
 Porankami echo niesie kosmiczne wołanie – to gibony! Całą dobę słychać miarowe bzyczenie – to cykady! Przed drzwiami do domku wgapiające się w Kicię kreatury – to makaki! Co i rusz coś leci kolorowego i wielkości dłoni – to motyle! Czarny ptak z żółtym brzuszkiem zawisa na okiennych kratach i stuka w szybę – czas wstawać! 
 
-Kicia R. i Sir Last eksplorują jezioro Cheo Larn. Łódź tzw. long tail boat należy do S., który opowiada o czasach sprzed tamy, gdy jego dziadkowie i rodzice żyli tu pośrodku skał i obrastającego ich lasu deszczowego. Ludzie ludziom zgotowali ten los. Zapłacili, wysiedlili, zbudowali tamę, zalali co wcześniej było zamieszkane przez społeczności polujące tu na zwierzęta, żyjące bez cywilizacyjnie. A to wszystko zaledwie 40 lat temu. 
+Kicia R. i Sir Last eksplorują jezioro Cheow Lan. Łódź tzw. long tail boat należy do S., który opowiada o czasach sprzed tamy, gdy jego dziadkowie i rodzice żyli tu pośrodku skał i obrastającego ich lasu deszczowego. Ludzie ludziom zgotowali ten los. Zapłacili, wysiedlili, zbudowali tamę, zalali co wcześniej było zamieszkane przez społeczności polujące tu na zwierzęta, żyjące bez cywilizacyjnie. A to wszystko zaledwie 40 lat temu. 
 
 Kicia R. ma nadzieję, że zwierzęta dają tu radę. Bo nie ma nic przyjemniejszego jak obserwować je cichutko, nie wchodząc nadmiernie w klapkach w ich dom (pozostając na szlaku, który i tak wrzyna się ledwo kilka z kilkuset kilometrów w dżunglę).  Kicia R. całym serduszkiem wierzy, że natura tu jeszcze panuje nad człowiekiem, albo przynajmniej walczy z nim na ostro. 
 
@@ -40,18 +40,36 @@ Zdaje się, że zwierzęta mają wybór, mogą schować się w pozostałych 170k
 
 Kicia R. i Sir Last ruszają dalej na południe. Na wyspę. Ale o tym następnym razem.. 
 
+
+
+
+
 \*nieatrakcyjni- nie kuszą ich atrakcje
 
-{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" "  The jungle. Khao Sok National Park." "gallery" >}}
+{{< fancybox "cloudinary" "1jungle_ggkbfk.jpg" "  Las deszczowy, dżungla. Narodowy Park Khao Sok." "gallery" >}}
 
-{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" "  Crab-eating macaque. Probably. " "gallery" >}}
+{{< fancybox "cloudinary" "2Crab-eating_macaque2_fzhl5v.jpg" " Makak krabożerny. Prawdopodobnie." "gallery" >}}
 
 {{< fancybox "cloudinary" "4Langur_zeoxr1.jpg" "  Langur." "gallery" >}}
 
-{{< fancybox "cloudinary" "5lizardinthejungle_gxu6xq.jpg" " Lizard" "gallery" >}}
+{{< fancybox "cloudinary" "5lizardinthejungle_gxu6xq.jpg" " Jaszczur." "gallery" >}}
 
-{{< fancybox "cloudinary" "6Butterfly_shadow_srmapi.jpg" " Shadow play." "gallery" >}}
+{{< fancybox "cloudinary" "6Butterfly_shadow_srmapi.jpg" " Cienie." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_e0ox1g.jpg" " Fairy tail butterflies" "gallery" >}}
+{{< fancybox "cloudinary" "8_e0ox1g.jpg" " Baśniowe motyle." "gallery" >}}
 
-{{< fancybox "cloudinary" "9Cheo_Larn_ebbgps.jpg" " Cheo Larn Lake" "gallery" >}}
+
+
+{{< fancybox "cloudinary" "9Cheo_Larn_ebbgps.jpg" " Jezioro Cheow Lan." "gallery" >}}
+
+{{< fancybox "cloudinary" "10Cheo_Larn_Lake_xolqek.jpg" " Jezioro Cheow Lan." "gallery" >}}
+
+{{< fancybox "cloudinary" "11_d3ve3y.jpg" " Jezioro Cheow Lan. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11a_prmzbx.jpg" " Kicia R. je fasolkę z puszki. W sosie pomidorowym. " "gallery" >}}
+
+{{< fancybox "cloudinary" "13_kjjluo.jpg" " Gąsienica. " "gallery" >}}
+
+{{< fancybox "cloudinary" "14cicada_horn_elephant_srrj0y.jpg" " Cyk Cyk Cykada. " "gallery" >}}
+
+{{< fancybox "cloudinary" "15Crab-eating_macaque_nakiol.jpg" " Makak krabożerny. Chyba. " "gallery" >}}
