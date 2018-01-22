@@ -9,7 +9,7 @@
         <h1><a href="{{ "/" | relLangURL }}">{{ .Section }}</a></h1>
       {{ end }}
     {{ else }} 
-      {{ if i18n .Section }} 
+      {{ if i18n .Title }} 
         <h1><a href="{{ "/" | relLangURL }}">{{ i18n .Title }}</a></h1>
       {{ else }}
         <h1><a href="{{ "/" | relLangURL }}">{{ .Title }}</a></h1>
