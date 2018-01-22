@@ -3,7 +3,7 @@ title: W gaju palm daktylowych.
 description: >-
   Kicia R. i Dziadek T. śpią na dziko, a rano zaliczają szalony przejazd przez
   Atlas Wysoki. 
-destinations: Morocco
+destinations: Maroko
 featured: title_photo_lbv6di.jpg
 featuredpath: cloudinary
 featuredalt: "Image hosted by Cloudinary"

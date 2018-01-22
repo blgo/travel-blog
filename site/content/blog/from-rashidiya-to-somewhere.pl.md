@@ -3,7 +3,7 @@ title: ' Z Ar-Raszidijja do...'
 description: >-
   Kicia R. i Dziadek T. spotykają Człowieka i Jego Owcę oraz mają gwiazdy na
   wyciągnięcie ręki. 
-destinations: Morocco
+destinations: Maroko
 featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
 featuredpath: cloudinary
 date: 2015-01-17T19:53:42.557Z

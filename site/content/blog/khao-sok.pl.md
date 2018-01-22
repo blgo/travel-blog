@@ -3,7 +3,7 @@ title: KHAO SOK
 description: >-
   Kicia R. i Sir Last jadą nocnym autobusem do lasu deszczowego. Dzika przyroda,
   zwierzęta i ludzkie jezioro. 
-destinations: Thailand
+destinations: Tajlandia
 featured: 0_lwfusw.jpg
 featuredpath: cloudinary
 date: 2018-01-18T15:24:34.147Z

@@ -3,7 +3,7 @@ title: 'Klasyka. '
 description: >-
   Klasyczna historia o dobrych ludziach, których Kicia R. i Dziadek T. spotykają
   na swej drodze.
-destinations: Morocco
+destinations: Maroko
 featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
 tag: morocco2
