@@ -2258,6 +2258,10 @@
         }
 
         @media screen and (max-width: 736px) {
+            #header h1 {
+                font-size: 0.7em;
+                padding: 0 0 0 1em;
+            }
             #header h2 {
                 padding: 0 0 0 1em;
             }
