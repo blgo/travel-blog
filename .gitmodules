@@ -1,4 +1,4 @@
 [submodule "site/themes/future-imperfect"]
 	path = site/themes/future-imperfect
-	url = https://github.com/statnmap/hugo-future-imperfect/
+	url = https://github.com/blgo/hugo-future-imperfect/
 	branch = multilanguage
