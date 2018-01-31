@@ -26,32 +26,26 @@ Kicia R. ma wrażenie, że wszystko tu jest czarno-białe. Turyści-lokalni. My-
 
 Następnego dnia,  gdy Kicia R. widzi, że ktoś na piasku zrobił okrąg z kamieni i napisał ‘She said Yes!’, ma przed oczami całą gamę możliwości na co ona mogła się zgodzić. A na co nie.
 
+{{< fancybox "cloudinary" "2_hgju7r.jpg" "   Koh Lanta" "gallery" >}}
 
+{{< fancybox "cloudinary" "3a_y304lt.jpg" "   one tu rządzą" "gallery" >}}
 
+{{< fancybox "cloudinary" "6a_hgcply.jpg" "   Welcome Kociak w Kici bungalowie" "gallery" >}}
 
+{{< fancybox "cloudinary" "7_hk61lf.jpg" "   smutna niewola na ulicy" "gallery" >}}
 
+{{< fancybox "cloudinary" "8_tsql6q.jpg" "   te kurze nogi!" "gallery" >}}
 
+{{< fancybox "cloudinary" "8a_ssnrwj.jpg" "   na spacerze, czyli spotkanie S. mieszkającym w dżungli" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_hgju7r.jpg" " Koh Lanta" "gallery" >}}
+{{< fancybox "cloudinary" "9_lqwlgm.jpg" "   prawie tygrys" "gallery" >}}
 
-{{< fancybox "cloudinary" "3a_y304lt.jpg" " one tu rządzą" "gallery" >}}
+{{< fancybox "cloudinary" "10_cj9hhl.jpg" "   Kicia poszukująca w dżunglowym strumieniu" "gallery" >}}
 
-{{< fancybox "cloudinary" "6a_hgcply.jpg" " Welcome Kociak w Kici bungalowie" "gallery" >}}
+{{< fancybox "cloudinary" "19_olhved.jpg" "   eksploracja morza Andamańskiego" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_hk61lf.jpg" " smutna niewola na ulicy" "gallery" >}}
+{{< fancybox "cloudinary" "20_agoezl.jpg" "   snorkelling bez rurki" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_tsql6q.jpg" " te kurze nogi!" "gallery" >}}
+{{< fancybox "cloudinary" "21_fveito.jpg" "   pan Kapitan" "gallery" >}}
 
-{{< fancybox "cloudinary" "8a_ssnrwj.jpg" " na spacerze, czyli spotkanie S. mieszkającym w dżungli" "gallery" >}}
-
-{{< fancybox "cloudinary" "9_lqwlgm.jpg" " prawie tygrys" "gallery" >}}
-
-{{< fancybox "cloudinary" "10_cj9hhl.jpg" " Kicia poszukująca w dżunglowym strumieniu" "gallery" >}}
-
-{{< fancybox "cloudinary" "19_olhved.jpg" " eksploracja morza Andamańskiego" "gallery" >}}
-
-{{< fancybox "cloudinary" "20_agoezl.jpg" " snorkelling bez rurki" "gallery" >}}
-
-{{< fancybox "cloudinary" "21_fveito.jpg" " pan Kapitan" "gallery" >}}
-
-{{< fancybox "cloudinary" "22_tsqi47.jpg" " zachód słońca na Koh Lancie" "gallery" >}}
+{{< fancybox "cloudinary" "22_tsqi47.jpg" "   zachód słońca na Koh Lancie" "gallery" >}}
