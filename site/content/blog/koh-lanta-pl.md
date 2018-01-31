@@ -32,7 +32,7 @@ Następnego dnia,  gdy Kicia R. widzi, że ktoś na piasku zrobił okrąg z kami
 
 
 
-{{< fancybox "cloudinary" "2_hgju7r.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "2_hgju7r.jpg" " Koh Lanta" "gallery" >}}
 
 {{< fancybox "cloudinary" "3a_y304lt.jpg" " one tu rządzą" "gallery" >}}
 
@@ -42,7 +42,7 @@ Następnego dnia,  gdy Kicia R. widzi, że ktoś na piasku zrobił okrąg z kami
 
 {{< fancybox "cloudinary" "8_tsql6q.jpg" " te kurze nogi!" "gallery" >}}
 
-{{< fancybox "cloudinary" "8a_ssnrwj.jpg" " na spacerze, czyli spotkanie S. mieszkającego w dżungli" "gallery" >}}
+{{< fancybox "cloudinary" "8a_ssnrwj.jpg" " na spacerze, czyli spotkanie S. mieszkającym w dżungli" "gallery" >}}
 
 {{< fancybox "cloudinary" "9_lqwlgm.jpg" " prawie tygrys" "gallery" >}}
 
