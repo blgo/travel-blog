@@ -4,7 +4,7 @@ description: >-
   Kicia R. i Sir Last są totalnie pokonani przez relaks jaki wymusza na nich
   tropikalna wyspa. Nic się nie dzieje. Prawie.
 destinations: Tajlandia
-featured: ' title_photo_fywsqi.jpg'
+featured: 'title_photo_fywsqi.jpg'
 featuredpath: cloudinary
 date: 2018-01-31T08:16:44.025Z
 type: post
