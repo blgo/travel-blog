@@ -14,23 +14,15 @@ language: en
 ---
 Kitty R. and Sir Last spend the last few Thai days in Bangkok. Their host – W., is an authentic man in everything he does, very empathic, but at the same time with a huge awareness of his own needs and boundaries. Artist and warrior in one Thai man. He introduces Kitty R. and Sir Last to the culinary world, where nothing is wasted and teaches Kitty how to eat rice with a spoon. For several days, the conversations are very rich and pleasant. Great hospitality!
 
-
-
 On the day of Kitty R. and Sir Last’s departure, she feels sluggish (a little fever, gushing nose and diarrohea). She counts in mind how many tiger mosquitoes she killed in the last days. W. takes her to the hospital, where the staff take Kitty’s blood and a secretion from her sinuses. Kitty is still not sure why the doctor suspected her having a bird flu, but the ground is that the result is negative. She receive pseudoephedrine and antibiotic as take away. And so, just two hours after entering the hospital, the parking lot salutes to Kitty and taps his heels for a goodbye.
 
 And then, ladies and gentlemen, a quick flight and welcome to Cambodia.
 
-
-
 Here the Thai proverb "when the smile disappears, mind the knife is nearby" does not apply. Here the smile on the face appears only in adequate circumstances. Khmer faces smile wonderfully, but not without a rest. Kitty has the impression that if something goes wrong, she would have time before the knife cuts the situation. And in Thailand bipolarly. Either a smile or a knife. Of course, not always. Of course not everyone. Of course Kitty hyperbolizes.
-
-
 
 On the door of the hotel room, Kitty R. and Sir Last are greeted by a sign: 'no weapons & drugs' like Polish 'night silence' or English ‘respect other guests’. Kitty asks P. (the owner) about numerous aquariums full of fish situated in the entrance of the guest house (Kitty: 'And these fish are for what?' P.: ‘I like them', Kitty: ’But do they bring happiness and luck?' P.: 'I believe in hard work, not ...'). On the other hand, incense sticks in the reception shrine burn constantly. Kitty’s heart is immediately conquered. She likes to be here!
 
 In Cambodia, Kitty notices loads of street dogs (Thailand is rather cat-like) and ubiquitous children (small tots on plastic scooters and a bit older helping in family restaurants).
-
-
 
 One day, when Kitty R. feels healthier, better and ready, she decides with Sir Last to see one of the eight wonders of the world. The adventure begins when they rent bicycles. There are wheels, a steering wheel, and even a pale light from dynamo, but ... that day Kitty pedals fiercely, and the bike barely moves, as if the wheels changed their shape into squares.
 
@@ -40,38 +32,36 @@ In all that, Kitty R. has the impression that Angkor is a revue of selfie and po
 
 And in the evening, Sir Last gets a fever and passes out. Kitty R. notices that something is not going to let them out of Siem Reap. Not today. While extending the stay in a guest house half jokingly half-seriously Kitty asks P. how much it costs to rent a room for a month...
 
-{{< fancybox "cloudinary" "1the_new_version_noughts_and_crosses_game_u3gkud.jpg" " Awesome version of noughts and crosses!" "gallery" >}}
+{{< fancybox "cloudinary" "1the_new_version_noughts_and_crosses_game_u3gkud.jpg" "  Awesome version of noughts and crosses!" "gallery" >}}
 
-{{< fancybox "cloudinary" "1z_wooden_floor_in_Bangkok_bus_qihpm3.jpg" " Wooden floor in Bangkok bus, love!" "gallery" >}}
+{{< fancybox "cloudinary" "1z_wooden_floor_in_Bangkok_bus_qihpm3.jpg" "  Wooden floor in Bangkok bus, love!" "gallery" >}}
 
-{{< fancybox "cloudinary" "2W.and_Sir_Last_delicious_breakfast_rlc86x.jpg" " W. and Sir Last. Awesome breakfast!" "gallery" >}}
+{{< fancybox "cloudinary" "2W.and_Sir_Last_delicious_breakfast_rlc86x.jpg" "  W. and Sir Last. Awesome breakfast!" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Lumpini_Park_in_Bangkok_lsyshe.jpg" " Lumpini Park, Bangkok" "gallery" >}}
+{{< fancybox "cloudinary" "4Lumpini_Park_in_Bangkok_lsyshe.jpg" "  Lumpini Park, Bangkok" "gallery" >}}
 
-{{< fancybox "cloudinary" "5Lumpini_Park_in_Bangkok_my1amd.jpg" " Lumpini Park, Bangkok" "gallery" >}}
+{{< fancybox "cloudinary" "5Lumpini_Park_in_Bangkok_my1amd.jpg" "  Lumpini Park, Bangkok" "gallery" >}}
 
-{{< fancybox "cloudinary" "6monitor_lizzard_in_Lumpini_Park_uk1lgx.jpg" " In Castle Park seagulls, in Lumpini Park monitor lizzards!" "gallery" >}}
+{{< fancybox "cloudinary" "6monitor_lizzard_in_Lumpini_Park_uk1lgx.jpg" "  In Castle Park seagulls, in Lumpini Park monitor lizzards!" "gallery" >}}
 
-{{< fancybox "cloudinary" "6WelcometoAngkor_eje9r5.jpg" " Welcome to Angkor Wat!" "gallery" >}}
+{{< fancybox "cloudinary" "ang_lnznxc.jpg" "  Welcome to Angkor Wat!" "gallery" >}}
 
-{{< fancybox "cloudinary" "6zzPreah_Khan_dee7nj.jpg" " Preah Khan Temple" "gallery" >}}
+{{< fancybox "cloudinary" "6zzPreah_Khan_dee7nj.jpg" "  Preah Khan Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "7aAngkorWat_mdiv9u.jpg" " Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "7aAngkorWat_mdiv9u.jpg" "  Angkor Wat" "gallery" >}}
 
+{{< fancybox "cloudinary" "7AngkorWat_byy11a.jpg" "  Angkor Wat" "gallery" >}}
 
+{{< fancybox "cloudinary" "8Preah_Khan_trs4oi.jpg" "  Preah Khan Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "7AngkorWat_byy11a.jpg" " Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "9aPreah_Khan_vbkzql.jpg" "  Preah Khan Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "8Preah_Khan_trs4oi.jpg" " Preah Khan Temple" "gallery" >}}
+{{< fancybox "cloudinary" "10_b0drx3.jpg" "  Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "9aPreah_Khan_vbkzql.jpg" " Preah Khan Temple" "gallery" >}}
+{{< fancybox "cloudinary" "11Banteay_Kdei_v69ll9.jpg" "  Banteay Kdei Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_b0drx3.jpg" " Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "13Banteay_Kdei_x8swka.jpg" "  Banteay Kdei Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "11Banteay_Kdei_v69ll9.jpg" " Banteay Kdei Temple" "gallery" >}}
+{{< fancybox "cloudinary" "14Angkor_mf5ctc.jpg" "  Angkor Wat " "gallery" >}}
 
-{{< fancybox "cloudinary" "13Banteay_Kdei_x8swka.jpg" " Banteay Kdei Temple" "gallery" >}}
-
-{{< fancybox "cloudinary" "14Angkor_mf5ctc.jpg" " Angkor Wat " "gallery" >}}
-
-{{< fancybox "cloudinary" "17NeakPean_sbbjkt.jpg" " On the way to Neak Pean Temple (same place as title photo)" "gallery" >}}
+{{< fancybox "cloudinary" "17NeakPean_sbbjkt.jpg" "  On the way to Neak Pean Temple (same place as title photo)" "gallery" >}}
