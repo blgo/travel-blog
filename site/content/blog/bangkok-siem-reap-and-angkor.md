@@ -64,4 +64,6 @@ And in the evening, Sir Last gets a fever and passes out. Kitty R. notices that 
 
 {{< fancybox "cloudinary" "14Angkor_mf5ctc.jpg" "  Angkor Wat " "gallery" >}}
 
+{{< fancybox "cloudinary" "DSCF9410_c5ok9e.jpg" " Preah Khan Temple" "gallery" >}}
+
 {{< fancybox "cloudinary" "17NeakPean_sbbjkt.jpg" "  On the way to Neak Pean Temple (same place as title photo)" "gallery" >}}
