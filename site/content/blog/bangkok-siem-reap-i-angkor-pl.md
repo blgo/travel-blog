@@ -34,36 +34,36 @@ Poza tym Kicia R. ma wrażenie, że Angkor jest rewią selfie i portretów. Wszy
 
 A wieczorem Sir Last dostaje wysokiej gorączki i pada. Kicia widzi, że coś nie dane im opuścić Siem Reap. Przedłużając pobyt w guest housie pół żartem pół serio pyta gospodarza P., ile kosztuje wynajem pokoju na miesiąc… 
 
-{{< fancybox "cloudinary" "1the_new_version_noughts_and_crosses_game_vwh8kq.jpg" "  najlepsze kółko i krzyżyk!" "gallery" >}}
+{{< fancybox "cloudinary" "1the_new_version_noughts_and_crosses_game_vwh8kq.jpg" "    najlepsze kółko i krzyżyk!" "gallery" >}}
 
-{{< fancybox "cloudinary" "1z_wooden_floor_in_Bangkok_bus_fkgbzp.jpg" "  drewniana podłoga w autobusie w Bangkoku, klawo!" "gallery" >}}
+{{< fancybox "cloudinary" "1z_wooden_floor_in_Bangkok_bus_fkgbzp.jpg" "    drewniana podłoga w autobusie w Bangkoku, klawo!" "gallery" >}}
 
-{{< fancybox "cloudinary" "2W.and_Sir_Last_delicious_breakfast_kc1onz.jpg" "  W. zabrał nas na przepyszne birmańskie śniadanie" "gallery" >}}
+{{< fancybox "cloudinary" "2W.and_Sir_Last_delicious_breakfast_kc1onz.jpg" "    W. zabrał nas na przepyszne birmańskie śniadanie" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Lumpini_Park_in_Bangkok_gmuweg.jpg" "  Lumpini Park, Bangkok" "gallery" >}}
+{{< fancybox "cloudinary" "4Lumpini_Park_in_Bangkok_gmuweg.jpg" "    Lumpini Park, Bangkok" "gallery" >}}
 
-{{< fancybox "cloudinary" "5Lumpini_Park_in_Bangkok_fjyiwv.jpg" "  Lumpini Park, Bangkok" "gallery" >}}
+{{< fancybox "cloudinary" "5Lumpini_Park_in_Bangkok_fjyiwv.jpg" "    Lumpini Park, Bangkok" "gallery" >}}
 
-{{< fancybox "cloudinary" "6monitor_lizzard_in_Lumpini_Park_pbwkqm.jpg" "  w Praskim dziki i wiewiórki, w Lumpini jaszczury" "gallery" >}}
+{{< fancybox "cloudinary" "6monitor_lizzard_in_Lumpini_Park_pbwkqm.jpg" "    w Praskim dziki i wiewiórki, w Lumpini jaszczury" "gallery" >}}
 
-{{< fancybox "cloudinary" "ang_vwr1u0.jpg" " Witamy w Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "ang_vwr1u0.jpg" "   Witamy w Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "6zzPreah_Khan_lkwb9y.jpg" "  Preah Khan Temple " "gallery" >}}
+{{< fancybox "cloudinary" "6zzPreah_Khan_lkwb9y.jpg" "    Preah Khan Temple " "gallery" >}}
 
-{{< fancybox "cloudinary" "7aAngkorWat_y4s9nc.jpg" "  Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "7aAngkorWat_y4s9nc.jpg" "    Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "7AngkorWat_qgvsko.jpg" "  Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "7AngkorWat_qgvsko.jpg" "    Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "8Preah_Khan_r2vqxr.jpg" "  Preah Khan Temple" "gallery" >}}
+{{< fancybox "cloudinary" "8Preah_Khan_r2vqxr.jpg" "    Preah Khan Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "9aPreah_Khan_sijgoj.jpg" "  Preah Khan Temple" "gallery" >}}
+{{< fancybox "cloudinary" "9aPreah_Khan_sijgoj.jpg" "    Preah Khan Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_g3vwm2.jpg" "  Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "10_g3vwm2.jpg" "    Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "11Banteay_Kdei_wv5mth.jpg" "  Banteay Kdei Temple" "gallery" >}}
+{{< fancybox "cloudinary" "11Banteay_Kdei_wv5mth.jpg" "    Banteay Kdei Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "13Banteay_Kdei_o6gtbs.jpg" "  Banteay Kdei Temple" "gallery" >}}
+{{< fancybox "cloudinary" "13Banteay_Kdei_o6gtbs.jpg" "    Banteay Kdei Temple" "gallery" >}}
 
-{{< fancybox "cloudinary" "14Angkor_yfehda.jpg" "  Angkor Wat" "gallery" >}}
+{{< fancybox "cloudinary" "14Angkor_yfehda.jpg" "    Angkor Wat" "gallery" >}}
 
-{{< fancybox "cloudinary" "17NeakPean_kzoptn.jpg" " W drodze do świątyni Neak Pean (to samo miejsce co w tytułowym zdjęciu)." "gallery" >}}
+{{< fancybox "cloudinary" "17NeakPean_kzoptn.jpg" "   W drodze do świątyni Neak Pean (to samo miejsce co w tytułowym zdjęciu)." "gallery" >}}
