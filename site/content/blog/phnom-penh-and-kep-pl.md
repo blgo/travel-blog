@@ -3,7 +3,8 @@ title: PHNOM PENH AND KEP
 description: >-
   Kicia R. i Sir Last nie zachwycają się stolicą, a potem lądują w miejscu,
   gdzie są śmieci, kraby i pieprz prosto z krzaka.
-destinations: Cambodia
+destinations: Kambodża
+featured: 0_ixfiu0.jpg
 featuredpath: cloudinary
 date: 2018-02-23T07:58:00.197Z
 type: post
@@ -27,32 +28,30 @@ W niewielkim miasteczku Kep Kicia R. próbuje po raz pierwszy w życiu świeżeg
 
 Któregoś dnia Kicia R. i Sir Last idą na krabowy targ, który wygląda jakby był jedynie bazarkiem dla lokalnych mieszkańców. Cóż za pułapka! Sprzedawcy ukryci pod coca-cola parasolami, wyposażeni w starą wagę zachęcają do zakupu krewetek, mątw, ośmiornic, płaszczek i krabów. Szczególnie te ostatnie są tu traktowane jako cel najdoskonalszy. Na życzenie klienta sprzedawczyni schodzi po drabince z pomostu do wody i wyciąga z dna klatkę, w której są pożądanego rozmiaru kraby. Zwierzęta te mają już wcześniej powiązane sznurkiem szczypce, tak aby klienci mogli sobie towar dobrze pooglądać i podotykać (?!) przed zakupem. Po udanym targowaniu i zakupie klient z kilogramami krabów czy też krewetek podchodzi do jednej z rozsianych wokół pań, posiadaczek palenisk. Panie te, za niewielką opłatą przyrządzają z zakupionych owoców morza danie, pełne świeżego, zielonego pieprzu (region ten właśnie z owego słynie). A klienci to przede wszystkim turyści. Kicia R. nasłuchuje: Wietnamczycy, Chińczycy, Amerykanie, Hiszpanie, Francuzi _(co Wy na to, Czerwoni Khmerzy?)_. Z rzadka ktoś z lokalnych mieszkańców zakupuje towar do jednej z pobliskich restauracji. Całość wzbudza w Kici R. gamę mieszanych uczuć. 
 
-Tego samego dnia Kicia R. i Sir Last odkrywają również French Era Ghost Town. Ryneczek, jak w każdym miasteczku zbudowany na planie prostokątu, z pasem zieleni pośrodku. Zamiast ratusza – pagoda wokół której trwa samopas białych krów. I to właśnie one są jedynym znakiem życia w okolicy. Dookoła jest sporo opuszczonych, francuskich willi _(eh, Ci Czerwoni Khmerzy!). _Zarośnięte przez dziką azjatycką przyrodę. obecnie w stanie rozpadu, lecz widać, że stanowiły kiedyś wspaniałą, kolonialną architekturę. Niektóre są dziś zasquatowane; Kicia R. obserwuje, że nawet przez całe, biedne khmerskie rodziny. 
+Tego samego dnia Kicia R. i Sir Last odkrywają również French Era Ghost Town. Ryneczek, jak w każdym miasteczku zbudowany na planie prostokątu, z pasem zieleni pośrodku. Zamiast ratusza – pagoda wokół której trwa samopas białych krów. I to właśnie one są jedynym znakiem życia w okolicy. Dookoła jest sporo opuszczonych, francuskich willi (eh, Ci Czerwoni Khmerzy!). Zarośnięte przez dziką azjatycką przyrodę. obecnie w stanie rozpadu, lecz widać, że stanowiły kiedyś wspaniałą, kolonialną architekturę. Niektóre są dziś zasquatowane; Kicia R. obserwuje, że nawet przez całe, biedne khmerskie rodziny. 
 
 W pewnym momencie Kicia R. zauważa zupełnie wyróżniający się na tle innych wysoki budynek. Jest ogromny, a u jego szczytu zataczają nieregularne koła liczne małe ptaki (jaskółki!). Budynek ma tylko jedno okienko, tuż przy krawędzi dachu i to właśnie z niego wypływa na zewnątrz donośne echo ptasiego świergotu. Kicia R. już wie, że to farma ptasich gniazd. Szczególny rarytas dla Chińczyków, którzy wierzą, że spożycie ptasiego gniazda (w formie chociażby zupy) wzmacnia odporność, witalność, regeneruje komórki oraz poprawia pracę serca.  Taka to azjatycka kuchnia, w której je się nie tylko zwierzęta, ale również ich sklecone ze śliny domy.
 
-{{< fancybox "cloudinary" "2_ykpup4.jpg" " Stare czasy w Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "2_ykpup4.jpg" "  Stare czasy w Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "3Phnom_Penh_ff6nfh.jpg" " Phnom Penh " "gallery" >}}
+{{< fancybox "cloudinary" "3Phnom_Penh_ff6nfh.jpg" "  Phnom Penh " "gallery" >}}
 
+{{< fancybox "cloudinary" "4Russian_market_y2f3og.jpg" "  Russian market, Phnom Penh" "gallery" >}}
 
+{{< fancybox "cloudinary" "6_f4rwvz.jpg" "  W drodze na południe Kambodży" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Russian_market_y2f3og.jpg" " Russian market, Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "7aCran_market_in_Kepp_qkrbsr.jpg" "  Krabowy targ w Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_f4rwvz.jpg" " W drodze na południe Kambodży" "gallery" >}}
+{{< fancybox "cloudinary" "7b_usedbq.jpg" "  Sprzedawczynie na krabowym targu w Kep. " "gallery" >}}
 
-{{< fancybox "cloudinary" "7aCran_market_in_Kepp_qkrbsr.jpg" " Krabowy targ w Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7Crab_market_hhcouy.jpg" "  Krabowy handel na targu w Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_usedbq.jpg" " Sprzedawczynie na krabowym targu w Kep. " "gallery" >}}
+{{< fancybox "cloudinary" "7zz_lhirzc.jpg" "  Owoce morza na patykach, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7Crab_market_hhcouy.jpg" " Krabowy handel na targu w Kep" "gallery" >}}
+{{< fancybox "cloudinary" "8Crab_market_in_Kep_cawthq.jpg" "  Sprzedawczyni i towar, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7zz_lhirzc.jpg" " Owoce morza na patykach, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_oylmvm.jpg" "  Biały duch w French Era ghost town, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "8Crab_market_in_Kep_cawthq.jpg" " Sprzedawczyni i towar, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "9zz_wnkb19.jpg" "  Trzyrożny :), French Era Ghost Town, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_oylmvm.jpg" " Biały duch w French Era ghost town, Kep" "gallery" >}}
-
-{{< fancybox "cloudinary" "9zz_wnkb19.jpg" " Trzyrożny :), French Era Ghost Town, Kep" "gallery" >}}
-
-{{< fancybox "cloudinary" "10_ykgxlr.jpg" " Najważniejsze elementy sypialni, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "10_ykgxlr.jpg" "  Najważniejsze elementy sypialni, Kep" "gallery" >}}
