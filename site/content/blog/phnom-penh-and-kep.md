@@ -46,4 +46,6 @@ P.S. If you click on one of the photos below, it will open a photo gallery.
 
 {{< fancybox "cloudinary" "7aCran_market_in_Kepp_lmc2kj.jpg" " Crab market, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " Lunch break in Crab Market, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7b_k9z1hr.jpg" " Lunch break in Crab Market, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" " Crab business, Kep" "gallery" >}}
