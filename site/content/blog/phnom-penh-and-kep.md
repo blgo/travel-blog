@@ -49,3 +49,13 @@ P.S. If you click on one of the photos below, it will open a photo gallery.
 {{< fancybox "cloudinary" "7b_k9z1hr.jpg" " Lunch break in Crab Market, Kep" "gallery" >}}
 
 {{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" " Crab business, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "7zz_zkg9cr.jpg" " Seafood on sticks, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "8Crab_market_in_Kep_qbjtg0.jpg" " Saleswoman and her goods, Kep." "gallery" >}}
+
+{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_xh1uz0.jpg" " French Era Ghost Town, Kep." "gallery" >}}
+
+{{< fancybox "cloudinary" "9zz_ahxegl.jpg" " Triple horn whitey in French Era Ghost Town, Kep. " "gallery" >}}
+
+{{< fancybox "cloudinary" "10_qmymlo.jpg" " Basics in bedroom, Kep" "gallery" >}}
