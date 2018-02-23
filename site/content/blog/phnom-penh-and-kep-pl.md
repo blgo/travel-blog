@@ -50,3 +50,9 @@ W pewnym momencie Kicia R. zauważa zupełnie wyróżniający się na tle innych
 {{< fancybox "cloudinary" "7zz_lhirzc.jpg" " Owoce morza na patykach, Kep" "gallery" >}}
 
 {{< fancybox "cloudinary" "8Crab_market_in_Kep_cawthq.jpg" " Sprzedawczyni i towar, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_oylmvm.jpg" " Biały duch w French Era ghost town, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "9zz_wnkb19.jpg" " Trzyrożny :), French Era Ghost Town, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_ykgxlr.jpg" " Najważniejsze elementy sypialni, Kep" "gallery" >}}
