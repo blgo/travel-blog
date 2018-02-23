@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Sir Last do not rave about the capital and then land in a place
   full of garbage, crabs and pepper straight from the bush.
 destinations: Cambodia
-featured: ' 0_aicpvr.jpg'
+featured: 0_s7fx4z.jpg
 featuredpath: cloudinary
 date: 2018-02-23T09:27:32.883Z
 type: post
@@ -34,26 +34,26 @@ At one point, Kitty R. notices a very tall building standing out from the others
 
 P.S. If you click on one of the photos below, it will open a photo gallery.
 
-{{< fancybox "cloudinary" "2_fycnno.jpg" "  'Old times' in Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "2_fycnno.jpg" "    'Old times' in Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "3Phnom_Penh_q7bnmn.jpg" "  Near waste river, Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "3Phnom_Penh_q7bnmn.jpg" "    Near waste river, Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Russian_market_ruuqb2.jpg" "  Russian market, Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "4Russian_market_ruuqb2.jpg" "    Russian market, Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_dxdmgl.jpg" "  On the way to South Cambodia" "gallery" >}}
+{{< fancybox "cloudinary" "6_dxdmgl.jpg" "    On the way to South Cambodia" "gallery" >}}
 
-{{< fancybox "cloudinary" "7aCran_market_in_Kepp_lmc2kj.jpg" "  Crab market, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7aCran_market_in_Kepp_lmc2kj.jpg" "    Crab market, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_k9z1hr.jpg" "  Lunch break in Crab Market, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7b_k9z1hr.jpg" "    Lunch break in Crab Market, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" "  Crab business, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" "    Crab business, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7zz_zkg9cr.jpg" "  Seafood on sticks, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7zz_zkg9cr.jpg" "    Seafood on sticks, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "8Crab_market_in_Kep_qbjtg0.jpg" "  Saleswoman and her goods, Kep." "gallery" >}}
+{{< fancybox "cloudinary" "8Crab_market_in_Kep_qbjtg0.jpg" "    Saleswoman and her goods, Kep." "gallery" >}}
 
-{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_xh1uz0.jpg" "  French Era Ghost Town, Kep." "gallery" >}}
+{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_xh1uz0.jpg" "    French Era Ghost Town, Kep." "gallery" >}}
 
-{{< fancybox "cloudinary" "9zz_ahxegl.jpg" "  Triple horn whitey in French Era Ghost Town, Kep. " "gallery" >}}
+{{< fancybox "cloudinary" "9zz_ahxegl.jpg" "    Triple horn whitey in French Era Ghost Town, Kep. " "gallery" >}}
 
-{{< fancybox "cloudinary" "10_qmymlo.jpg" "  Basics in bedroom, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "10_qmymlo.jpg" "    Basics in bedroom, Kep" "gallery" >}}
