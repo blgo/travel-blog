@@ -41,4 +41,12 @@ W pewnym momencie Kicia R. zauważa zupełnie wyróżniający się na tle innych
 
 {{< fancybox "cloudinary" "6_f4rwvz.jpg" " W drodze na południe Kambodży" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7aCran_market_in_Kepp_qkrbsr.jpg" " Krabowy targ w Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "7b_usedbq.jpg" " Sprzedawczynie na krabowym targu w Kep. " "gallery" >}}
+
+{{< fancybox "cloudinary" "7Crab_market_hhcouy.jpg" " Krabowy handel na targu w Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "7zz_lhirzc.jpg" " Owoce morza na patykach, Kep" "gallery" >}}
+
+{{< fancybox "cloudinary" "8Crab_market_in_Kep_cawthq.jpg" " Sprzedawczyni i towar, Kep" "gallery" >}}
