@@ -31,12 +31,12 @@ Tego samego dnia Kicia R. i Sir Last odkrywają również French Era Ghost Town.
 
 W pewnym momencie Kicia R. zauważa zupełnie wyróżniający się na tle innych wysoki budynek. Jest ogromny, a u jego szczytu zataczają nieregularne koła liczne małe ptaki (jaskółki!). Budynek ma tylko jedno okienko, tuż przy krawędzi dachu i to właśnie z niego wypływa na zewnątrz donośne echo ptasiego świergotu. Kicia R. już wie, że to farma ptasich gniazd. Szczególny rarytas dla Chińczyków, którzy wierzą, że spożycie ptasiego gniazda (w formie chociażby zupy) wzmacnia odporność, witalność, regeneruje komórki oraz poprawia pracę serca.  Taka to azjatycka kuchnia, w której je się nie tylko zwierzęta, ale również ich sklecone ze śliny domy.
 
-{{< fancybox "cloudinary" "2_ykpup4.jpg" " 'old school' Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "2_ykpup4.jpg" " Stare czasy w Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "3Phnom_Penh_ff6nfh.jpg" " Near waste river, Phnom Penh " "gallery" >}}
+{{< fancybox "cloudinary" "3Phnom_Penh_ff6nfh.jpg" " Phnom Penh " "gallery" >}}
 
 
 
 {{< fancybox "cloudinary" "4Russian_market_y2f3og.jpg" " Russian market, Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_f4rwvz.jpg" " On the way to South Cambodia" "gallery" >}}
+{{< fancybox "cloudinary" "6_f4rwvz.jpg" " W drodze na południe Kambodży" "gallery" >}}
