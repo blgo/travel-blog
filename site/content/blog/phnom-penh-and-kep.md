@@ -20,7 +20,7 @@ Phnom Penh appears to Kitty R. as a definetely street type city. Many people liv
 
 The public transport of Phnom Penh has only 3 bus lines. From the perspective of Kitty it’s quite enough. Kitty R. and Sir Last are on bus line number 2. Three women sit next to them in a row and each of them is different. The first one is dressed rather carelessly, in sweatpants, bare feet with nails painted purple, legs leaning on the platform. The second woman is modest, but impressively elegant; she is wearing skin-colored tights, shoes with a delicate heel and a small hat with a brim. The third woman, wearing jeans is a compromise between the other two. At the next stop a monk gets into the bus. With a wave of his hand, he asks another man to change his seat; as a Buddhist monk, he can not sit directly next to another passenger, a woman. As soon as the monk gets on the bus, the elegant woman removes the hat from her head and covers a part of her face so that only her eyes remain visible. Everyone described talks and laugh lively with each other. Kitty R. and Sir Last are fascinated by this moment. Covering the face with a hat by an elegant woman seems to be an expression of respect for the monk. This is something they have not been able to observe during the trip earlier.
 
-It is from Phnom Penh that Kitty R. and Sir Last are trying to hitchhike south. Hitchhiking in Cambodia for the first time. Within two hours, several cars stop; all of these drivers ask for money, and definitely not just any. Kitty R. hitchhiked for quite a lot of years in her life, and here what a money attitude she faces all the time. Eventually, Kitty R. and Sir Last are taken by a lovely couple of refugees (_taken to the United States in the 1970s, oh Khmer Rouge, ...)_. 60 km further Kitty R. and Sir Last stand next to the road again. Children smile to them broadly. Sometimes, slightly embarrassed, they shout Hello! Adults passing by on scooters or bicycles, also smile very nicely, but with astonishment, not understanding what Kitty R. and Sir Last are doing there, standing by the road and waving one’s hand. In the end Kitty R. and Sir Last are crushed by the situation, dust and heat, so get into a paid minivan. The driver does not take his hand off the horn and his leg from the gas. Tuk tuk, cyclists, pedestrians flee from his path in the last moments. Only once the driver yeilds the road; to a larger truck. Then, he smiles nervously. If only Kitty R. knew Khmer, she would gladly tell driver the truth ('Please, Sir, it's not an ambulance! Sir you are driving a small, rusted van from point A to B! Hells bells!'). And then a quick switch from the minivan to ride a scooter in Asian style (Kitty R., Sir Last, Driver, Two Backpacks and everythig on just one small scooter).
+It is from Phnom Penh that Kitty R. and Sir Last are trying to hitchhike south. Hitchhiking in Cambodia for the first time. Within two hours, several cars stop; all of these drivers ask for money, and definitely not just any. Kitty R. hitchhiked for quite a lot of years in her life, and here what a money attitude she faces all the time. Eventually, Kitty R. and Sir Last are taken by a lovely couple of refugees (_taken to the United States in the 1970s, oh Khmer Rouge, ...)_. 60 km further Kitty R. and Sir Last stand next to the road again. Children smile to them broadly. Sometimes, slightly embarrassed, they shout Hello! Adults passing by on scooters or bicycles, also smile very nicely, but with astonishment, not understanding what Kitty R. and Sir Last are doing there, standing by the road and waving one’s hand. In the end Kitty R. and Sir Last are crushed by the situation, dust and heat, so get into a paid minivan. The driver does not take his hand off the horn and his leg from the gas. Tuk tuk, cyclists, pedestrians flee from his path in the last moments. Only once the driver yeilds the road; to a larger truck. Then, he smiles nervously. If only Kitty R. knew Khmer, she would gladly tell driver the truth ('Please, Sir, it's not an ambulance! Sir you are driving a small, rusted van from point A to B! Hells bells!'). And then a quick switch from the minivan to ride a scooter in Asian style (Kitty R., Sir Last, Driver, Two Backpacks and everythig on just One Small Scooter).
 
  And so Kitty R. and Sir Last arrive to Kep.
 
@@ -34,28 +34,26 @@ At one point, Kitty R. notices a very tall building standing out from the others
 
 P.S. If you click on one of the photos below, it will open a photo gallery.
 
+{{< fancybox "cloudinary" "2_fycnno.jpg" "  'Old times' in Phnom Penh" "gallery" >}}
 
+{{< fancybox "cloudinary" "3Phnom_Penh_q7bnmn.jpg" "  Near waste river, Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_fycnno.jpg" " 'Old times' in Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "4Russian_market_ruuqb2.jpg" "  Russian market, Phnom Penh" "gallery" >}}
 
-{{< fancybox "cloudinary" "3Phnom_Penh_q7bnmn.jpg" " Near waste river, Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "6_dxdmgl.jpg" "  On the way to South Cambodia" "gallery" >}}
 
-{{< fancybox "cloudinary" "4Russian_market_ruuqb2.jpg" " Russian market, Phnom Penh" "gallery" >}}
+{{< fancybox "cloudinary" "7aCran_market_in_Kepp_lmc2kj.jpg" "  Crab market, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_dxdmgl.jpg" " On the way to South Cambodia" "gallery" >}}
+{{< fancybox "cloudinary" "7b_k9z1hr.jpg" "  Lunch break in Crab Market, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7aCran_market_in_Kepp_lmc2kj.jpg" " Crab market, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" "  Crab business, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_k9z1hr.jpg" " Lunch break in Crab Market, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "7zz_zkg9cr.jpg" "  Seafood on sticks, Kep" "gallery" >}}
 
-{{< fancybox "cloudinary" "7Crab_market_lopozg.jpg" " Crab business, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "8Crab_market_in_Kep_qbjtg0.jpg" "  Saleswoman and her goods, Kep." "gallery" >}}
 
-{{< fancybox "cloudinary" "7zz_zkg9cr.jpg" " Seafood on sticks, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_xh1uz0.jpg" "  French Era Ghost Town, Kep." "gallery" >}}
 
-{{< fancybox "cloudinary" "8Crab_market_in_Kep_qbjtg0.jpg" " Saleswoman and her goods, Kep." "gallery" >}}
+{{< fancybox "cloudinary" "9zz_ahxegl.jpg" "  Triple horn whitey in French Era Ghost Town, Kep. " "gallery" >}}
 
-{{< fancybox "cloudinary" "9French_era_ghost_town_Kep_xh1uz0.jpg" " French Era Ghost Town, Kep." "gallery" >}}
-
-{{< fancybox "cloudinary" "9zz_ahxegl.jpg" " Triple horn whitey in French Era Ghost Town, Kep. " "gallery" >}}
-
-{{< fancybox "cloudinary" "10_qmymlo.jpg" " Basics in bedroom, Kep" "gallery" >}}
+{{< fancybox "cloudinary" "10_qmymlo.jpg" "  Basics in bedroom, Kep" "gallery" >}}
