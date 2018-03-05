@@ -14,7 +14,6 @@ collections: # A list of collections the CMS should be able to edit
       field: language
       value: en
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
@@ -35,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
       field: language
       value: pl
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}.pl"
+    extension: "pl.md"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
