@@ -55,3 +55,9 @@ In the next episode, a real Saigon, and so much happens there!
 {{< fancybox "cloudinary" "16a_lrvqna.jpg" " Photo made by older boy, local resident. " "gallery" >}}
 
 {{< fancybox "cloudinary" "17_daltbc.jpg" " Floating village on the river Mekong. " "gallery" >}}
+
+{{< fancybox "cloudinary" "21_hv6aqu.jpg" " Sunset in Kratie. " "gallery" >}}
+
+{{< fancybox "cloudinary" "25_laso8s.jpg " " Sunset in Kitty's bedroom. " "gallery" >}}
+
+{{< fancybox "cloudinary" "29_cg8wny.jpg" " Night walk in Kratie. " "gallery" >}}
