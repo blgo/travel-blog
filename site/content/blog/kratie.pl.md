@@ -68,4 +68,6 @@ W następnym odcinku istny Sajgon, tam to się dzieje!
 
 {{< fancybox "cloudinary" "29_kditc3.jpg" "  Wieczorny spacer po Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11b_jkml9n.jpg" " Horse in plastic sadness. " "gallery" >}}
+
+
+{{< fancybox "cloudinary" "11b_jkml9n.jpg" " Koń i plastikowa rzeczywistość. " "gallery" >}}
