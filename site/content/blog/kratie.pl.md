@@ -32,10 +32,14 @@ Po tygodniu spędzonym w Kratie Sir Last uprzejmie dziękuje właścicielowi hos
 
 W następnym odcinku istny Sajgon, tam to się dzieje!  
 
-{{< fancybox "cloudinary" "4_n9k8n1.jpg" "  Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "4_n9k8n1.jpg" "   Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5_qsmukz.jpg" "  W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
+{{< fancybox "cloudinary" "5_qsmukz.jpg" "   W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "   Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "" "  Zestaw sprzedawcy kokosów" "gallery" >}}
+{{< fancybox "cloudinary" "" "   Zestaw sprzedawcy kokosów" "gallery" >}}
+
+{{< fancybox "cloudinary" "7a_iwsrpk.jpg" " Płyną na wyspę Kaoh Trong. " "gallery" >}}
+
+{{< fancybox "cloudinary" "8_exfydc.jpg" " Wyspa Kaoh Trong." "gallery" >}}
