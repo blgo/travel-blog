@@ -49,3 +49,15 @@ W następnym odcinku istny Sajgon, tam to się dzieje!
 {{< fancybox "cloudinary" "11_lyhliq.jpg" " Rowery marki Syzyf ;)" "gallery" >}}
 
 {{< fancybox "cloudinary" "11a_ecz1p5.jpg" " Lód na wagę. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11b_euv104.jpg" " Koń i plastik. " "gallery" >}}
+
+{{< fancybox "cloudinary" "12_pabrdx.jpg" " Wybrzeże wyspy Kaoh Trong." "gallery" >}}
+
+{{< fancybox "cloudinary" "13_v9e0fo.jpg" " Chłopcy, mieszkańcy wyspy na Mekongu, " "gallery" >}}
+
+{{< fancybox "cloudinary" "14_ewjrzt.jpg" " Spójrzcie głęboko w oczy temu chłopcu, a ujrzycie autorów zdjęcia ;)" "gallery" >}}
+
+{{< fancybox "cloudinary" "16a_lrvqna.jpg" " Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
+
+{{< fancybox "cloudinary" "17_daltbc.jpg" " Plywające wioski na Mekongu. " "gallery" >}}
