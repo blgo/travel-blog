@@ -61,3 +61,7 @@ W następnym odcinku istny Sajgon, tam to się dzieje!
 {{< fancybox "cloudinary" "16a_lrvqna.jpg" " Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
 
 {{< fancybox "cloudinary" "17_daltbc.jpg" " Plywające wioski na Mekongu. " "gallery" >}}
+
+{{< fancybox "cloudinary" "21_hv6aqu.jpg" " Zachód słońca w Kratie." "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
