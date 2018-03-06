@@ -42,4 +42,16 @@ In the next episode, a real Saigon, and so much happens there!
 
 {{< fancybox "cloudinary" "8_exfydc.jpg" " At the shore of the island. " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" " Cow eating mango..." "gallery" >}}
+
+{{< fancybox "cloudinary" "11a_ecz1p5.jpg" " Ice seller. " "gallery" >}}
+
+{{< fancybox "cloudinary" "12_pabrdx.jpg" " The other side of the island. " "gallery" >}}
+
+{{< fancybox "cloudinary" "13_v9e0fo.jpg" " Local residents on Kaoh Trong. " "gallery" >}}
+
+{{< fancybox "cloudinary" "14_ewjrzt.jpg" " Look carefully inside his eyes - you will find out two authors of the photo ;) " "gallery" >}}
+
+{{< fancybox "cloudinary" "16a_lrvqna.jpg" " Photo made by older boy, local resident. " "gallery" >}}
+
+{{< fancybox "cloudinary" "17_daltbc.jpg" " Floating village on the river Mekong. " "gallery" >}}
