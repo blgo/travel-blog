@@ -64,4 +64,6 @@ W następnym odcinku istny Sajgon, tam to się dzieje!
 
 {{< fancybox "cloudinary" "21_hv6aqu.jpg" " Zachód słońca w Kratie." "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "25_laso8s.jpg" " Zachód słońca w pokoju. " "gallery" >}}
+
+{{< fancybox "cloudinary" "29_kditc3.jpg" " Wieczorny spacer po Kratie. " "gallery" >}}
