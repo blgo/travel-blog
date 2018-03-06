@@ -36,10 +36,16 @@ W następnym odcinku istny Sajgon, tam to się dzieje!
 
 {{< fancybox "cloudinary" "5_qsmukz.jpg" "   W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "   Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "6_wlo0y8.jpg" "   Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
 
 {{< fancybox "cloudinary" "" "   Zestaw sprzedawcy kokosów" "gallery" >}}
 
 {{< fancybox "cloudinary" "7a_iwsrpk.jpg" " Płyną na wyspę Kaoh Trong. " "gallery" >}}
 
 {{< fancybox "cloudinary" "8_exfydc.jpg" " Wyspa Kaoh Trong." "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " Krowy jedzą mango. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11_lyhliq.jpg" " Rowery marki Syzyf ;)" "gallery" >}}
+
+{{< fancybox "cloudinary" "11a_ecz1p5.jpg" " Lód na wagę. " "gallery" >}}
