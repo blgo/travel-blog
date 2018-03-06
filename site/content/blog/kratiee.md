@@ -61,3 +61,5 @@ In the next episode, a real Saigon, and so much happens there!
 {{< fancybox "cloudinary" "25_laso8s.jpg " " Sunset in Kitty's bedroom. " "gallery" >}}
 
 {{< fancybox "cloudinary" "29_cg8wny.jpg" " Night walk in Kratie. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11b_jkml9n.jpg" " Horse in plastic sadness. " "gallery" >}}
