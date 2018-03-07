@@ -28,46 +28,44 @@ Pewnego dnia Kicia R. i Sir Last wsiadają na rowery (znów marka Syzyf) i udaj�
 
 Po środku wyspy pola uprawne, obecnie w porze suchej wyglądają ubogo. Dookoła wyspy prowadzi ścieżka wśród przybrzeżnych palm i bambusów oraz drzew owocowych. Pod tymi ostatnimi wypasają się krowy, a krowa jedząca mango prosto z drzewa wzbudza w Kici R. kulturowe (?!), zabawne zdziwienie. Domostwa osadzone na wysokich palach przynoszą miłe zaskoczenie; są pięknie uporządkowane i wysprzątane, nie ma tu porozrzucanych ton plastikowych śmieci, jak to Kicia R. do tej pory obserwowała wszędzie w Kambodży. Mężczyźni przy drodze obrabiają długie bambusowe tyczki, a kobiety zajmują się liśćmi w wiklinowych, płaskich koszach. Wszyscy mijani wchodzą w Hello bądź po prostu uśmiech interakcję z przejeżdżającymi na rowerze Kicią R. i Sir Lastem. Na wyspie, Kicia R. z  radością również odwraca stereotypowe role; zamiast robić zdjęcia ‘biednym, khmerskim dzieciom’, wręcza chłopcu swój aparat i uczy go prostych funkcji. Chłopiec zafascynowany, żywo fotografuje Kicię, Sir Lasta, patyk, owoce, domy oraz swojego młodszego brata. Ten ostatni, zupełny maluch, przez cały czas stoi półnagi i patrzy swymi ogromnymi, pięknymi oczami; z lekkim zdziwieniem, ale zupełnie spokojnie, trochę jakby zahipnotyzowany. Oczywiście, że Kicia  R. ma zgodę rodziców na zdjęcia; mama chłopców po czasie nawet ogląda pierwsze sukcesy fotograficzne syna w aparacie. A chłopcy sami zaciekawieni podeszli do Kici R. i zainicjowali zabawę. 
 
-Po tygodniu spędzonym w Kratie Sir Last uprzejmie dziękuje właścicielowi hostelu za propozycję współpracy (Sir Last biznesmen, patrzcie państwo!) i pakuje się razem z Kicią R. do autobusu, by ruszyć na podbój Wietnamu. 
+Po tygodniu spędzonym w Kratie Sir Last uprzejmie dziękuje właścicielowi hostelu za propozycję współpracy (Sir Last biznesmenem, patrzcie Państwo!) i pakuje się razem z Kicią R. do autobusu, by ruszyć na podbój Wietnamu. 
 
-W następnym odcinku istny Sajgon, tam to się dzieje!  
+Koniec przerwy technicznej i nudy. W następnym odcinku istny Sajgon, tam to się dzieje!  
 
-{{< fancybox "cloudinary" "4_n9k8n1.jpg" "    Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "4_n9k8n1.jpg" "     Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5_qsmukz.jpg" "    W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
+{{< fancybox "cloudinary" "5_qsmukz.jpg" "     W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_wlo0y8.jpg" "    Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "6_wlo0y8.jpg" "     Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "" "    Zestaw sprzedawcy kokosów" "gallery" >}}
+{{< fancybox "cloudinary" "28755883_10213721474448541_1648748533_o_n0q5tb.jpg" "     Zestaw sprzedawcy kokosów" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "  Płyną na wyspę Kaoh Trong. " "gallery" >}}
+{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "   Płyną na wyspę Kaoh Trong. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_exfydc.jpg" "  Wyspa Kaoh Trong." "gallery" >}}
+{{< fancybox "cloudinary" "8_exfydc.jpg" "   Wyspa Kaoh Trong." "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  Krowy jedzą mango. " "gallery" >}}
+{{< fancybox "cloudinary" "28822679_10213721474608545_1749168911_o_ltfdhy.jpg" "   Krowy jedzą mango. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_lyhliq.jpg" "  Rowery marki Syzyf ;)" "gallery" >}}
+{{< fancybox "cloudinary" "11_lyhliq.jpg" "   Rowery marki Syzyf ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "  Lód na wagę. " "gallery" >}}
+{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "   Lód na wagę. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11b_euv104.jpg" "  Koń i plastik. " "gallery" >}}
+{{< fancybox "cloudinary" "11b_euv104.jpg" "   Koń i plastik. " "gallery" >}}
 
-{{< fancybox "cloudinary" "12_pabrdx.jpg" "  Wybrzeże wyspy Kaoh Trong." "gallery" >}}
+{{< fancybox "cloudinary" "12_pabrdx.jpg" "   Wybrzeże wyspy Kaoh Trong." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_v9e0fo.jpg" "  Chłopcy, mieszkańcy wyspy na Mekongu, " "gallery" >}}
+{{< fancybox "cloudinary" "13_v9e0fo.jpg" "   Chłopcy, mieszkańcy wyspy na Mekongu, " "gallery" >}}
 
-{{< fancybox "cloudinary" "14_ewjrzt.jpg" "  Spójrzcie głęboko w oczy temu chłopcu, a ujrzycie autorów zdjęcia ;)" "gallery" >}}
+{{< fancybox "cloudinary" "14_ewjrzt.jpg" "   Spójrzcie głęboko w oczy temu chłopcu, a ujrzycie autorów zdjęcia ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16a_lrvqna.jpg" "  Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
+{{< fancybox "cloudinary" "16a_lrvqna.jpg" "   Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "17_daltbc.jpg" "  Plywające wioski na Mekongu. " "gallery" >}}
+{{< fancybox "cloudinary" "17_daltbc.jpg" "   Plywające wioski na Mekongu. " "gallery" >}}
 
-{{< fancybox "cloudinary" "21_hv6aqu.jpg" "  Zachód słońca w Kratie." "gallery" >}}
+{{< fancybox "cloudinary" "21_hv6aqu.jpg" "   Zachód słońca w Kratie." "gallery" >}}
 
-{{< fancybox "cloudinary" "25_laso8s.jpg" "  Zachód słońca w pokoju. " "gallery" >}}
+{{< fancybox "cloudinary" "25_laso8s.jpg" "   Zachód słońca w pokoju. " "gallery" >}}
 
-{{< fancybox "cloudinary" "29_kditc3.jpg" "  Wieczorny spacer po Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "29_kditc3.jpg" "   Wieczorny spacer po Kratie. " "gallery" >}}
 
-
-
-{{< fancybox "cloudinary" "11b_jkml9n.jpg" " Koń i plastikowa rzeczywistość. " "gallery" >}}
+{{< fancybox "cloudinary" "11b_jkml9n.jpg" "  Koń i plastikowa rzeczywistość. " "gallery" >}}
