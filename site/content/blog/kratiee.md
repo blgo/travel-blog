@@ -60,7 +60,7 @@ The end of technical break and boredom. In the next episode, a real Saigon, and 
 
 {{< fancybox "cloudinary" "21_hv6aqu.jpg" "   Sunset in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "25_laso8s.jpg " "   Sunset in Kitty's bedroom. " "gallery" >}}
+{{< fancybox "cloudinary" "25_laso8s.jpg" "   Sunset in Kitty's bedroom. " "gallery" >}}
 
 {{< fancybox "cloudinary" "29_cg8wny.jpg" "   Night walk in Kratie. " "gallery" >}}
 
