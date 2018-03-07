@@ -1,5 +1,5 @@
 ---
-title: KRATIEE
+title: KRATIE
 description: >-
   About strong looks, a non-touristic marketplace and Khmer children on the
   other side of the camera lens.
@@ -32,36 +32,36 @@ After a week spent in Kratie, Sir Last thanks the owner of the hostel for the wo
 
 The end of technical break and boredom. In the next episode, a real Saigon, and so much happens there!
 
-{{< fancybox "cloudinary" "4_n9k8n1.jpg" "   Local market in Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "4_n9k8n1.jpg" "    Local market in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5_qsmukz.jpg" "   Local market in Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "5_qsmukz.jpg" "    Local market in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_xmhfjn.jpg" "   Fresh fish in local market in Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "6_xmhfjn.jpg" "    Fresh fish in local market in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "  Sailing to the island - Kaoh Trong. " "gallery" >}}
+{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "   Sailing to the island - Kaoh Trong. " "gallery" >}}
 
-{{< fancybox "cloudinary" "28755883_10213721474448541_1648748533_o_zsxlrg.jpg" " Coconuts seller's set. " "gallery" >}}
+{{< fancybox "cloudinary" "28755883_10213721474448541_1648748533_o_zsxlrg.jpg" "  Coconuts seller's set. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_exfydc.jpg" "  At the shore of the island. " "gallery" >}}
+{{< fancybox "cloudinary" "8_exfydc.jpg" "   At the shore of the island. " "gallery" >}}
 
-{{< fancybox "cloudinary" "28822679_10213721474608545_1749168911_o_ltfdhy.jpg" "  Cow eating mango..." "gallery" >}}
+{{< fancybox "cloudinary" "28822679_10213721474608545_1749168911_o_ltfdhy.jpg" "   Cow eating mango..." "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "  Ice seller. " "gallery" >}}
+{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "   Ice seller. " "gallery" >}}
 
-{{< fancybox "cloudinary" "12_pabrdx.jpg" "  The other side of the island. " "gallery" >}}
+{{< fancybox "cloudinary" "12_pabrdx.jpg" "   The other side of the island. " "gallery" >}}
 
-{{< fancybox "cloudinary" "13_v9e0fo.jpg" "  Local residents on Kaoh Trong. " "gallery" >}}
+{{< fancybox "cloudinary" "13_v9e0fo.jpg" "   Local residents on Kaoh Trong. " "gallery" >}}
 
-{{< fancybox "cloudinary" "14_ewjrzt.jpg" "  Look carefully inside his eyes - you will find out two authors of the photo ;) " "gallery" >}}
+{{< fancybox "cloudinary" "14_ewjrzt.jpg" "   Look carefully inside his eyes - you will find out two authors of the photo ;) " "gallery" >}}
 
-{{< fancybox "cloudinary" "16a_lrvqna.jpg" "  Photo made by older boy, local resident. " "gallery" >}}
+{{< fancybox "cloudinary" "16a_lrvqna.jpg" "   Photo made by older boy, local resident. " "gallery" >}}
 
-{{< fancybox "cloudinary" "17_daltbc.jpg" "  Floating village on the river Mekong. " "gallery" >}}
+{{< fancybox "cloudinary" "17_daltbc.jpg" "   Floating village on the river Mekong. " "gallery" >}}
 
-{{< fancybox "cloudinary" "21_hv6aqu.jpg" "  Sunset in Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "21_hv6aqu.jpg" "   Sunset in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "25_laso8s.jpg " "  Sunset in Kitty's bedroom. " "gallery" >}}
+{{< fancybox "cloudinary" "25_laso8s.jpg " "   Sunset in Kitty's bedroom. " "gallery" >}}
 
-{{< fancybox "cloudinary" "29_cg8wny.jpg" "  Night walk in Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "29_cg8wny.jpg" "   Night walk in Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11b_jkml9n.jpg" "  Horse in plastic sadness. " "gallery" >}}
+{{< fancybox "cloudinary" "11b_jkml9n.jpg" "   Horse in plastic sadness. " "gallery" >}}
