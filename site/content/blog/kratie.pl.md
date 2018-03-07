@@ -32,40 +32,40 @@ Po tygodniu spędzonym w Kratie Sir Last uprzejmie dziękuje właścicielowi hos
 
 Koniec przerwy technicznej i nudy. W następnym odcinku istny Sajgon, tam to się dzieje!  
 
-{{< fancybox "cloudinary" "4_n9k8n1.jpg" "      Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "4_n9k8n1.jpg" "       Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5_qsmukz.jpg" "      W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
+{{< fancybox "cloudinary" "5_qsmukz.jpg" "       W niebieskim nakryciu głowy, Pan Parkingowy. " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_wlo0y8.jpg" "      Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "6_wlo0y8.jpg" "       Bardzo świeże ryby. Targowisko w Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "28755883_10213721474448541_1648748533_o_n0q5tb.jpg" "      Zestaw sprzedawcy kokosów" "gallery" >}}
+{{< fancybox "cloudinary" "28755883_10213721474448541_1648748533_o_n0q5tb.jpg" "       Zestaw sprzedawcy kokosów" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "    Płyną na wyspę Kaoh Trong. " "gallery" >}}
+{{< fancybox "cloudinary" "7a_iwsrpk.jpg" "     Płyną na wyspę Kaoh Trong. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_exfydc.jpg" "    Wyspa Kaoh Trong." "gallery" >}}
+{{< fancybox "cloudinary" "8_exfydc.jpg" "     Wyspa Kaoh Trong." "gallery" >}}
 
-{{< fancybox "cloudinary" "28822679_10213721474608545_1749168911_o_ltfdhy.jpg" "    Krowy jedzą mango. " "gallery" >}}
+{{< fancybox "cloudinary" "28822679_10213721474608545_1749168911_o_ltfdhy.jpg" "     Krowy jedzą mango. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_lyhliq.jpg" "    Rowery marki Syzyf ;)" "gallery" >}}
+{{< fancybox "cloudinary" "11_lyhliq.jpg" "     Rowery marki Syzyf ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "    Lód na wagę. " "gallery" >}}
+{{< fancybox "cloudinary" "11a_ecz1p5.jpg" "     Lód na wagę. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11b_euv104.jpg" "    Koń i plastik. " "gallery" >}}
+{{< fancybox "cloudinary" "11b_euv104.jpg" "     Koń i plastik. " "gallery" >}}
 
-{{< fancybox "cloudinary" "12_pabrdx.jpg" "    Wybrzeże wyspy Kaoh Trong." "gallery" >}}
+{{< fancybox "cloudinary" "12_pabrdx.jpg" "     Wybrzeże wyspy Kaoh Trong." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_v9e0fo.jpg" "    Chłopcy, mieszkańcy wyspy na Mekongu, " "gallery" >}}
+{{< fancybox "cloudinary" "13_v9e0fo.jpg" "     Chłopcy, mieszkańcy wyspy na Mekongu, " "gallery" >}}
 
-{{< fancybox "cloudinary" "14_ewjrzt.jpg" "    Spójrzcie głęboko w oczy temu chłopcu, a ujrzycie autorów zdjęcia ;)" "gallery" >}}
+{{< fancybox "cloudinary" "14_ewjrzt.jpg" "     Spójrzcie głęboko w oczy temu chłopcu, a ujrzycie autorów zdjęcia ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16a_lrvqna.jpg" "    Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
+{{< fancybox "cloudinary" "16a_lrvqna.jpg" "     Autorem zdjęcia jest Starszy Chłopiec poznany na wyspie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "17_daltbc.jpg" "    Plywające wioski na Mekongu. " "gallery" >}}
+{{< fancybox "cloudinary" "17_daltbc.jpg" "     Plywające wioski na Mekongu. " "gallery" >}}
 
-{{< fancybox "cloudinary" "21_hv6aqu.jpg" "    Zachód słońca w Kratie." "gallery" >}}
+{{< fancybox "cloudinary" "21_hv6aqu.jpg" "     Zachód słońca w Kratie." "gallery" >}}
 
-{{< fancybox "cloudinary" "25_laso8s.jpg" "    Zachód słońca w pokoju. " "gallery" >}}
+{{< fancybox "cloudinary" "25_laso8s.jpg" "     Zachód słońca w pokoju. " "gallery" >}}
 
-{{< fancybox "cloudinary" "29_kditc3.jpg" "    Wieczorny spacer po Kratie. " "gallery" >}}
+{{< fancybox "cloudinary" "29_kditc3.jpg" "     Wieczorny spacer po Kratie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11b_jkml9n.jpg" "   Koń i plastikowa rzeczywistość. " "gallery" >}}
+{{< fancybox "cloudinary" "11b_jkml9n.jpg" "    Koń i plastikowa rzeczywistość. " "gallery" >}}
