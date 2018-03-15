@@ -20,26 +20,26 @@ In the evening, Kitty R. and Sir Last enjoy some art. A beautiful musical settin
 
 The next day Kitty R. and Sir Last come to Little Paris, the town of Da Lat. The location of the city at 1500m above sea level makes Kitty R. and Sir Last gasp for air (such an unbelievable change after a tropical climate that Kitty R. loses her voice for 4 days). Kitty R. is delighted by observing the ubiquitous teahouses, i.e. tiny tables with tiny chairs, small jugs where men seem to sit out all day long sipping green tea or coffee and enjoying countless cigarettes. Kitty R. and Sir Last enter the cafe and ask for tea, unfortunately the lady with slight surprise shakes her head firmly that only coffee can be ordered. Due to the lack of choice, they decide to have coffee with condensed milk, that is again in Vietnamese style (two sips and immediately +100 points to power and work of the heart, not some snow lotuses..). They quickly realize that the tea could not be ordered because it is always hot, in thermos, on every table ... for free!
 
-{{< fancybox "cloudinary" "1_clmdys.jpg " "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "1_clmdys.jpg " " Museum-tea-house in Ho Chi Minh. " "gallery" >}}
 
-{{< fancybox "cloudinary" "1z_dyv620.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "1z_dyv620.jpg" " Non-pavement." "gallery" >}}
 
-{{< fancybox "cloudinary" "2_kiswiw.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "2_kiswiw.jpg" " Ho Chi Minh City" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_kfm5tt.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "3_kfm5tt.jpg" " Ho Chi Minh City." "gallery" >}}
 
-{{< fancybox "cloudinary" "4_jvp5af.jpg " "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "4_jvp5af.jpg " " New way of watching the show in theatre." "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF0634_sambqs.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF0634_sambqs.jpg" " Kitty R. and Morning Glory (the only 'salad' they serve here). " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_sifidd.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_sifidd.jpg" " Architecture in Da Lat. " "gallery" >}}
 
-{{< fancybox "cloudinary" "7_rlora4.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7_rlora4.jpg" " Architecture in Da Lat, inspired by Antoni Gaudi. " "gallery" >}}
 
-{{< fancybox "cloudinary" "7z_npypxm.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7z_npypxm.jpg" " Kitty R. recommends: avocado-mango-passion fruit mix. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_vol9cl.jpg " " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_vol9cl.jpg " " Nha Trang." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_szla9g.jpg " " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_szla9g.jpg " " Nha Trang." "gallery" >}}
 
-{{< fancybox "cloudinary" "11_atneuf.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "11_atneuf.jpg" " In the night train heading north. " "gallery" >}}
