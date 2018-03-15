@@ -34,12 +34,12 @@ Kolejnego dnia Kicia R. i Sir Last wybierają się do Małego Paryża, czyli mie
 
 {{< fancybox "cloudinary" "6_sifidd.jpg" " Architektura w Da Lat." "gallery" >}}
 
-{{< fancybox "cloudinary" "7_rlora4.jpg" " Architektura w Da Lat (" "gallery" >}}
+{{< fancybox "cloudinary" "7_rlora4.jpg" " Architektura w Da Lat inspirowana Antonim Gaudi. " "gallery" >}}
 
-{{< fancybox "cloudinary" "7z_npypxm.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7z_npypxm.jpg" " Kicia R. poleca kombinację: avocado-marakuja-mango. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_vol9cl.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_vol9cl.jpg" " Nha Trang" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_szla9g.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_szla9g.jpg" " Nha Trang." "gallery" >}}
 
-{{< fancybox "cloudinary" "11_atneuf.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "11_atneuf.jpg" " Nocnym pociągiem ruszyli na północ." "gallery" >}}
