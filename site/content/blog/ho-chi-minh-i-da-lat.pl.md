@@ -36,6 +36,10 @@ Kolejnego dnia Kicia R. i Sir Last wybierają się do Małego Paryża, czyli mie
 
 {{< fancybox "cloudinary" "DSCF0634_sambqs.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_sifidd.jpg" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "7_rlora4.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "7z_npypxm.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_vol9cl.jpg" " undefined" "gallery" >}}
