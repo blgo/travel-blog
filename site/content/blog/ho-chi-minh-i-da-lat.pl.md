@@ -3,7 +3,7 @@ title: HO CHI MINH I DA LAT
 description: >-
   Krótka historia o śnieżnym lotosie, kawie z jajkiem i żółwiu, co zabrał
   ludziom miecz.
-destinations: Vietnam
+destinations: Wietnam
 featured: 0title_yjzqzs.jpg
 featuredpath: cloudinary
 date: '2018-03-15T12:54:06+00:00'
@@ -20,30 +20,26 @@ Wieczorem Kicia R. i Sir Last zaznają trochę sztuki. Przepiękna oprawa muzycz
 
 Kolejnego dnia Kicia R. i Sir Last wybierają się do Małego Paryża, czyli miejscowości Da Lat. Położenie miasta na wysokości 1500m n.p.m. sprawia, że Kicia R. i Sir Last wręcz zachłystują się powietrzem (tak niewiarygodna odmiana po tropikalnym klimacie, że Kicia traci głos na 4 dni). Kicię R. zachwycają wszechobecne herbaciarnie, czyli malutkie stoliczki z malutkimi krzesełkami, małymi dzbanuszkami, przy których nie malutcy mężczyźni zdają się przesiadywać całe dnie popijając zieloną herbatę lub kawę i racząc się niezliczoną liczbą papierosów. Kicia R. i Sir Last wchodzą do kawiarni i proszą o herbatę, niestety pani z lekkimm zdziwieniem, lecz stanowczo pokazuje ruchem głowy, że zamówić można tylko kawę. Z braku wyboru decydują się więc na kawę ze skondensowanym mlekiem, czyli znów po wietnamsku (dwa łyki i od razu +100 punktów do mocy i pracy serca, a nie jakieś śnieżne lotosy). Szybko orientują się, że herbaty nie mogli zamówić, ponieważ ta jest zawsze  gorąca, w termosach, na każdym stole... za darmo!
 
+{{< fancybox "cloudinary" "1_clmdys.jpg" "  muzeo-herbaciarnia" "gallery" >}}
 
+{{< fancybox "cloudinary" "1z_dyv620.jpg" " nie-chodnik." "gallery" >}}
 
-{{< fancybox "cloudinary" "1_clmdys.jpg" " muzeo-herbaciarnia" "gallery" >}}
+{{< fancybox "cloudinary" "2_kiswiw.jpg" " Ho Chi Minh" "gallery" >}}
 
-{{< fancybox "cloudinary" "1z_dyv620.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "3_kfm5tt.jpg" " Ho Chi Minh" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_kiswiw.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "4_jvp5af.jpg" " Nowe obyczaje w teatrze. " "gallery" >}}
 
-{{< fancybox "cloudinary" "3_kfm5tt.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF0634_sambqs.jpg" " Kicia R. i Morning Glory, czyli jedyna dostępna sałatka. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4_jvp5af.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_sifidd.jpg" " Architektura w Da Lat." "gallery" >}}
 
+{{< fancybox "cloudinary" "7_rlora4.jpg" " Architektura w Da Lat (" "gallery" >}}
 
+{{< fancybox "cloudinary" "7z_npypxm.jpg" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF0634_sambqs.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_vol9cl.jpg" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_sifidd.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_szla9g.jpg" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_rlora4.jpg" " undefined" "gallery" >}}
-
-{{< fancybox "cloudinary" "7z_npypxm.jpg" " undefined" "gallery" >}}
-
-{{< fancybox "cloudinary" "8_vol9cl.jpg" " undefined" "gallery" >}}
-
-{{< fancybox "cloudinary" "10_szla9g.jpg" " undefined" "gallery" >}}
-
-{{< fancybox "cloudinary" "11_atneuf.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "11_atneuf.jpg" "  undefined" "gallery" >}}
