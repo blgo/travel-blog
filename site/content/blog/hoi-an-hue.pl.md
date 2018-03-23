@@ -53,3 +53,5 @@ Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przec
 {{< fancybox "cloudinary" "10_cn1gcr.jpg" " Hue" "gallery" >}}
 
 {{< fancybox "cloudinary" "11_lvakgd.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_zjh8is.jpg" " Opuszczony park wodny" "gallery" >}}
