@@ -47,3 +47,15 @@ Ha, Kitty R. has today turned her nose up, hasn’t she? (do not get her wrong, 
 {{< fancybox "cloudinary" "5_zzdnhz.jpg" " Hoi An" "gallery" >}}
 
 {{< fancybox "cloudinary" "6_nduv5h.jpg" " Selfies in Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_qibsgk.jpg" " Ears cleaning (better do it at home on your own..)" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_alkwey.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_v9mnim.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_cn1gcr.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_lvakgd.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_zjh8is.jpg" " Abandoned water park" "gallery" >}}
