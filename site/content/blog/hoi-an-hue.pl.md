@@ -12,54 +12,70 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-Travelling around Southeast Asia is simple and sweetly thoughtless. After landing, most often in Bangkok or Hanoi, the tourist is immediately taken into a spider's backpacker network, not requiring from him too much thinking or organizing. Town after town, attraction after attraction, thread by thread; offer attack at every step. To get out of this imposed network is probably possible only for lucky motorbike owners or very fierce hitchhikers. A specific travel dress code also seems to be solid here; dresses and trousers predominate in banana and watermelon patterns (Kitty’s favourite couple is the one dressed as a pineapple-couple). The question remains, for which Kitty R. is looking for the answer constantly: where do the local residents buy their clothes (as they wear completely different and often really nice fabrics)? The answer to that brings Kitty R. nice blue shirt. 
+Podróżowanie po Azji Południowo-Wschodniej jest co najmniej proste i słodko bezmyślne. Po lądowaniu, najczęściej w Bangkoku lub Hanoi, przyjezdny od razu wpada w pajęczą, backpackerską sieć połączeń, nie wymagającą od niego za dużo myślenia i kombinowania. Miasto za miastem, atrakcja po atrakcji, nitka po nitce; atak ofert na każdym kroku. Wyplątać się z tej narzuconej odgórnie sieci mogą chyba jedynie posiadacze własnego motocyklu bądź bardzo zawzięci autostopowicze. Zdaje się tu też obowiązywać określony turystyczny dress code; dominują sukienki i spodnie w bananowe i arbuzowe wzory (Kici R. ulubiona napotkana para to ta ubrana jednakowo jako pineapple-couple), co stawia pytanie, na które Kicia R. nieustannie szuka odpowiedzi: gdzie kupują ubrania lokalni mieszkańcy (noszą zupenie inne, często naprawdę ładne rzeczy)? Z niejakim trudem, ale znajduje odpowiedź i zakupują z Sir Lastem dwie, po prostu niebieskie koszule. 
 
-Kitty R. thinks that the world seems to be such a global village, that cultural differences are getting blurred, as if someone has spilled a glass of water on the definition of diversity. Now, Kitty R. is at the other end of the world, put in the category: far from the family home, but does not experience that situation as much as she would like; she is not a discoverer or collector of spectacularly new experiences (maybe it's hard to surprise her, because she watched too many movies in her childhood?). Speaking about movies, Kitty R. thinks that we should hurry to see travel documents, because soon all will be just theater, local residents playing their roles, even animals will become props (W. already claims that there are no real animals anymore). 
 
-And so, somewhere in Vietnam, the sad aspects of globalization knocked Kitty’s head; leaving her with a fear that everything-everywhere will soon be the same (folk, traditions, diverse culture, do not disappear!).
 
-In South-East Asia, Kitty R. stubbornly tries to find relish and surprise, as if she wanted to scrape it out of the pictures she finds during her travels. What she actually finds is hidden in subtlety. _Kitty R. calmly and patiently waits at the pedestrian crossing, and the sea of two-wheelers is coming from every direction. Suddenly a young man approaches her and using gestures without words, grabs her arm and carries her safely to the other side of the road, then leaves her there and turns his back. The situation is like a lesson of good manners and helping older people, and yet Kitty R. is still young. She sends a smile to the young helper and in all to a pleasant situation._ It’s obvious that’s not the age that matters in that situation. 
+Kicia R. w ogóle sobie myśli, że świat zdaje się być już tak bardzo globalną wioską, że różnice kulturowe się rozmywają, jakby ktoś na definicje różnorodności rozlał szklankę wody. Kicia R. jest na drugim końcu świata, w kategorii: daleko od rodzinnego domu, ale nie przeżywa sytuacji tak mocno jakby chciała; nie jest odkrywcą ani kolekcjonerem spektakularnie nowych wrażeń i doświadczeń (może ciężko ją zaskoczyć, bo w dzieciństwie się za dużo filmów naoglądała?). Przy okazji, jeśli o filmy chodzi to Kicia R. myśli, że należy śpieszyć się oglądać dokumenty podróżnicze, bo wkrótce wszystkie będą teatrem i reżyserką; nawet zwierzęta staną się rekwizytami (W. to już mówi, że prawdziwch zwierząt już nie ma). I tak oto, gdzieś w Wietnamie, smutne aspekty globalizacji zastukały do Kiciowej głowy; teraz boi się, że wszystko-wszędzie-wkrótce, będzie takie samo (folku, tradycjo, różnorodna kulturo, nie znikaj!).  
 
-\- Hey Kitty, you are at the end of the world! How is there?
 
-\- I am, but you know it is the same ... People also drink coke, like football, laugh or get angry. Only the food is different and sometimes I see something else, but even the waves on the sea break down the same way, would you believe?
 
-\-Kitty R., but how do you communicate with locals on the go, without a common language? Banal, that’s all it is. Knowledge of a common language is not necessary, and body language itself is sometimes more important than words. _An elderly Vietnamese lady is singing a folk song in the comfort of her home. She sings beautifully and especially for Kitty R., although she did not ask for it. When time catches up with Kitty R. and she has to go, the older Vietnamese hugs Kitty R. and kisses her on the cheek as if she was her daughter; and yet the language barrier did not allow them even to have the basics of conversation._ Sharing a song from the heart and a maternal embrace is for Kitty R. a new dimension of the global village (your home is where... you are?).
+W Azji Południowo-Wschodniej Kicia R. z uporem stara się wyszukiwać smaczki i zaskoczenia, tak jakby chciała je wręcz wyskrobać z zastanego w podróży obrazka. I to, co odnajduje, kryje się tak naprawdę w subtelności. Kicia R. spokojnie i cierpliwie czeka na przejściu dla pieszych, a morze nie zwalniających dwukołowców nadciąga z każdej strony. Wtem podchodzi do niej młody człowiek i za pomocą gestów bez słów, chwyta ją pod ramię i przeprowadza bezpiecznie na drugą stronę drogi po czym zostawia ją tam i sam zawraca. Sytuacja jak z lekcji dobrego wychowania i pomagania starszym osobom, a przecież Kicia R. jest jeszcze młoda. Uśmiech śle swojemu rówieśnikowi i tak miłej sytuacji, choć tu przecież nie o wiek tak naprawdę chodzi. 
 
-Subtle discoveries are also hidden in just the movement itself. If travelling around Vietnam without your own motorbike, then the train is definitely what Kitty R. enjoys the most. Getting into the train happens straight from the level of the tracks, which requires some equilibristics and a few pull ups. The bed place is the size of shelves for analog encyclopedias, provisioned with a duvet and a pillow (no guarantee of cleanliness) and the air conditioning is fully on, so in spite of the hot weather Kitty R. spends the night with socks and a hat on. _The train rocks Kitty R. asleep, and in the morning when she opens her eyes, the sunrise through the window greets her with a moving image of rice fields in the foreground._ The toilet, like on any train, is a real train spotting type (playing pee-and-do-not-touch-anything). At dawn, the whole train resounds with a Vietnamese song that awakens and informs the passengers that they reached their destination (Kitty R. is totally delighted!) 
 
-And so Kitty R. and Sir Last reach Hoi An, where among the beautiful lanterns they try to count how many tourists can fit on one square meter and how many selfies are taken here in a minute? Two questions, one answer: a million. In the next city, Hue, Kitty R. and Sir Last discover a new face of tourism, that is, they visit an abandoned water park. Visiting this place is officially illegal, but apparently at one entrance a local man is already sitting as he smelled the business opportunity and collects entry money from people. The abandoned water park impresses Kitty R. completely due to three things. First of all, the whole water park is placed in the forest around a lake. Secondly, _graffitti is blooming here, and thirdly, truant children gather in a big dragon (once an aquarium) and smoke cigarettes while listening to music _(alternative to school as everywhere else, aww..). In some aspects, the place inspires and pleases Kitty R. even more than Cambodia’s Angkor Wat.
 
-The spidery backpackers network orders Kitty R. and Sir Last to get on the train and head north of Vietnam. There, they will try to get out from the net.
+\- Ale Ty Kiciu jesteś na końcu świata! Jak tam jest?
 
-Ha, Kitty R. has today turned her nose up, hasn’t she? (do not get her wrong, for everyone something else is good). Each for their own. And I’m sure Southeast Asia covers it all up!
+\- Jestem, ale wiesz tu jest tak samo... Ludzie też piją colę, lubią piłkę nożną, śmieją się lub złoszczą. Tylko jedzenie jest inne i czasem coś innego widzę, ale nawet fale na morzu załamują się tak samo, dasz wiarę?
 
-{{< fancybox "cloudinary" "1_vmb6fr.jpg" "      Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_cogy2j.jpg" "      Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_mlspgf.jpg" "      Hoi An" "gallery" >}}
+Kiciu R., ale jak Ty się porozumiewasz z mieszkańcami, bez wspólnego języka? Banał, ot co. Znajomość wspólnego języka nie jest niezbędna, a sama mowa ciała bywa ważniejsza od słów.  Pewna starsza Wietnamka śpiewa ludową pieśń w zaciszu swego domu. Śpiewa przepięknie i specjalnie dla Kici R., choć ona o to nie prosiła. Gdy czas dogania Kicię i musi już iść, starsza Wietnamka przytula Kicię jakby ta była jej córką i całuje ją w policzek; a przecież bariera językowa nie pozwoliła im nawet na podstawy rozmowy. Dzielenie się pieśnią z serca i matczyny uścisk jest dla Kici R. nowym wymiarem globalnej wioski (dom Twój tam gdzie… jesteś?). 
 
-{{< fancybox "cloudinary" "4_ys9oxk.jpg" "      Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_zzdnhz.jpg" "      Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_nduv5h.jpg" "      Selfies in Hoi An" "gallery" >}}
+Subtelne odkrywanie świata to dla Kici R. także samo przemieszczanie się. Jeśli podróż po Wietnamie bez moto, to zdecydowanie pociąg jest tym, co cieszy ją najbardziej. Do samego pociągu wsiada się nie z peronu, a prosto z poziomu torów, co wymaga pewnych zdolności ekwilibrystycznych i kilku podciągnieć. Łóżkowe miejsce jest wielkości półki na analogowe encyklopedie, z kołderką i poduszką, a jakże! (gwarancji czystości brak) i klimatyzacją odpaloną na wszystkie fajerki, czyli mimo upalnej pogody, Kicia R. spędza noc w skarpetkach i czapce. Pociąg przyjemnie kołysze do snu, a rano Kicia R. otwiera oczy i przez okno wita ją wschód słońca z ruchomym obrazem pól ryżowych na pierwszym planie. Toaleta, jak to w każdym pociągu, istny train spotting zapewnia grę w sik-nic-nie-dotyk. O świcie cały pociąg rozbrzmiewa wietnamską pieśnią, która budzi i informuje pasażerów, że są już u celu podróży (totalny Kiciowy zachwyt!). 
 
-{{< fancybox "cloudinary" "7_qibsgk.jpg" "      Ears cleaning." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_alkwey.jpg" "      Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_v9mnim.jpg" "      Hue" "gallery" >}}
+I tak Kicia R. i Sir Last docierają do Hoi An, gdzie wśród pięknych lampionów próbują się doliczyć ile turystów może się zmieścić na jednym metrze kwadratowym oraz ile selfie powstaje tu w ciągu minuty? Dwa pytania, jedna odpowiedź: milion. W następnym mieście, czyli Hue Kicia R. i Sir Last odkrywają nowe oblicze turystyki, czyli zwiedzają opuszczony park wodny, co jest oficjalnie nielegalne, ale podobno przy którymś wejściu na teren siedzi już lokalny człowiek, który zwęszył biznes i kasuje nieoficjalnie ludzi za wejście (Kicia R. zarządza trochę profeski-eksplorki i wchodzą innym wejściem). Miejsce to zachwyca Kicię R. doszczętnie ze względu na 3 rzeczy. Po pierwsze całość znajduje się w lesie dookoła jeziora, po drugie graffitti kwitnie tu na potęgę, a po trzecie spotkane przez Kicię R. dzieci na wagarach przesiadują sobie w wielkim azjatyckim smoku (niegdyś akwarium) i palą papieroski słuchając muzyki (alternatywa do szkoły jak wszędzie na świecie, aż łezka...). Pod jakimś względem miejsce to inspiruje i cieszy Kicię R. bardziej niż Angkor Wat. 
 
-{{< fancybox "cloudinary" "10_cn1gcr.jpg" "      Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_lvakgd.jpg" "      Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "13_zjh8is.jpg" "      Abandoned water park" "gallery" >}}
+Pajęcza backpackerska sieć nakazuje Kici R. i Sir Lastowi wsiąść w kolejny pociąg i udać się na północ Wietnamu. Tam spróbują się trochę z tego wszystkiego wyplątać.. 
 
-{{< fancybox "cloudinary" "14_bnr38j.jpg" "      Abandoned water park" "gallery" >}}
 
-{{< fancybox "cloudinary" "15_ugt1lu.jpg" "      The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jilgne.jpg" "      Abandoned water park" "gallery" >}}
+Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przecież po prostu dla każdego, co innego jest miłego. A Azja Południowo-Wschodnia w swej ofercie zadowoli każdego!
+
+
+
+{{< fancybox "cloudinary" "1_vmb6fr.jpg" "        Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "2_cogy2j.jpg" "        Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "3_mlspgf.jpg" "        Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_ys9oxk.jpg" "        Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_zzdnhz.jpg" "        Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_nduv5h.jpg" "        Selfies in Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_qibsgk.jpg" "        Ears cleaning." "gallery" >}}
+
+{{< fancybox "cloudinary" "8_alkwey.jpg" "        Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_v9mnim.jpg" "        Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_cn1gcr.jpg" "        Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_lvakgd.jpg" "        Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_zjh8is.jpg" "        Abandoned water park" "gallery" >}}
+
+{{< fancybox "cloudinary" "14_bnr38j.jpg" "        Abandoned water park" "gallery" >}}
+
+{{< fancybox "cloudinary" "15_ugt1lu.jpg" "        The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
+
+{{< fancybox "cloudinary" "16_jilgne.jpg" "        Abandoned water park" "gallery" >}}
