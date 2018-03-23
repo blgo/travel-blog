@@ -32,32 +32,32 @@ Pajęcza backpackerska sieć nakazuje Kici R. i Sir Lastowi wsiąść w kolejny 
 
 Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przecież po prostu dla każdego, co innego jest miłego. A Azja Południowo-Wschodnia w swej ofercie zadowoli każdego!
 
-{{< fancybox "cloudinary" "1_vmb6fr.jpg" "         Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "1_vmb6fr.jpg" "           Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_cogy2j.jpg" "         Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "2_cogy2j.jpg" "           Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_mlspgf.jpg" "         Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "3_mlspgf.jpg" "           Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_ys9oxk.jpg" "         Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "4_ys9oxk.jpg" "           Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_zzdnhz.jpg" "         Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "5_zzdnhz.jpg" "           Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_nduv5h.jpg" "         Selfies in Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "6_nduv5h.jpg" "           Selfies in Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_qibsgk.jpg" " Czyszczenie uszu. " "gallery" >}}
+{{< fancybox "cloudinary" "7_qibsgk.jpg" "   Czyszczenie uszu. " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_alkwey.jpg" "         Hue" "gallery" >}}
+{{< fancybox "cloudinary" "8_alkwey.jpg" "           Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_v9mnim.jpg" "         Hue" "gallery" >}}
+{{< fancybox "cloudinary" "9_v9mnim.jpg" "           Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_cn1gcr.jpg" "         Hue" "gallery" >}}
+{{< fancybox "cloudinary" "10_cn1gcr.jpg" "           Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_lvakgd.jpg" "         Hue" "gallery" >}}
+{{< fancybox "cloudinary" "11_lvakgd.jpg" "           Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "13_zjh8is.jpg" "         Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "13_zjh8is.jpg" " Opuszczony park wodny. " "gallery" >}}
 
-{{< fancybox "cloudinary" "14_bnr38j.jpg" "         Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "14_bnr38j.jpg" " Opuszczony park wodny." "gallery" >}}
 
-{{< fancybox "cloudinary" "15_ugt1lu.jpg" "         The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
+{{< fancybox "cloudinary" "15_ugt1lu.jpg" " Smok w opuszczonym parku wodnym ( w przeszłości akwarium)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jilgne.jpg" "         Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "16_jilgne.jpg" " Opuszczony park wodny." "gallery" >}}
