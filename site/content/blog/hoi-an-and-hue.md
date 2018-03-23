@@ -30,8 +30,20 @@ Subtle discoveries are also hidden in just the movement itself. If travelling ar
 
 _The train rocks Kitty R. asleep, and in the morning when she opens her eyes, the sunrise through the window greets her with a moving image of rice fields in the foreground._The toilet, like on any train, is a real train spotting type (playing pee-and-do-not-touch-anything). At dawn, the whole train resounds with a Vietnamese song that awakens and informs the passengers that they reached their destination (Kitty R. is totally delighted!) 
 
-And so Kitty R. and Sir Last reach Hoi An, where among the beautiful lanterns they try to count how many tourists can fit on one square meter and how many selfies are taken here in a minute? Two questions, one answer: a million. In the next city, Hue, Kitty R. and Sir Last discover a new face of tourism, that is, they visit an abandoned water park. Visiting this place is officially illegal, but apparently at one entrance a local man is already sitting as he smelled the business opportunity and collects entry money from people. The abandoned water park impresses Kitty R. completely due to three things. First of all, the whole water park is placed in the forest around a lake. Secondly, graffitti is blooming here, and thirdly, truant children gather in a big dragon (once an aquarium) and smoke cigarettes while listening to music (alternative to school as everywhere else, aww..). In some aspects, the place inspires and pleases Kitty R. even more than Cambodia’s Angkor Wat.
+And so Kitty R. and Sir Last reach Hoi An, where among the beautiful lanterns they try to count how many tourists can fit on one square meter and how many selfies are taken here in a minute? Two questions, one answer: a million. In the next city, Hue, Kitty R. and Sir Last discover a new face of tourism, that is, they visit an abandoned water park. Visiting this place is officially illegal, but apparently at one entrance a local man is already sitting as he smelled the business opportunity and collects entry money from people. The abandoned water park impresses Kitty R. completely due to three things. _First of all, the whole water park is placed in the forest around a lake. Secondly, graffitti is blooming here, and thirdly, truant children gather in a big dragon (once an aquarium) and smoke cigarettes while listening to music (alternative to school as everywhere else, aww..). _In some aspects, the place inspires and pleases Kitty R. even more than Cambodia’s Angkor Wat.
 
 The spidery backpackers network orders Kitty R. and Sir Last to get on the train and head north of Vietnam. There, they will try to get out from the net.
 
 Ha, Kitty R. has today turned her nose up, hasn’t she? (do not get her wrong, for everyone something else is good). Each for their own. And I’m sure Southeast Asia covers it all up!
+
+{{< fancybox "cloudinary" "1_vmb6fr.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "2_cogy2j.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "3_mlspgf.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_ys9oxk.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_zzdnhz.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_nduv5h.jpg" " Selfies in Hoi An" "gallery" >}}
