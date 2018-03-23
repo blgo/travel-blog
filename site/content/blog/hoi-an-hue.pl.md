@@ -45,3 +45,11 @@ Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przec
 {{< fancybox "cloudinary" "6_nduv5h.jpg" " Hoi An" "gallery" >}}
 
 {{< fancybox "cloudinary" "7_qibsgk.jpg" " Czyszczenie uszu (to akurat lepiej róbcie w domu)." "gallery" >}}
+
+{{< fancybox "cloudinary" "8_alkwey.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_v9mnim.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_cn1gcr.jpg" " Hue" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_lvakgd.jpg" " Hue" "gallery" >}}
