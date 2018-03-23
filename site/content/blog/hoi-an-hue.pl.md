@@ -43,3 +43,5 @@ Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przec
 {{< fancybox "cloudinary" "5_zzdnhz.jpg" " Hoi An" "gallery" >}}
 
 {{< fancybox "cloudinary" "6_nduv5h.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_qibsgk.jpg" " Czyszczenie uszu (to akurat lepiej róbcie w domu)." "gallery" >}}
