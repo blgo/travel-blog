@@ -34,32 +34,32 @@ The spidery backpackers network orders Kitty R. and Sir Last to get on the train
 
 Ha, Kitty R. has today turned her nose up, hasn’t she? (do not get her wrong, for everyone something else is good). Each for their own. And I’m sure Southeast Asia covers it all up!
 
-{{< fancybox "cloudinary" "1_vmb6fr.jpg" " Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "1_vmb6fr.jpg" "   Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_cogy2j.jpg" " Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "2_cogy2j.jpg" "   Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_mlspgf.jpg" " Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "3_mlspgf.jpg" "   Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_ys9oxk.jpg" " Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "4_ys9oxk.jpg" "   Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_zzdnhz.jpg" " Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "5_zzdnhz.jpg" "   Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_nduv5h.jpg" " Selfies in Hoi An" "gallery" >}}
+{{< fancybox "cloudinary" "6_nduv5h.jpg" "   Selfies in Hoi An" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_qibsgk.jpg" " Ears cleaning (better do it at home on your own..)" "gallery" >}}
+{{< fancybox "cloudinary" "7_qibsgk.jpg" "   Ears cleaning." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_alkwey.jpg" " Hue" "gallery" >}}
+{{< fancybox "cloudinary" "8_alkwey.jpg" "   Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_v9mnim.jpg" " Hue" "gallery" >}}
+{{< fancybox "cloudinary" "9_v9mnim.jpg" "   Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_cn1gcr.jpg" " Hue" "gallery" >}}
+{{< fancybox "cloudinary" "10_cn1gcr.jpg" "   Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_lvakgd.jpg" " Hue" "gallery" >}}
+{{< fancybox "cloudinary" "11_lvakgd.jpg" "   Hue" "gallery" >}}
 
-{{< fancybox "cloudinary" "13_zjh8is.jpg" " Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "13_zjh8is.jpg" "   Abandoned water park" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_bnr38j.jpg" " Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "14_bnr38j.jpg" "   Abandoned water park" "gallery" >}}
 
-{{< fancybox "cloudinary" "15_ugt1lu.jpg" " The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
+{{< fancybox "cloudinary" "15_ugt1lu.jpg" "   The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jilgne.jpg" " Abandoned water park" "gallery" >}}
+{{< fancybox "cloudinary" "16_jilgne.jpg" "   Abandoned water park" "gallery" >}}
