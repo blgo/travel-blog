@@ -59,3 +59,5 @@ Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przec
 {{< fancybox "cloudinary" "14_bnr38j.jpg" " Opuszczony park wodny" "gallery" >}}
 
 {{< fancybox "cloudinary" "15_ugt1lu.jpg" " Wietnamska miejscówka dla wagarowiczów" "gallery" >}}
+
+{{< fancybox "cloudinary" "16_jilgne.jpg" " Opuszczony park wodny" "gallery" >}}
