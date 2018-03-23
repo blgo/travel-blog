@@ -37,3 +37,9 @@ Ha, ale Kicia R. zadarła dziś wpisowo nosa, nie? Nie zrozumcie jej źle, przec
 {{< fancybox "cloudinary" "2_cogy2j.jpg" "  Hoi An" "gallery" >}}
 
 {{< fancybox "cloudinary" "3_mlspgf.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_ys9oxk.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_zzdnhz.jpg" " Hoi An" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_nduv5h.jpg" " Hoi An" "gallery" >}}
