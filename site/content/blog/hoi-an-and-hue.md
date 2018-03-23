@@ -59,3 +59,9 @@ Ha, Kitty R. has today turned her nose up, hasn’t she? (do not get her wrong, 
 {{< fancybox "cloudinary" "11_lvakgd.jpg" " Hue" "gallery" >}}
 
 {{< fancybox "cloudinary" "13_zjh8is.jpg" " Abandoned water park" "gallery" >}}
+
+{{< fancybox "cloudinary" "14_bnr38j.jpg" " Abandoned water park" "gallery" >}}
+
+{{< fancybox "cloudinary" "15_ugt1lu.jpg" " The Dragon in abandoned water park (an aquarium in the past)" "gallery" >}}
+
+{{< fancybox "cloudinary" "16_jilgne.jpg" " Abandoned water park" "gallery" >}}
