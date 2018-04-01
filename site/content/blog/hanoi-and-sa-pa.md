@@ -48,7 +48,7 @@ Kitty R. felt very happy, because the backpacker's spider web diffused in the fo
 
 PS.1 When walking around this region, tourists and travellers easily observe there it’s not much forest around. Thus it’s common to meet local people caring wood in baskets on their backs (or on motorbikes if they have one) from far away; they use the wood mainly for cooking the family dinners or to build a house. Thus, taking the wood that is such a precious good here, without asking anyone, to have a bonfire party all night, even with the best travel mates ever, is… well, far from responsible travelling (greetings to this whole bunch of ignorant-travellers that burnt the wood collected by Vietnamese mountain family what made them pretty surprised the next day when the travellers left the place). 
 
-PS.2 Kitty R., got excited about the region so much, that she made a short movie (watch with sound on). It's her first attempt so please do comment what you think.
+PS.2 Kitty R. got so excited about the region, that she made a short movie (watch with sound on). It's her first attempt so please do comment what you think.
 
 {{< youtube https://www.youtube.com/watch?v=R8iZjYq_UOQ >}}
 
