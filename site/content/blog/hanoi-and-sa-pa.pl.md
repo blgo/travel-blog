@@ -14,17 +14,13 @@ language: pl
 ---
 Kicia R. i Sir Last jadą kilkanaście godzin nocnym pociągiem, w którym przedziały zrobione są w całości z lakierowanego, ciemnego drewna, na stoliku stoi dzbanuszek ze świeżo zerwanym kwieciem, a niebieskie, łazienkowe klapeczki leżą porozrzucane po podłodze. Przedział jest 4 osobowy, czyli Kicia R. i Sir Last mają za towarzystwo dwie młode Amerykanki, które uczą angielskiego w jednej z tajskich szkół na wsi. 
 
-\- _Te dzieciaki biją się nieprzerwanie, twarz zalana krwią, płacząc biegnę  po pomoc do tajskich nauczycieli, nas nie słuchają
-_
+\- _Te dzieciaki biją się nieprzerwanie, twarz zalana krwią, płacząc biegnę  po pomoc do tajskich nauczycieli, nas nie słuchają_
 
-_\- Teraz już się nie przejmuję, mówię uczniowi: idź sobie jak chcesz, czasem pokazuję mu fucki
-_
+_\- Teraz już się nie przejmuję, mówię uczniowi: idź sobie jak chcesz, czasem pokazuję mu fucki_
 
-_\- Uczniowie często przychodzą naćpani lub pijani 
-_
+_\- Uczniowie często przychodzą naćpani lub pijani _
 
-_\- Po kilku miesiącach polubiłam tą pracę, wiem, że nie uczę tylko się bawię..
-_
+_\- Po kilku miesiącach polubiłam tą pracę, wiem, że nie uczę tylko się bawię.._
 
 W przedziale pachnie Siłaczką we współczesnym wydaniu. Uczniowie używają narkotyków i alkoholu, bo ich wieś nie daje im pozytywnej alternatywy; dzieci są pod opieką dziadków, którzy reprezentują zupełnie inne wychowanie i tradycje i nie nadążają za młodym duchem, podczas gdy właściwi rodzice wyjechali do miast zarabiać pieniądze. Młody nauczyciel z zachodu ze swoimi ideami połączenia przygody i niesienia pomocy w biednej wiosce, wypala się bardzo szybko. Co więcej, nie ma odpowiedniego wsparcia ze strony władz szkoły, a dzieci zwyczajnie nie mają motywacji do nauki. Z tego powodu przyjezdni nauczyciele często wybierają pracę w szkołach prywatnych, w większych miastach, gdzie z motywacją uczniów jest podobno trochę lepiej. 
 
@@ -52,34 +48,34 @@ PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik (oglądajci
 
 And photos...
 
-{{< fancybox "cloudinary" "0_euzv9p.jpg" "       Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "0_euzv9p.jpg" "         Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "1_xtjyvz.jpg" "       Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "1_xtjyvz.jpg" "         Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "1a_ndo8se.jpg" "       wino ryżowe" "gallery" >}}
+{{< fancybox "cloudinary" "1a_ndo8se.jpg" "         wino ryżowe" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_ttjixo.jpg" "       Hanoi, najlepszy uliczny grill" "gallery" >}}
+{{< fancybox "cloudinary" "2_ttjixo.jpg" "         Hanoi, najlepszy uliczny grill" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_hbv5tw.jpg" "       Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "4_hbv5tw.jpg" "         Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_favfjf.jpg" "       Sa Pa, punkt widokowy..." "gallery" >}}
+{{< fancybox "cloudinary" "5_favfjf.jpg" "         Sa Pa, punkt widokowy..." "gallery" >}}
 
-{{< fancybox "cloudinary" "5b_uoh991.jpg" "       Mgła i Nie Mgła na jednym zdjęciu" "gallery" >}}
+{{< fancybox "cloudinary" "5b_uoh991.jpg" "         Mgła i Nie Mgła na jednym zdjęciu" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_pq7fhr.jpg" "       Okolice Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" "         Okolice Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "       Jak w domu " "gallery" >}}
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "         Jak w domu " "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_rylenn.jpg" "       Okolice Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "7b_rylenn.jpg" "         Okolice Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_mp6nsx.jpg" "       Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" "         Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_jkuowo.jpg" "       Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "9_jkuowo.jpg" "         Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_gh07pn.jpg" "       Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "10_gh07pn.jpg" "         Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_qcbpve.jpg" "       Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "11_qcbpve.jpg" "         Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "12_hqeyxq.jpg" "       Sir Bawół je, Sir Last się przygląda." "gallery" >}}
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" "         Sir Bawół je, Sir Last się przygląda." "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "       Kicia R. (kadr z mini filmu)" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "         Kicia R. (kadr z mini filmu)" "gallery" >}}
