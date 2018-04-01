@@ -16,16 +16,16 @@ Again Kitty R. and Sir Last travel by vietnamese night train, in which the compa
 
 s, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
 
-_\- These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me
+_These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me
 _
 
-_\- I do not care anymore. I tell the student: do as you like, sometimes I show him 'jokingly' the middle finger
+_I do not care anymore. I tell the student: do as you like, sometimes I show him 'jokingly' the middle finger
 _
 
-_\- Students often come stoned or drunk to my class
+_Students often come stoned or drunk to my class
 _
 
-_\- After a few months, I started to like this work. Now I know I'm not teaching, but having fun ...
+_After a few months, I started to like this work. Now I know I'm not teaching, but having fun ...
 _
 
 In the compartment Kitty R. smells a strongwoman in a modern edition*. Students drink and use drugs, because the village doesn’t give them a positive alternative; children are looked after by grandparents who represent a completely different upbringing and traditions and do not keep up with the young spirit, while the parents have gone to the cities to earn money. A young western teacher with his ideas based on a combination of adventure and helping in a poor village, burns out very quickly. What's more, there is no proper support from school authorities, and children simply do not have the motivation to learn. For this reason, often foreign teachers choose to work in private schools, in larger cities, where the motivation of students is supposedly a bit better.
