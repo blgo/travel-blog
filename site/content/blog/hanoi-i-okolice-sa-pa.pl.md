@@ -60,4 +60,16 @@ PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik, publikowa�
 
 {{< fancybox "cloudinary" "4_hbv5tw.jpg" " Sa Pa" "gallery" >}}
 
+{{< fancybox "cloudinary" "5_favfjf.jpg" " Sa Pa, punkt widokowy..." "gallery" >}}
+
+{{< fancybox "cloudinary" "5b_uoh991.jpg" " Mgła i Nie Mgła na jednym zdjęciu" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" " Okolice Sa Pa" "gallery" >}}
+
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" " Jak w domu " "gallery" >}}
+
+{{< fancybox "cloudinary" "7b_rylenn.jpg" " Okolice Sa Pa" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" " Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
