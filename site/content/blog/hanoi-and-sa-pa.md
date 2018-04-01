@@ -12,9 +12,7 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-Again Kitty R. and Sir Last travel by vietnamese night train, in which the compartments are made entirely of varnished dark wood, on the table there is a jug with freshly plucked flower
-
-s, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
+Again Kitty R. and Sir Last travel by vietnamese night train, in which the compartments are made entirely of varnished dark wood, on the table there is a jug with freshly plucked flowers, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
 
 _These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me
 _
