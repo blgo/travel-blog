@@ -50,7 +50,7 @@ PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik (oglądajci
 
 {{< youtube R8iZjYq_UOQ >}}
 
-....
+And photos...
 
 {{< fancybox "cloudinary" "0_euzv9p.jpg" "       Hanoi" "gallery" >}}
 
