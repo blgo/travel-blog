@@ -76,4 +76,14 @@ PS.2 Kitty R., got excited about the region so much, that she made a short movie
 
 {{< fancybox "cloudinary" "7b_rylenn.jpg" " Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" " Water buffallo" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_jkuowo.jpg" " Hoàng Liên Son Mountains" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_gh07pn.jpg" " Hoàng Liên Son Mountains" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_qcbpve.jpg" " Sa Pa" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" " Sir Buffallo eats, Sir Last observes" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" " Kitty R. in Sa Pa (shot from the movie)" "gallery" >}}
