@@ -4,6 +4,7 @@ description: >-
   Simply about what's up and how Kitty R. and Sir Last made it to a lovely,
   quiet village. And a bit about responsible travelling. 
 destinations: Vietnam
+featured: ' 00title_ox2w3g.jpg'
 featuredpath: cloudinary
 date: '2018-04-01T06:56:04+01:00'
 type: post
@@ -11,7 +12,9 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-Again Kitty R. and Sir Last travel by vietnamese night train, in which the compartments are made entirely of varnished dark wood, on the table there is a jug with freshly plucked flowers, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
+Again Kitty R. and Sir Last travel by vietnamese night train, in which the compartments are made entirely of varnished dark wood, on the table there is a jug with freshly plucked flower
+
+s, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
 
 _\- These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me
 _
@@ -48,3 +51,11 @@ PS.1 When walking around this region, tourists and travellers easily observe the
 PS.2 Kitty R., got excited about the region so much, that she made a short movie. Should she publish it? 
 
 \* Kitty R. refers here to a story written by polish writer Żeromski, published in 1895, story about teacher coming to a small village; it touches the subject of the heroic attitude of fidelity to once recognized values, the teacher devotes herself to bring education to rural people, gives up personal life, happiness, love, home.
+
+
+
+{{< fancybox "cloudinary" "0_euzv9p.jpg" " Hanoi" "gallery" >}}
+
+{{< fancybox "cloudinary" "1_xtjyvz.jpg" " Hanoi" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
