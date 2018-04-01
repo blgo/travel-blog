@@ -50,34 +50,36 @@ PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik (oglądajci
 
 {{< youtube R8iZjYq_UOQ >}}
 
-{{< fancybox "cloudinary" "0_euzv9p.jpg" "    Hanoi" "gallery" >}}
+....
 
-{{< fancybox "cloudinary" "1_xtjyvz.jpg" "    Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "0_euzv9p.jpg" "       Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "1a_ndo8se.jpg" "    wino ryżowe" "gallery" >}}
+{{< fancybox "cloudinary" "1_xtjyvz.jpg" "       Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_ttjixo.jpg" "    Hanoi, najlepszy uliczny grill" "gallery" >}}
+{{< fancybox "cloudinary" "1a_ndo8se.jpg" "       wino ryżowe" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_hbv5tw.jpg" "    Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "2_ttjixo.jpg" "       Hanoi, najlepszy uliczny grill" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_favfjf.jpg" "    Sa Pa, punkt widokowy..." "gallery" >}}
+{{< fancybox "cloudinary" "4_hbv5tw.jpg" "       Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "5b_uoh991.jpg" "    Mgła i Nie Mgła na jednym zdjęciu" "gallery" >}}
+{{< fancybox "cloudinary" "5_favfjf.jpg" "       Sa Pa, punkt widokowy..." "gallery" >}}
 
-{{< fancybox "cloudinary" "6_pq7fhr.jpg" "    Okolice Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "5b_uoh991.jpg" "       Mgła i Nie Mgła na jednym zdjęciu" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "    Jak w domu " "gallery" >}}
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" "       Okolice Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_rylenn.jpg" "    Okolice Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "       Jak w domu " "gallery" >}}
 
-{{< fancybox "cloudinary" "8_mp6nsx.jpg" "    Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
+{{< fancybox "cloudinary" "7b_rylenn.jpg" "       Okolice Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_jkuowo.jpg" "    Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" "       Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_gh07pn.jpg" "    Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "9_jkuowo.jpg" "       Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_qcbpve.jpg" "    Hoàng Liên Son" "gallery" >}}
+{{< fancybox "cloudinary" "10_gh07pn.jpg" "       Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "12_hqeyxq.jpg" "    Sir Bawół je, Sir Last się przygląda." "gallery" >}}
+{{< fancybox "cloudinary" "11_qcbpve.jpg" "       Hoàng Liên Son" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "    Kicia R. (kadr z mini filmu)" "gallery" >}}
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" "       Sir Bawół je, Sir Last się przygląda." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "       Kicia R. (kadr z mini filmu)" "gallery" >}}
