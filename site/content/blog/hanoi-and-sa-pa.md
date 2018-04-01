@@ -4,7 +4,7 @@ description: >-
   Simply about what's up and how Kitty R. and Sir Last made it to a lovely,
   quiet village. And a bit about responsible travelling. 
 destinations: Vietnam
-featured: ' 00title_ox2w3g.jpg'
+featured: 00title_ox2w3g.jpg
 featuredpath: cloudinary
 date: '2018-04-01T06:56:04+01:00'
 type: post
@@ -52,38 +52,36 @@ PS.2 Kitty R., got excited about the region so much, that she made a short movie
 
 \* Kitty R. refers here to a story written by polish writer Żeromski, published in 1895, story about teacher coming to a small village; it touches the subject of the heroic attitude of fidelity to once recognized values, the teacher devotes herself to bring education to rural people, gives up personal life, happiness, love, home.
 
+{{< fancybox "cloudinary" "0_euzv9p.jpg" "  Hanoi" "gallery" >}}
 
+{{< fancybox "cloudinary" "1_xtjyvz.jpg" "  Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "0_euzv9p.jpg" " Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "1a_ndo8se.jpg" "  Rice wine" "gallery" >}}
 
-{{< fancybox "cloudinary" "1_xtjyvz.jpg" " Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "2_ttjixo.jpg" "  Hanoi, the best street bbq ever!" "gallery" >}}
 
-{{< fancybox "cloudinary" "1a_ndo8se.jpg" " Rice wine" "gallery" >}}
+{{< fancybox "cloudinary" "4_hbv5tw.jpg" "  Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_ttjixo.jpg" " Hanoi, the best street bbq ever!" "gallery" >}}
+{{< fancybox "cloudinary" "5_favfjf.jpg" "  Sa Pa, view point... " "gallery" >}}
 
-{{< fancybox "cloudinary" "4_hbv5tw.jpg" " Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "5b_uoh991.jpg" "  Fog and No Fog in one picture. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5_favfjf.jpg" " Sa Pa, view point... " "gallery" >}}
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" "  Sa Pa district" "gallery" >}}
 
-{{< fancybox "cloudinary" "5b_uoh991.jpg" " Fog and No Fog in one picture. " "gallery" >}}
+{{< fancybox "cloudinary" "7_e1gwq9.jpg" "  Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_pq7fhr.jpg" " Sa Pa district" "gallery" >}}
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "  Home sweet home" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_e1gwq9.jpg" " Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "7b_rylenn.jpg" "  Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_mnfz4t.jpg" " Home sweet home" "gallery" >}}
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" "  Water buffallo" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_rylenn.jpg" " Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "9_jkuowo.jpg" "  Hoàng Liên Son Mountains" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_mp6nsx.jpg" " Water buffallo" "gallery" >}}
+{{< fancybox "cloudinary" "10_gh07pn.jpg" "  Hoàng Liên Son Mountains" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_jkuowo.jpg" " Hoàng Liên Son Mountains" "gallery" >}}
+{{< fancybox "cloudinary" "11_qcbpve.jpg" "  Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_gh07pn.jpg" " Hoàng Liên Son Mountains" "gallery" >}}
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" "  Sir Buffallo eats, Sir Last observes" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_qcbpve.jpg" " Sa Pa" "gallery" >}}
-
-{{< fancybox "cloudinary" "12_hqeyxq.jpg" " Sir Buffallo eats, Sir Last observes" "gallery" >}}
-
-{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" " Kitty R. in Sa Pa (shot from the movie)" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "  Kitty R. in Sa Pa (shot from the movie)" "gallery" >}}
