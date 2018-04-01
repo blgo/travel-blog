@@ -66,4 +66,14 @@ PS.2 Kitty R., got excited about the region so much, that she made a short movie
 
 {{< fancybox "cloudinary" "5_favfjf.jpg" " Sa Pa, view over mountains ;) " "gallery" >}}
 
+{{< fancybox "cloudinary" "5b_uoh991.jpg" " Fog and No Fog in one picture. " "gallery" >}}
+
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" " Sa Pa district" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_e1gwq9.jpg" " Sa Pa" "gallery" >}}
+
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" " Home sweet home" "gallery" >}}
+
+{{< fancybox "cloudinary" "7b_rylenn.jpg" " Sa Pa" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
