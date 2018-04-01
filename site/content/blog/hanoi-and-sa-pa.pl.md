@@ -48,7 +48,7 @@ PS Podczas spacerów po okolicy, turyści i podróżnicy z łatwością mogą za
 
 PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik (oglądajcie koniecznie z dźwiękiem). To jej pierwsza próba filmikowa, więc proszę piszcie, co myślicie. 
 
-{{< youtube https://www.youtube.com/watch?v=R8iZjYq_UOQ >}}
+{{< youtube R8iZjYq_UOQ >}}
 
 And photos...
 
