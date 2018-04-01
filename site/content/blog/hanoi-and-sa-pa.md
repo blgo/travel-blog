@@ -58,4 +58,10 @@ PS.2 Kitty R., got excited about the region so much, that she made a short movie
 
 {{< fancybox "cloudinary" "1_xtjyvz.jpg" " Hanoi" "gallery" >}}
 
+{{< fancybox "cloudinary" "1a_ndo8se.jpg" " Rice wine" "gallery" >}}
+
+{{< fancybox "cloudinary" "2_ttjixo.jpg" " Hanoi, the best street bbq ever!" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_hbv5tw.jpg" " Sa Pa" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
