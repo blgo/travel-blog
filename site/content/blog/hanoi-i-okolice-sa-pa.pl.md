@@ -72,4 +72,14 @@ PPS Kicia R. zauroczona regionem postanowiła zrobić krótki filmik, publikowa�
 
 {{< fancybox "cloudinary" "8_mp6nsx.jpg" " Czymże byłby Wietnam bez wodnych bawołów?" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+
+
+{{< fancybox "cloudinary" "9_jkuowo.jpg" " Hoàng Liên Son" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_gh07pn.jpg" " Hoàng Liên Son" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_qcbpve.jpg" " Hoàng Liên Son" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" " Sir Bawół je, Sir Last się przygląda." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" " Kicia R. (kadr z mini filmu)" "gallery" >}}
