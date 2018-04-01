@@ -14,17 +14,13 @@ language: en
 ---
 Again Kitty R. and Sir Last travel by vietnamese night train, in which the compartments are made entirely of varnished dark wood, on the table there is a jug with freshly plucked flowers, and blue bathroom flip-flops lie scattered on the floor. The compartment is for 4 people, so Kitty R. and Sir Last  are accompanied by two young American women who teach English in one of the Thai schools in the countryside.
 
-_These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me
-_
+_These kids are fighting constantly, one of them has his face covered with blood, I cry and run to a Thai teacher for help, as they do not listen to me_
 
-_I do not care anymore. I tell the student: do as you like, sometimes I show him 'jokingly' the middle finger
-_
+_I do not care anymore. I tell the student: do as you like, sometimes I show him 'jokingly' the middle finger_
 
-_Students often come stoned or drunk to my class
-_
+_Students often come stoned or drunk to my class_
 
-_After a few months, I started to like this work. Now I know I'm not teaching, but having fun ...
-_
+_After a few months, I started to like this work. Now I know I'm not teaching, but having fun ..._
 
 In the compartment Kitty R. smells a strongwoman in a modern edition*. Students drink and use drugs, because the village doesn’t give them a positive alternative; children are looked after by grandparents who represent a completely different upbringing and traditions and do not keep up with the young spirit, while the parents have gone to the cities to earn money. A young western teacher with his ideas based on a combination of adventure and helping in a poor village, burns out very quickly. What's more, there is no proper support from school authorities, and children simply do not have the motivation to learn. For this reason, often foreign teachers choose to work in private schools, in larger cities, where the motivation of students is supposedly a bit better.
 
@@ -54,36 +50,36 @@ PS.2 Kitty R. got so excited about the region, that she made a short movie (watc
 
 And photos...
 
-{{< fancybox "cloudinary" "0_euzv9p.jpg" "            Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "0_euzv9p.jpg" "                 Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "1_xtjyvz.jpg" "            Hanoi" "gallery" >}}
+{{< fancybox "cloudinary" "1_xtjyvz.jpg" "                 Hanoi" "gallery" >}}
 
-{{< fancybox "cloudinary" "1a_ndo8se.jpg" "            Rice wine" "gallery" >}}
+{{< fancybox "cloudinary" "1a_ndo8se.jpg" "                 Rice wine" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_ttjixo.jpg" "            Hanoi, the best street bbq ever!" "gallery" >}}
+{{< fancybox "cloudinary" "2_ttjixo.jpg" "                 Hanoi, the best street bbq ever!" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_hbv5tw.jpg" "            Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "4_hbv5tw.jpg" "                 Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_favfjf.jpg" "            Sa Pa, view point... " "gallery" >}}
+{{< fancybox "cloudinary" "5_favfjf.jpg" "                 Sa Pa, view point... " "gallery" >}}
 
-{{< fancybox "cloudinary" "5b_uoh991.jpg" "            Fog and No Fog in one picture. " "gallery" >}}
+{{< fancybox "cloudinary" "5b_uoh991.jpg" "                 Fog and No Fog in one picture. " "gallery" >}}
 
-{{< fancybox "cloudinary" "6_pq7fhr.jpg" "            Sa Pa district" "gallery" >}}
+{{< fancybox "cloudinary" "6_pq7fhr.jpg" "                 Sa Pa district" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_e1gwq9.jpg" "            Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "7_e1gwq9.jpg" "                 Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "            Home sweet home" "gallery" >}}
+{{< fancybox "cloudinary" "7a_mnfz4t.jpg" "                 Home sweet home" "gallery" >}}
 
-{{< fancybox "cloudinary" "7b_rylenn.jpg" "            Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "7b_rylenn.jpg" "                 Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_mp6nsx.jpg" "            Water buffallo" "gallery" >}}
+{{< fancybox "cloudinary" "8_mp6nsx.jpg" "                 Water buffallo" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_jkuowo.jpg" "            Hoàng Liên Son Mountains" "gallery" >}}
+{{< fancybox "cloudinary" "9_jkuowo.jpg" "                 Hoàng Liên Son Mountains" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_gh07pn.jpg" "            Hoàng Liên Son Mountains" "gallery" >}}
+{{< fancybox "cloudinary" "10_gh07pn.jpg" "                 Hoàng Liên Son Mountains" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_qcbpve.jpg" "            Sa Pa" "gallery" >}}
+{{< fancybox "cloudinary" "11_qcbpve.jpg" "                 Sa Pa" "gallery" >}}
 
-{{< fancybox "cloudinary" "12_hqeyxq.jpg" "            Sir Buffallo eats, Sir Last observes" "gallery" >}}
+{{< fancybox "cloudinary" "12_hqeyxq.jpg" "                 Sir Buffallo eats, Sir Last observes" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "            Kitty R. in Sa Pa (shot from the movie)" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF149000000_Moment_h3lotw.jpg" "                 Kitty R. in Sa Pa (shot from the movie)" "gallery" >}}
