@@ -27,3 +27,7 @@ Kitty R. and Sir Last install themselves in one of the modest bungalows near the
 For the fate of Laos! Kitty R. is delighted and in Laos-love!
 
 {{< fancybox "cloudinary" "1a_kkfhkp.jpg" " On the way to Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "3_ptrxoe.jpg" " On the way to Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
