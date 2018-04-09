@@ -1,5 +1,5 @@
 ---
-title: MUANG NGOY AND NONG KHIAW
+title: MUANG NGOY
 description: >-
   For the fate in Laos, the beautiful river life among the mountains and the
   jungle, and what powers the insects urine has.
