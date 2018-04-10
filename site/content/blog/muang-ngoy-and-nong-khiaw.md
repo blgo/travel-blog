@@ -4,6 +4,7 @@ description: >-
   For the fate in Laos, the beautiful river life among the mountains and the
   jungle, and what powers the insects urine has.
 destinations: LAOS
+featured: 000_czljsk.jpg
 featuredpath: cloudinary
 date: '2018-04-09T10:27:59+01:00'
 type: post
@@ -26,8 +27,32 @@ Kitty R. and Sir Last install themselves in one of the modest bungalows near the
 
 For the fate of Laos! Kitty R. is delighted and in Laos-love!
 
-{{< fancybox "cloudinary" "1a_kkfhkp.jpg" " On the way to Muang Ngoy" "gallery" >}}
+{{< fancybox "cloudinary" "1a_kkfhkp.jpg" "  On the way to Muang Ngoy" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_ptrxoe.jpg" " On the way to Muang Ngoy" "gallery" >}}
+{{< fancybox "cloudinary" "2aaaa_znp0ke.jpg" " On the way to Muang Ngoy" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "3_ptrxoe.jpg" " By narrow boat " "gallery" >}}
+
+{{< fancybox "cloudinary" "3aaaaa_jdl9hb.jpg" " Tiny hut in the middle of jungle" "gallery" >}}
+
+{{< fancybox "cloudinary" "4aaaaaa_axhjws.jpg" " Kitty R. " "gallery" >}}
+
+{{< fancybox "cloudinary" "5_p13hc6.jpg" " Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "5a_pskffo.jpg" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "6_ct4xwh.jpg" " hand written menu in every eatery" "gallery" >}}
+
+{{< fancybox "cloudinary" "7_zboshj.jpg" " cat in Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_y9ukud.jpg" " Pier in Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_zq5rrf.jpg" " Happy part of river life" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_nlohht.jpg" " Young monks" "gallery" >}}
+
+{{< fancybox "cloudinary" "10a_ln80ey.jpg" " Sir Last and His New Friend in Muang Ngoy" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_l2wkb0.jpg" " View from balcony (Kitty R. focuses on recovering by rocking in the hammock)" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_mzbq3z.jpg" " Sunset in Muang Ngoy. " "gallery" >}}
