@@ -46,7 +46,7 @@ O losie w Laosie! Kicia R. jest zachwycona!
 
 {{< fancybox "cloudinary" "5_p13hc6.jpg" " Główna ulica w Muang Ngoy" "gallery" >}}
 
-{{< fancybox "cloudinary" "5a_pskffo.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "5a_pskffo.jpg" " Cicada horn elephant (dwie, wiadomo...)" "gallery" >}}
 
 {{< fancybox "cloudinary" "6_ct4xwh.jpg" " Ręcznie pisane menu w każdej przydomowej jadłodajni. " "gallery" >}}
 
