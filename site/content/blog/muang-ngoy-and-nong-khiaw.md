@@ -56,3 +56,5 @@ For the fate of Laos! Kitty R. is delighted and in Laos-love!
 {{< fancybox "cloudinary" "11_l2wkb0.jpg" " View from balcony (Kitty R. focuses on recovering by rocking in the hammock)" "gallery" >}}
 
 {{< fancybox "cloudinary" "12_mzbq3z.jpg" " Sunset in Muang Ngoy. " "gallery" >}}
+
+{{< fancybox "cloudinary" "14_golhfd.jpg" " Laotian boats" "gallery" >}}
