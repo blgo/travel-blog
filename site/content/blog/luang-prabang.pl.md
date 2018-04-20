@@ -75,4 +75,10 @@ Jego piękno jest dostrzegalne naturalnie. Gołym okiem._
 
 {{< fancybox "cloudinary" "10a" " undefined" "gallery" >}}
 
+{{< fancybox "cloudinary" "11_q1k2b4.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_yg3okn.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_pt2fl7.jpg" " undefined" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
