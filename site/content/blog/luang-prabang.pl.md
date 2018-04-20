@@ -73,7 +73,7 @@ Jego piękno jest dostrzegalne naturalnie. Gołym okiem._
 
 {{< fancybox "cloudinary" "10_ksivuh.jpg" " Wodospady Kuang Si, czyli tzw. must see okolic Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "10a" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2640_phnsif.jpg" " Sir Last pozuje do zdjęcia. " "gallery" >}}
 
 {{< fancybox "cloudinary" "11_q1k2b4.jpg" " Piękne wodospady, podziwiane z drugiej strony przez masę turystów." "gallery" >}}
 
