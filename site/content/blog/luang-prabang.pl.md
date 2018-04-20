@@ -61,6 +61,8 @@ Jego piękno jest dostrzegalne naturalnie. Gołym okiem._
 
 {{< fancybox "cloudinary" "6_x5egaa.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7_rmhufk.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_lztzbv.jpg" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
