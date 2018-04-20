@@ -81,4 +81,4 @@ Jego piękno jest dostrzegalne naturalnie. Gołym okiem._
 
 {{< fancybox "cloudinary" "13_pt2fl7.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "14_wgj34n.jpg" " undefined" "gallery" >}}
