@@ -47,38 +47,38 @@ Jego piękno jest dostrzegalne naturalnie. Gołym okiem._
 
 
 
-{{< fancybox "cloudinary" "01_akys2a.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "01_akys2a.jpg" " Buddyjski Nowy Rok w Laosie." "gallery" >}}
 
-{{< fancybox "cloudinary" "1_ebedsy.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "1_ebedsy.jpg" " Polsko, w Laosie grają w Lany Poniedziałek dużo lepiej niż my!" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_etwhxd.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "2_etwhxd.jpg" " Świętowanie Nowego Roku w Laosie." "gallery" >}}
 
-{{< fancybox "cloudinary" "3_kcw5bt.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "3_kcw5bt.jpg" " Pełne zaangażowanie w oblewanie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4_ybxfbr.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "4_ybxfbr.jpg" " Wszyscy mokrzy bez względu na wiek.." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_kf6buk.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "5_kf6buk.jpg" " czy stylówę!" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_x5egaa.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "6_x5egaa.jpg" " Świątynia w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "7_rmhufk.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "7_rmhufk.jpg" " Świątynia w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_lztzbv.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8_lztzbv.jpg" " Kicia R. nie wychodzi do żadnej atrakcji związanej ze słoniami... tu to słonie zostały przyprowadzone do miasta w ramach celebracji Nowego Roku..." "gallery" >}}
 
-{{< fancybox "cloudinary" "8aa_gyf5wk.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8aa_gyf5wk.jpg" " ku uciesze wiele turystów i lokalnych mieszkańców, którzy je w czasie parady dokarmiali bananami. Dla Kici R. smutny widok, ale była wtedy na ulicy i nie będzie tego ukrywać.." "gallery" >}}
 
-{{< fancybox "cloudinary" "8b_kqyyby.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "8b_kqyyby.jpg" " Obchodzy Nowego Roku w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "9_p3yfpj.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "9_p3yfpj.jpg" " Obchody Nowego Roku w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_ksivuh.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_ksivuh.jpg" " Wodospady Kuang Si, czyli tzw. must see okolic Luang Prabang." "gallery" >}}
 
 {{< fancybox "cloudinary" "10a" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_q1k2b4.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "11_q1k2b4.jpg" " Piękne wodospady, podziwiane z drugiej strony przez masę turystów." "gallery" >}}
 
-{{< fancybox "cloudinary" "12_yg3okn.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "12_yg3okn.jpg" " Wodospady Kuang Si." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_pt2fl7.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "13_pt2fl7.jpg" " U szczytu wodospadów." "gallery" >}}
 
-{{< fancybox "cloudinary" "14_wgj34n.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "14_wgj34n.jpg" " Zachód słońca w Nong Khiaw." "gallery" >}}
