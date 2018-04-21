@@ -23,10 +23,10 @@ Nocami, leżąc w łóżku przy słabiutkiej żarówce, Kicia R. w napięciu nas
 
 A potem Kicia R. i Sir Last jadą do **Luang Prabang**. 
 
-To tu Kicia R. i Sir Last wraz ze swymi Pumpkin towarzyszami wpadają w wir towarzysko-podróżniczy. Miasto szybko porywa ich do nowych aktywności; jest wypełnione przyjezdnymi oraz wesołymi mieszkańcami, którzy świętują buddyjski nowy rok – 2561! Wzdłuż ulicy są rozstawione dmuchane baseny, wiadra, beczki, wszystkie podłączone do bieżącego źródła wody. Od świtu do nocy, garnkami, puszkami i wiadrami ludzie czerpią wodę, by co chwila zamaszystym i jakże wprawnym ruchem oblać przejeżdżających obok kierowców lub przechodniów. Bez litości, bez selekcji, a jednak w taki sposób, że nikt nie jest zły po otrzymaniu solidnego chlustu w twarz, na głowę czy za koszulę. Całe miasto jest zlane w jedną wesołą zabawę, bez podziału na mieszkańców i przyjezdnych; wszyscy razem uczestniczą w wodnym szaleństwie. Kicia R. ani razu nie widzi płaczącego dziecka, kogokolwiek niezadowolonego czy zwyczajnie smutnego. Na kilka dni Luang Prabang zamienia się w krainę wodnej zabawy, pełną uśmiechniętych przemoczonych do suchej nitki ludzi. **_I tym samym Laos Love wybuchło w Kiciowym serduszku jeszcze bardziej, a i Sir Last wciągnął się w zabawę jak nigdy (!)._** Od teraz, jak na Sylwestra to tylko do Laosu i to w dodatku w kwietniu! Kicia R. poleca. 
+To tu Kicia R. i Sir Last wraz ze swymi Pumpkin towarzyszami wpadają w wir towarzysko-podróżniczy. Miasto szybko porywa ich do nowych aktywności; jest wypełnione przyjezdnymi oraz wesołymi mieszkańcami, którzy świętują buddyjski nowy rok – 2561! Wzdłuż ulicy są rozstawione dmuchane baseny, wiadra, beczki, wszystkie podłączone do bieżącego źródła wody. Od świtu do nocy, garnkami, puszkami i wiadrami ludzie czerpią wodę, by co chwila zamaszystym i jakże wprawnym ruchem oblać przejeżdżających obok kierowców lub przechodniów. Bez litości, bez selekcji, a jednak w taki sposób, że nikt nie jest zły po otrzymaniu solidnego chlustu w twarz, na głowę czy za koszulę. Całe miasto jest zlane w jedną wesołą zabawę, bez podziału na mieszkańców i przyjezdnych; wszyscy razem uczestniczą w wodnym szaleństwie. Kicia R. ani razu nie widzi płaczącego dziecka, kogokolwiek niezadowolonego czy zwyczajnie smutnego. Na kilka dni Luang Prabang zamienia się w krainę wodnej zabawy, pełną uśmiechniętych przemoczonych do suchej nitki ludzi. _**I tym samym Laos Love wybuchło w Kiciowym serduszku jeszcze bardziej, a i Sir Last wciągnął się w zabawę jak nigdy (!).**_ Od teraz, jak na Sylwestra to tylko do Laosu i to w dodatku w kwietniu! Kicia R. poleca. 
 
-Przez kilka dni wyjście nawet do pobliskiego sklepu wiąże się z chlustem wody na twarz i generalnie doszczętnym zmoczeniem. Mimo to Kicia R. i Sir Last ruszają do wodospadów Kuang Si, czyli must see w okolicach Luang Prabang. Wycieczka ta wykluła się w trakcie śniadania i poznania innych podróżników, dzięki czemu wszyscy zaintersowani tworzą razem kilkuosobową grupkę składającą się z sześciu różnych nacji. Cóż za odpowiedzialność w reprezentowaniu swoich krajów urodzenia i kreowaniu nowych stereotypów _**(Polsko! Melduję, że Kicia R. nie narzeka nadmiernie ani nie pije wódki litrami, za to się dużo uśmiecha i opowiada jakie w Polsce są fajne lasy i łąki, tylko... czy jej towarzysze widzą to czy co innego?). 
-**_
+Przez kilka dni wyjście nawet do pobliskiego sklepu wiąże się z chlustem wody na twarz i generalnie doszczętnym zmoczeniem. Mimo to Kicia R. i Sir Last ruszają do wodospadów Kuang Si, czyli must see w okolicach Luang Prabang. Wycieczka ta wykluła się w trakcie śniadania i poznania innych podróżników, dzięki czemu wszyscy zaintersowani tworzą razem kilkuosobową grupkę składającą się z sześciu różnych nacji. Cóż za odpowiedzialność w reprezentowaniu swoich krajów urodzenia i kreowaniu nowych stereotypów **_(Polsko! Melduję, że Kicia R. nie narzeka nadmiernie ani nie pije wódki litrami, za to się dużo uśmiecha i opowiada jakie w Polsce są fajne lasy i łąki, tylko... czy jej towarzysze widzą to czy co innego?). 
+_**
 
 Wodospady są przepiękne i równie pełne turystów w ich dolnych partiach. Uwaga stereotyp: Chińczycy są zbyt leniwi i nie lubią chodzić, więc na szczycie wodospadu jest pusto. Weryfikacja stereotypu: ludzie z różnych powodów pozostają w łatwiej dostępnych częściach atrakcji i nie ma w tym nic złego ani nie jest to zależne od miejsca urodzenia. Niestety dla niektórych heca, nie? 
 
@@ -34,8 +34,8 @@ Nim Kicia R. zaczyna się wspinać na górę, gubi gdzieś Sir Lasta, po czym zn
 
 Na koniec.  
 
-Jak oni nas czasem robią w bambuko, czyli Kicia R. zbliża się troszkę do nieznanego jej blogerskiego świata. Człowiek 7tysięcyfollowers na instagramie wprowadza ją w tajniki blogowania i Kicia R. jest ekstremalnie zaintrygowana widząc cały system w którym chociażby odkrywa jak mają się niektóre oryginalne zdjęcia do tych umieszczonych na instagramie. Czy jakiekolwiek umiejętności fotograficzne zostały zastąpione zastępem programów? Jak rozpoznać dobrą fotografię? Jaka jest w ogóle definicja dobrej fotografii współcześnie? I co najbardziej Kicię R. intryguje **_czy patrząc na fotografię podróżniczą, wierzysz że pokazuje ona miejsce naprawdę czy jesteś gotowy/a na bloggerską interpretację danego miejsca? 
-_**
+Jak oni nas czasem robią w bambuko, czyli Kicia R. zbliża się troszkę do nieznanego jej blogerskiego świata. Człowiek 7tysięcyfollowers na instagramie wprowadza ją w tajniki blogowania i Kicia R. jest ekstremalnie zaintrygowana widząc cały system w którym chociażby odkrywa jak mają się niektóre oryginalne zdjęcia do tych umieszczonych na instagramie. Czy jakiekolwiek umiejętności fotograficzne zostały zastąpione zastępem programów? Jak rozpoznać dobrą fotografię? Jaka jest w ogóle definicja dobrej fotografii współcześnie? I co najbardziej Kicię R. intryguje _**czy patrząc na fotografię podróżniczą, wierzysz że pokazuje ona miejsce naprawdę czy jesteś gotowy/a na bloggerską interpretację danego miejsca? 
+**_
 
 Dla kogoś kto szuka prawdy i inspiracji to staje się nie lada wyzwaniem. ‘Naprawdę’ definiowane jako bez photoshopa i filtrów i likeów. Gdzie leży odpowiedzialność za budowanie tak równoległego i koniec końców nie do końca prawdziwego świata? Po stronie bloggera-kreatora czy odbiorcy jego działań? Kicia R. nie jest z pierwszej łapanki, więc wie, że zdjęcia często mijają się z prawdą, ale jest zaskoczona jak daleko to może iść (usunąć tłumy turystów, zmienić całkiem kolorystykę miejsca, dodać lub usunąć przedmioty, a tym samym sugerować, że miejsce jest czyste, naturalne i piękne, a nie pełne ludzi, śmieci i reklam wokół?). 
 
@@ -43,43 +43,43 @@ Tworzenie nowej rzeczywistości jest także umiejętnością i może być trakto
 
 Kicia R. wybiera nie-photoshopowy styl i mówi:
 
-_**Laos jest wystarczająco piękny bez photoshopa, masy instagramowych filtrów i innych programów. 
-Jego piękno jest dostrzegalne naturalnie. Gołym okiem.**_
+**_Laos jest wystarczająco piękny bez photoshopa, masy instagramowych filtrów i innych programów. 
+Jego piękno jest dostrzegalne naturalnie. Gołym okiem._**
 
 \* M. - Kicia R. odnosi się tu do przyjaciółki o której zawsze myśli, gdy jest zaniepokojona i zestresowana i to ją uspokaja.
 
-{{< fancybox "cloudinary" "01_akys2a.jpg" "     Buddyjski Nowy Rok w Laosie." "gallery" >}}
+{{< fancybox "cloudinary" "01_akys2a.jpg" "      Buddyjski Nowy Rok w Laosie." "gallery" >}}
 
-{{< fancybox "cloudinary" "1_ebedsy.jpg" "     Polsko, w Laosie grają w Lany Poniedziałek dużo lepiej niż my!" "gallery" >}}
+{{< fancybox "cloudinary" "1_ebedsy.jpg" "      Polsko, w Laosie grają w Lany Poniedziałek dużo lepiej niż my!" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_etwhxd.jpg" "     Świętowanie Nowego Roku w Laosie." "gallery" >}}
+{{< fancybox "cloudinary" "2_etwhxd.jpg" "      Świętowanie Nowego Roku w Laosie." "gallery" >}}
 
-{{< fancybox "cloudinary" "3_kcw5bt.jpg" "     Pełne zaangażowanie w oblewanie. " "gallery" >}}
+{{< fancybox "cloudinary" "3_kcw5bt.jpg" "      Pełne zaangażowanie w oblewanie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4_ybxfbr.jpg" "     Wszyscy mokrzy bez względu na wiek.." "gallery" >}}
+{{< fancybox "cloudinary" "4_ybxfbr.jpg" "      Wszyscy mokrzy bez względu na wiek.." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_kf6buk.jpg" "     czy stylówę!" "gallery" >}}
+{{< fancybox "cloudinary" "5_kf6buk.jpg" "      czy stylówę!" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_x5egaa.jpg" "     Świątynia w Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "6_x5egaa.jpg" "      Świątynia w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "7_rmhufk.jpg" "     Świątynia w Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "7_rmhufk.jpg" "      Świątynia w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_lztzbv.jpg" "     Kicia R. nie wychodzi do żadnej atrakcji związanej ze słoniami. Tego dnia to słonie zostały przyprowadzone do centrum miasta w ramach celebracji Nowego Roku..." "gallery" >}}
+{{< fancybox "cloudinary" "8_lztzbv.jpg" "      Kicia R. nie wychodzi do żadnej atrakcji związanej ze słoniami. Tego dnia to słonie zostały przyprowadzone do centrum miasta w ramach celebracji Nowego Roku..." "gallery" >}}
 
-{{< fancybox "cloudinary" "8aa_gyf5wk.jpg" "    ...ku uciesze wielu turystów i lokalnych mieszkańców, którzy je w czasie parady dokarmiali bananami. Dla Kici R. smutny widok, ale była wtedy na ulicy i nie będzie tego ukrywać.." "gallery" >}}
+{{< fancybox "cloudinary" "8aa_gyf5wk.jpg" "     ...ku uciesze wielu turystów i lokalnych mieszkańców, którzy je w czasie parady dokarmiali bananami. Dla Kici R. smutny widok, ale była wtedy na ulicy i nie będzie tego ukrywać.." "gallery" >}}
 
-{{< fancybox "cloudinary" "8b_kqyyby.jpg" "     Obchody Nowego Roku w Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "8b_kqyyby.jpg" "      Obchody Nowego Roku w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "9_p3yfpj.jpg" "     Obchody Nowego Roku w Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "9_p3yfpj.jpg" "      Obchody Nowego Roku w Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_ksivuh.jpg" "     Wodospady Kuang Si, czyli tzw. must see okolic Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "10_ksivuh.jpg" "      Wodospady Kuang Si, czyli tzw. must see okolic Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2640_phnsif.jpg" "     Sir Last pozuje do zdjęcia. " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2640_phnsif.jpg" "      Sir Last pozuje do zdjęcia. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_q1k2b4.jpg" "     Piękne wodospady, podziwiane z drugiej strony przez masę turystów." "gallery" >}}
+{{< fancybox "cloudinary" "11_q1k2b4.jpg" "      Piękne wodospady, podziwiane z drugiej strony przez masę turystów." "gallery" >}}
 
-{{< fancybox "cloudinary" "12_yg3okn.jpg" "     Wodospady Kuang Si." "gallery" >}}
+{{< fancybox "cloudinary" "12_yg3okn.jpg" "      Wodospady Kuang Si." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_pt2fl7.jpg" "     U szczytu wodospadów." "gallery" >}}
+{{< fancybox "cloudinary" "13_pt2fl7.jpg" "      U szczytu wodospadów." "gallery" >}}
 
-{{< fancybox "cloudinary" "14_wgj34n.jpg" "     Zachód słońca w Nong Khiaw." "gallery" >}}
+{{< fancybox "cloudinary" "14_wgj34n.jpg" "      Zachód słońca w Nong Khiaw." "gallery" >}}
