@@ -37,8 +37,7 @@ Kitty R. gets a little closer to the unfamiliar world of blogging. Man 7thousand
 
 However, Kitty R. prefers nobigphotoshop style and she says: 
 
-**_Laos is enough beautiful without photoshop, instagram filters and other programs. It’s beauty is noticeable naturally. With the naked eye.
-_**
+**_Laos is enough beautiful without photoshop, instagram filters and other programs. It’s beauty is noticeable naturally. With the naked eye._**
 
 \* M. is Kitty’s friend she always thinks about when she is anxious or stressed.
 
