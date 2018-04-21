@@ -3,7 +3,7 @@ title: MUANG NGOY
 description: >-
   For the fate in Laos, the beautiful river life among the mountains and the
   jungle, and what powers the insects urine has.
-destinations: LAOS
+destinations: Laos
 featured: 000_czljsk.jpg
 featuredpath: cloudinary
 date: '2018-04-09T10:27:59+01:00'
