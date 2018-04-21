@@ -67,7 +67,7 @@ _**Laos is enough beautiful without photoshop, instagram filters and other progr
 
 {{< fancybox "cloudinary" "9_p3yfpj.jpg" " And another parade. (By the way how much of their quality the photos loose while uploading..)" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_ksivuh.jpg" " Kuang Si waterfalls are.." "gallery" >}}
+{{< fancybox "cloudinary" "10_ksivuh.jpg" " Kuang Si waterfalls are naturally beautiful." "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF2640_phnsif.jpg" " Sir Last posing again and again... does Kitty R. miss something in his CV?" "gallery" >}}
 
