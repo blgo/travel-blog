@@ -4,6 +4,7 @@ description: >-
   New Year in Laos, i.e. wet, more wet, the wettest! The verification of
   stereotypes on the go and a bit about the truth of blogging vs. reality.
 destinations: Laos
+featured: 00title_hmgccj.jpg
 featuredpath: cloudinary
 date: '2018-04-20T17:10:40+01:00'
 type: post
