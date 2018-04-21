@@ -14,7 +14,7 @@ language: en
 ---
 Kitty R. continues the river wandering through Laos, that is, she flows with the Mekong River to another small town - Nong Khiaw. All this is still happening with the good company of Sir Last, Y. and L., constantly wonderful people, with whom time passes lazily, without social compulsions or unnecessary small talk. They call themselves Pumpkins due to the few-day worship of the local homemade pumpkin soup.
 
-Sir Last asks the waitress:_ 'I'm sorry, the spring rolls in Lao style, what does that mean? What's their uniqueness?'. And she replies: 'Well... they're fresh!_'(Lao bad joke that really happened)
+Sir Last asks the waitress: _'I'm sorry, the spring rolls in Lao style, what does that mean? What's their uniqueness?'. And she replies: 'Well... they're fresh!'_ (Lao bad joke that really happened)
 
 One morning Kitty R. comes out, sits on a bench in front of the house and opens her eyes in amazement. It turns out that the her host invited his mates, so they came with cockerels under their armpits and now they organize a fight, as a neighborly meet up. This is again the moment when Kitty R. competences end, she can’t intervene or do anything more than choose between looking at the situation with widely disbelieving opened eyes or just go away. Therefore, she makes a compromise, that is, she looks at the roosters that are being stirred up every now and again (jerk by the tail, tossing it up by surprise); fighting in a amazingly sharp way, hurting each other to the delight of the men gathered around. Kitty R. doesn’t wait until the end of the fight, she looks away and leaves the situation.
 
