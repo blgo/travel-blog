@@ -62,3 +62,19 @@ _**Laos is enough beautiful without photoshop, instagram filters and other progr
 {{< fancybox "cloudinary" "8_lztzbv.jpg" " Kitty R. doesn't go to any attraction related to elephants, but here the elephants were brought to the town centre on the occasion of the celebrations of the New Year..." "gallery" >}}
 
 {{< fancybox "cloudinary" "8aa_gyf5wk.jpg" " ...to the delight of many tourists and local residents who fed them during the parade with some bananas. A sad sight for Kitty R. but she will not pretend she wasn't that day on the streets with the crowds." "gallery" >}}
+
+{{< fancybox "cloudinary" "8b_kqyyby.jpg" " Various parades on occasion of New Year's Eve in Laos. " "gallery" >}}
+
+{{< fancybox "cloudinary" "9_p3yfpj.jpg" " And another parade. (By the way how much of their quality the photos loose while uploading..)" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_ksivuh.jpg" " Kuang Si waterfalls are.." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2640_phnsif.jpg" " Sir Last posing again and again... does Kitty R. miss something in his CV?" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_q1k2b4.jpg" " Kuang Si Waterfalls. (Psst... while taking the photo, Kitty R. was in the line with quite a lot of other visitors)" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_yg3okn.jpg" " Kuang Si is a fun for local children as well. " "gallery" >}}
+
+{{< fancybox "cloudinary" "13_pt2fl7.jpg" " Near the top of Kuang Si Waterfalls." "gallery" >}}
+
+{{< fancybox "cloudinary" "14_wgj34n.jpg" " A sunset in Nong Khiaw. " "gallery" >}}
