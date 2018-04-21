@@ -1,7 +1,7 @@
 ---
 title: LUANG PRABANG
 description: >-
-  New Year in Laos, i.e. wet, more wet, the wettest! The verification of
+  New Year in Laos, i.e. wet, wetter, the wettest! The verification of
   stereotypes on the go and a bit about the truth of blogging vs. reality.
 destinations: Laos
 featured: 00title_hmgccj.jpg
