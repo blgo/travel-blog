@@ -3,7 +3,7 @@ title: MUANG NGOY I NONG KHIAW
 description: >-
   O losie w Laosie, pięknie rzecznego życia wśród gór i dżungli oraz jakie moce
   ma owadzi mocz.
-destinations: LAOS
+destinations: Laos
 featured: 000_czljsk.jpg
 featuredpath: cloudinary
 date: '2018-04-09T10:22:11+01:00'
