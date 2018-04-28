@@ -70,22 +70,24 @@ For it’s part, Laos bids farewell to Kitty R. and Sir Last with a storm and th
 
 {{< fancybox "cloudinary" "9b_fw3k3z.jpg" "   Boat." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_pxkwfz.jpg" "  Laotańskie łodzie. " "gallery" >}}
+{{< fancybox "cloudinary" "10_pxkwfz.jpg" " Laotian boats. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_palyy1.jpg" "  Na łodzi można jeździć na rowerze..." "gallery" >}}
+{{< fancybox "cloudinary" "11_palyy1.jpg" " You can ride bicycle on boat." "gallery" >}}
 
-{{< fancybox "cloudinary" "12_fjsxmj.jpg" "  Albo odpoczywać..." "gallery" >}}
+{{< fancybox "cloudinary" "12_fjsxmj.jpg" " Or just rest..." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_dj3xkh.jpg" "  Kicia R. i Sir Last" "gallery" >}}
+{{< fancybox "cloudinary" "13_dj3xkh.jpg" " Kitty R. and Sir Last" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_kokikr.jpg" "  Widoczki z łodzi." "gallery" >}}
+{{< fancybox "cloudinary" "14_kokikr.jpg" " Views." "gallery" >}}
 
-{{< fancybox "cloudinary" "15_wvb0a7.jpg" "  Drzemka." "gallery" >}}
+{{< fancybox "cloudinary" "15_wvb0a7.jpg" " Afternoon nap on the boat." "gallery" >}}
 
 {{< fancybox "cloudinary" "16_khzpyy.jpg" "  Sir Last" "gallery" >}}
 
-{{< fancybox "cloudinary" "17_rfjax2.jpg" "  Przystań w Huay Xai." "gallery" >}}
+{{< fancybox "cloudinary" "17_rfjax2.jpg" " The pier in Huay Xai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2759_xtfobq.jpg" "  ... " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2759_xtfobq.jpg" "  ... Did you know that Laos was the most bombed country in the world?" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2923_z0zjmw.jpg" "  Dworzec w Huay Xai" "gallery" >}}
+
+
+{{< fancybox "cloudinary" "DSCF2923_z0zjmw.jpg" " Bus station in Huay Xai" "gallery" >}}
