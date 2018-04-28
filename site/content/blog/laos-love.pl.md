@@ -62,4 +62,14 @@ Ze swojej strony Laos żegna Kicię R. i Sir Lasta burzą z piorunami. Kicia R. 
 
 {{< fancybox "cloudinary" "5_cvdrog.jpg" " Tuesday Buddha" "gallery" >}}
 
+{{< fancybox "cloudinary" "7_fevpzg.jpg" " O zachodzie słońca solo" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_ocvs1g.jpg" " O zachodzie słońca rodzinnie" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_f3jnl3.jpg" " I w ogóle o zachodzie słońca wszyscy." "gallery" >}}
+
+{{< fancybox "cloudinary" "9aa_icceuh.jpg" " A to zachód słońca sam sobie." "gallery" >}}
+
+{{< fancybox "cloudinary" "9a_icjbsl.jpg" " A to część składowa pumpkin składu, czyli Lara ♥" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
