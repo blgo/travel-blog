@@ -84,4 +84,12 @@ Ze swojej strony Laos żegna Kicię R. i Sir Lasta burzą z piorunami. Kicia R. 
 
 {{< fancybox "cloudinary" "14_kokikr.jpg" " Widoczki z łodzi." "gallery" >}}
 
-{{< fancybox "cloudinary" "15_wvb0a7.jpg" " Sen na łodzi." "gallery" >}}
+{{< fancybox "cloudinary" "15_wvb0a7.jpg" " Drzemka." "gallery" >}}
+
+{{< fancybox "cloudinary" "16_khzpyy.jpg" " Sir Last" "gallery" >}}
+
+{{< fancybox "cloudinary" "17_rfjax2.jpg" " Przystań w Huay Xai." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2759_xtfobq.jpg" " ... " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2923_z0zjmw.jpg" " Dworzec w Huay Xai" "gallery" >}}
