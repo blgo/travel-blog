@@ -72,4 +72,16 @@ Ze swojej strony Laos żegna Kicię R. i Sir Lasta burzą z piorunami. Kicia R. 
 
 {{< fancybox "cloudinary" "9a_icjbsl.jpg" " A to część składowa pumpkin składu, czyli Lara ♥" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "9b_fw3k3z.jpg" " Przystań." "gallery" >}}
+
+{{< fancybox "cloudinary" "10_pxkwfz.jpg" " Laotańskie łodzie. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11_palyy1.jpg" " Na łodzi można jeździć na rowerze..." "gallery" >}}
+
+{{< fancybox "cloudinary" "12_fjsxmj.jpg" " Albo odpoczywać..." "gallery" >}}
+
+{{< fancybox "cloudinary" "13_dj3xkh.jpg" " Kicia R. i Sir Last" "gallery" >}}
+
+{{< fancybox "cloudinary" "14_kokikr.jpg" " Widoczki z łodzi." "gallery" >}}
+
+{{< fancybox "cloudinary" "15_wvb0a7.jpg" " Sen na łodzi." "gallery" >}}
