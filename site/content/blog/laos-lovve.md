@@ -46,7 +46,7 @@ _**Meanwhile, Kitty R. thanks Laos for it’s beauty, hospitality and the simpli
 
 For it’s part, Laos bids farewell to Kitty R. and Sir Last with a storm and thunderbolts. On the last night in Laos Kitty R. go out of the hostel room to the corridor with the thought of making a photo of the thunderstorm, ‘because it’s so beautiful when lightning brightens up the sky and highlights the palms bending from the windstorm’, and then ... well, the bolt almost hits her. See for yourself.
 
-{{< youtube mP_Hy1KZFBM&t=1s >}}
+{{< youtube mP_Hy1KZFBM >}}
 
 {{< fancybox "cloudinary" "1_v8zhay.jpg" "    Temple in Luang Prabang." "gallery" >}}
 

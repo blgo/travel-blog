@@ -3,7 +3,7 @@ title: LAOS LOVE
 description: >-
   O byciu pełną miłości,  akceptacji śmierci i o przyswajaniu nowych norm. Tu i
   teraz. A, i jeszcze jak  prawie trafił ją piorun.
-destinations: LAOS
+destinations: Laos
 featured: 00title_nxhdm9.jpg
 featuredpath: cloudinary
 date: '2018-04-28T14:12:46+01:00'
@@ -46,7 +46,7 @@ _**Tymczasem Kicia R. dziękuje Laosowi za jego piękno, gościnność i prostot
 
 Ze swojej strony Laos żegna Kicię R. i Sir Lasta burzą z piorunami. Kicia R. wychodzi więc z hostelowego pokoju na korytarz z myślą ‘o, pokręcę sobie burzę, bo tak ładnie błyskawice rozświetlają niebo i podświetlają powyginane wichurą palmy’... i wtedy prawie trafia ją piorun. Zresztą sami zobaczcie.
 
-{{< youtube mP_Hy1KZFBM&t=1s >}}
+{{< youtube mP_Hy1KZFBM >}}
 
 {{< fancybox "cloudinary" "1_v8zhay.jpg" "   Świątynia w Luang Prabang" "gallery" >}}
 
