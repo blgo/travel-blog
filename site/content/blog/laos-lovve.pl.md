@@ -18,10 +18,9 @@ Nadszedł czas rozstania z Pumpkinami; Y. rusza na Południe (Kambodża), L. rus
 
 Dla Kici R. podróżowanie to nie tylko rozwijanie pobocznych pasji (sztuki wizualne), ale i zmaganie się z tematem śmierci i oswajanie z przemijaniem. Nic nie trwa wiecznie i to jest niepodważalne, ale czasem ciężko jest się z tą nieuniknioną sytuacją pogodzić. I tu wkracza podróż.
 
-Są takie momenty w trakcie podróży, kiedy Kicię R. zalewa fala wewnętrznego wzruszenia, kiedy czuje się niewiarygodnie szczęśliwa i myśli sobie wtedy, że gdyby miała zaraz umrzeć, to to w sumie nic wielkiego ani strasznego. Oczywiście, że byłoby miło jeszcze mnóstwo rzeczy w tym życiu porobić, chwycić całą masę nowych możliwości, doświadczyć chociażby macierzyństwa albo zwyczajnie się zestarzeć. W przypadku tego ostatniego, można by wtedy zobaczyć c**_zym podróż staje się i o czym się myśli, gdy się płynie łodzią po Mekongu w trakcie wielomiesięcznej podróży, samotnie po śmierci męża, w wieku 71 lat _**(true story jeśli chodzi o napotkanych przez Kicię podróżników, bo to nie tylko młodzi żądni magic shaków szlajają się po Azji, ale także takie wspaniałe, dziarskie kobiety). Albo mieć duży ogród pełen kwitnących drzew owocowych zasadzonych samej lata wcześniej. Wiele rzeczy to tylko kwestia decyzji i przyjmowanie ich konsekwencji.
+Są takie momenty w trakcie podróży, kiedy Kicię R. zalewa fala wewnętrznego wzruszenia, kiedy czuje się niewiarygodnie szczęśliwa i myśli sobie wtedy, że gdyby miała zaraz umrzeć, to to w sumie nic wielkiego ani strasznego. Oczywiście, że byłoby miło jeszcze mnóstwo rzeczy w tym życiu porobić, chwycić całą masę nowych możliwości, doświadczyć chociażby macierzyństwa albo zwyczajnie się zestarzeć. W przypadku tego ostatniego, można by wtedy zobaczyć c**_zym podróż staje się i o czym się myśli, gdy się płynie łodzią po Mekongu w trakcie wielomiesięcznej podróży, samotnie po śmierci męża, w wieku 71 lat_** (true story jeśli chodzi o napotkanych przez Kicię podróżników, bo to nie tylko młodzi żądni magic shaków szlajają się po Azji, ale także takie wspaniałe, dziarskie kobiety). Albo mieć duży ogród pełen kwitnących drzew owocowych zasadzonych samej lata wcześniej. Wiele rzeczy to tylko kwestia decyzji i przyjmowanie ich konsekwencji.
 
-U Kici R. te momenty niewiarygodnej szczęśliwości i wzruszenia zdarzają się już od kilku ładnych lat i najczęściej w czasie podróży. A Laos to już w ogóle sprzyja temu bardzo! **_Kicia R. czuje się wtedy tak bardzo we właściwym miejscu i czasie, że przynosi jej to spokój i pełną akceptację ludzkiej przemijalności, w tym własnej. 
-_**
+U Kici R. te momenty niewiarygodnej szczęśliwości i wzruszenia zdarzają się już od kilku ładnych lat i najczęściej w czasie podróży. A Laos to już w ogóle sprzyja temu bardzo! **_Kicia R. czuje się wtedy tak bardzo we właściwym miejscu i czasie, że przynosi jej to spokój i pełną akceptację ludzkiej przemijalności, w tym własnej._**
 
 A Ty kiedy ostatnio płakałeś/aś ze szczęścia? He he. 
 
@@ -41,12 +40,14 @@ Dwa dni Kicia R. i Sir Last spędzają na przepięknej drewnianej łodzi, delika
 
 Kicia R. i Sir Last docierają do granicy z Tajlandią, gdzie już dość filozofowania, a więcej przygodowania. 
 
-_**Tymczasem Kicia R. dziękuje Laosowi za jego piękno, gościnność i prostotę życia wokół Mekongu. W jej serduszku Laos love zagościło na zawsze! 
-**_
+_**Tymczasem Kicia R. dziękuje Laosowi za jego piękno, gościnność i prostotę życia wokół Mekongu. W jej serduszku Laos love zagościło na zawsze!**_
 
 Ze swojej strony Laos żegna Kicię R. i Sir Lasta burzą z piorunami. Kicia R. wychodzi więc z hostelowego pokoju na korytarz z myślą ‘o, pokręcę sobie burzę, bo tak ładnie błyskawice rozświetlają niebo i podświetlają powyginane wichurą palmy’... i wtedy prawie trafia ją piorun. Zresztą sami zobaczcie.
 
+
 {{< youtube mP_Hy1KZFBM >}}
+
+And photos...
 
 {{< fancybox "cloudinary" "1_v8zhay.jpg" "   Świątynia w Luang Prabang" "gallery" >}}
 

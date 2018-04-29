@@ -3,7 +3,7 @@ title: LAOS LOVE
 description: >-
   About being full of love, accepting death and assimilating new norms. Here and
   Now. Ah, and how Kitty R. almost gets hit by a lightning.
-destinations: LAOS
+destinations: Laos
 featured: 00title_nxhdm9.jpg
 featuredpath: cloudinary
 date: '2018-04-28T14:45:47+01:00'
@@ -47,6 +47,8 @@ _**Meanwhile, Kitty R. thanks Laos for it’s beauty, hospitality and the simpli
 For it’s part, Laos bids farewell to Kitty R. and Sir Last with a storm and thunderbolts. On the last night in Laos Kitty R. go out of the hostel room to the corridor with the thought of making a photo of the thunderstorm, ‘because it’s so beautiful when lightning brightens up the sky and highlights the palms bending from the windstorm’, and then ... well, the bolt almost hits her. See for yourself.
 
 {{< youtube mP_Hy1KZFBM >}}
+
+And photos...
 
 {{< fancybox "cloudinary" "1_v8zhay.jpg" "    Temple in Luang Prabang." "gallery" >}}
 
