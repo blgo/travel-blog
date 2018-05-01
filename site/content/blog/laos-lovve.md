@@ -18,7 +18,7 @@ It is time to part with the Pumpkins; Y. moves to the South (Cambodia), L. heads
 
 Traveling for Kitty R. means not only developing passions (visual arts) but as well struggling with the theme of death and getting used to the fact of passing away one day. Nothing lasts forever and this is unquestionable, but sometimes it is difficult to reconcile with this unavoidable situation. And here comes the journey.
 
-There are moments during the journey when Kitty R. experiences a wave of inner emotion, when she feels unbelievably happy and thinks that if she was to die, it would be nothing terrifying or terrible. Of course, it would be nice to live a long time as there are still lots of things to do in this life, to grab a whole lot of new opportunities, like experiencing motherhood or just become an old lady. In the case of the latter, one could then experience **_what the journey becomes and what one thinks about when going on a Mekong boat during a several-month journey, alone after the death of their husband, at the age of 7_** (true story about a traveller encountered by Kitty R., because it's not just the young ‘magic shake’ lovers who fancy themselves in Asia, but also wonderful, perky women). Or in another experience have a large garden full of flowering fruit trees planted years before on your own. Many things are just a matter of making decisions and dealing with the consequences.
+There are moments during the journey when Kitty R. experiences a wave of inner emotion, when she feels unbelievably happy and thinks that if she was to die, it would be nothing terrifying or terrible. Of course, it would be nice to live a long time as there are still lots of things to do in this life, to grab a whole lot of new opportunities, like experiencing motherhood or just become an old lady. In the case of the latter, one could then experience **_what the journey becomes and what one thinks about when going on a Mekong boat during a several-month journey, alone after the death of their husband, at the age of 71 _** (true story about a traveller encountered by Kitty R., because it's not just the young ‘magic shake’ lovers who fancy themselves in Asia, but also wonderful, perky women). Or in another experience have a large garden full of flowering fruit trees planted years before on your own. Many things are just a matter of making decisions and dealing with the consequences.
 
 For Kitty R., these moments of unbelievable happiness and other emotions have been happening for several nice years now and most often during a journey. And Laos is a really good place for that! **_She feels so much in the right place and time that it brings her peace and full acceptance of human transitoriness, including her own._**
 
@@ -48,46 +48,46 @@ For it’s part, Laos bids farewell to Kitty R. and Sir Last with a storm and th
 
 And photos...
 
-{{< fancybox "cloudinary" "1_v8zhay.jpg" "         Temple in Luang Prabang." "gallery" >}}
+{{< fancybox "cloudinary" "1_v8zhay.jpg" "           Temple in Luang Prabang." "gallery" >}}
 
-{{< fancybox "cloudinary" "2_g9hlvk.jpg" "         Light and and Buddha." "gallery" >}}
+{{< fancybox "cloudinary" "2_g9hlvk.jpg" "           Light and and Buddha." "gallery" >}}
 
-{{< fancybox "cloudinary" "31433031_10214168181895948_5016270331392819200_n_t480ey.jpg" "         Entrance to the temple. " "gallery" >}}
+{{< fancybox "cloudinary" "31433031_10214168181895948_5016270331392819200_n_t480ey.jpg" "           Entrance to the temple. " "gallery" >}}
 
-{{< fancybox "cloudinary" "31398280_10214168182175955_1564833259412520960_n_bkyi7d.jpg" "         Elephants bum." "gallery" >}}
+{{< fancybox "cloudinary" "31398280_10214168182175955_1564833259412520960_n_bkyi7d.jpg" "           Elephants bum." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_htt1il.jpg" "         Tuesday Buddha" "gallery" >}}
+{{< fancybox "cloudinary" "5_htt1il.jpg" "           Tuesday Buddha" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_cvdrog.jpg" "         undefined" "gallery" >}}
+{{< fancybox "cloudinary" "5_cvdrog.jpg" "           undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "7_fevpzg.jpg" "         Solo sunset" "gallery" >}}
+{{< fancybox "cloudinary" "7_fevpzg.jpg" "           Solo sunset" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_ocvs1g.jpg" "         Family sunset" "gallery" >}}
+{{< fancybox "cloudinary" "8_ocvs1g.jpg" "           Family sunset" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_f3jnl3.jpg" "         Everyone sunset" "gallery" >}}
+{{< fancybox "cloudinary" "9_f3jnl3.jpg" "           Everyone sunset" "gallery" >}}
 
-{{< fancybox "cloudinary" "9aa_icceuh.jpg" "         Sunset alone." "gallery" >}}
+{{< fancybox "cloudinary" "9aa_icceuh.jpg" "           Sunset alone." "gallery" >}}
 
-{{< fancybox "cloudinary" "9a_icjbsl.jpg" "         Member of Pumpkin Team, Lara ❤" "gallery" >}}
+{{< fancybox "cloudinary" "9a_icjbsl.jpg" "           Member of Pumpkin Team, Lara ❤" "gallery" >}}
 
-{{< fancybox "cloudinary" "9b_fw3k3z.jpg" "         Boat." "gallery" >}}
+{{< fancybox "cloudinary" "9b_fw3k3z.jpg" "           Boat." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_pxkwfz.jpg" "       Laotian boats. " "gallery" >}}
+{{< fancybox "cloudinary" "10_pxkwfz.jpg" "         Laotian boats. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_palyy1.jpg" "       You can ride bicycle on boat." "gallery" >}}
+{{< fancybox "cloudinary" "11_palyy1.jpg" "         You can ride bicycle on boat." "gallery" >}}
 
-{{< fancybox "cloudinary" "12_fjsxmj.jpg" "       Or just rest..." "gallery" >}}
+{{< fancybox "cloudinary" "12_fjsxmj.jpg" "         Or just rest..." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_dj3xkh.jpg" "       Kitty R. and Sir Last" "gallery" >}}
+{{< fancybox "cloudinary" "13_dj3xkh.jpg" "         Kitty R. and Sir Last" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_kokikr.jpg" "       Views." "gallery" >}}
+{{< fancybox "cloudinary" "14_kokikr.jpg" "         Views." "gallery" >}}
 
-{{< fancybox "cloudinary" "15_wvb0a7.jpg" "       Afternoon nap on the boat." "gallery" >}}
+{{< fancybox "cloudinary" "15_wvb0a7.jpg" "         Afternoon nap on the boat." "gallery" >}}
 
-{{< fancybox "cloudinary" "16_khzpyy.jpg" "        Sir Last" "gallery" >}}
+{{< fancybox "cloudinary" "16_khzpyy.jpg" "          Sir Last" "gallery" >}}
 
-{{< fancybox "cloudinary" "17_rfjax2.jpg" "       The pier in Huay Xai. " "gallery" >}}
+{{< fancybox "cloudinary" "17_rfjax2.jpg" "         The pier in Huay Xai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2759_xtfobq.jpg" "        ... Did you know that Laos was the most bombed country in the world?" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2759_xtfobq.jpg" "          ... Did you know that Laos was the most bombed country in the world?" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2923_z0zjmw.jpg" "       Bus station in Huay Xai" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2923_z0zjmw.jpg" "         Bus station in Huay Xai" "gallery" >}}
