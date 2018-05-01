@@ -2,7 +2,7 @@
 title: LAOS LOVE
 description: >-
   About being full of love, accepting death and assimilating new norms. Here and
-  Now. Ah, and how Kitty R. almost gets hit by a lightning.
+  Now. Oh, and how Kitty R. almost gets hit by a lightning.
 destinations: Laos
 featured: 00title_nxhdm9.jpg
 featuredpath: cloudinary
