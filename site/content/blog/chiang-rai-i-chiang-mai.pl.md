@@ -85,6 +85,6 @@ A można też nie robić nic; posiedzieć, popatrzeć dookoła, poleżeć, popi�
 
 {{< fancybox "cloudinary" "19_nmjj2q.jpg" " Nieostre zdjęcie, ale zaufajcie, muzycy byli profesjonalni jak rzadko!" "gallery" >}}
 
-{{< fancybox "cloudinary" "19a_tdopfu.jpg" "  Co motywuje ludzi do tribal tourismu?" "gallery" >}}
+{{< fancybox "cloudinary" "19a_sjsfzr.jpg" "  Co motywuje ludzi do tribal tourismu?" "gallery" >}}
 
 {{< fancybox "cloudinary" "20_jvjj2b.jpg" " Sushi elegancko" "gallery" >}}
