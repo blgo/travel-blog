@@ -43,3 +43,15 @@ And you can also do nothing; just sit, look around, lie down, drink a mango smoo
 {{< fancybox "cloudinary" "2_zerfpy.jpg" " Chiang Rai" "gallery" >}}
 
 {{< fancybox "cloudinary" "2a_vzrd5i.jpg" " Welcome to catscafe" "gallery" >}}
+
+{{< fancybox "cloudinary" "3_iu1z40.jpg" " Kitty R. meets Kitty In The Box" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_gas1he.jpg" " Cats, cafe, fun" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_yu6fju.jpg" " Cats on shelves" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_pmqe0z.jpg" " For cats only" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " Night market in daily light, Chiang Rai" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_xkejxs.jpg" " Chiang Rai" "gallery" >}}
