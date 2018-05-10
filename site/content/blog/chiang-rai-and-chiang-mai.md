@@ -55,3 +55,19 @@ And you can also do nothing; just sit, look around, lie down, drink a mango smoo
 {{< fancybox "cloudinary" "undefined" " Night market in daily light, Chiang Rai" "gallery" >}}
 
 {{< fancybox "cloudinary" "8_xkejxs.jpg" " Chiang Rai" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_uydyjz.jpg" " Welcome.. to Chiang Mai" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_yvgp1s.jpg" " Chiang Mai" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_issxth.jpg" " Colours love" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_cktlmw.jpg" " Creepy or funny? (while taking this photo I was just saying I feel like an idiot)" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_de1nvk.jpg" " Light love" "gallery" >}}
+
+{{< fancybox "cloudinary" "14_spjtdg.jpg" " Street art in Chiang Mai" "gallery" >}}
+
+{{< fancybox "cloudinary" "15_ulmiao.jpg" " Chiang Mai, night market" "gallery" >}}
+
+{{< fancybox "cloudinary" "15a_su51gm.jpg" " bad photo, pure reality, Chiang Mai" "gallery" >}}
