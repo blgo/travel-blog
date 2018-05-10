@@ -80,4 +80,8 @@ And you can also do nothing; just sit, look around, lie down, drink a mango smoo
 
 {{< fancybox "cloudinary" "18_v8ajof.jpg" " Jam session North Gate, Chiang Mai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_nmjj2q.jpg" " Blurry" "gallery" >}}
+{{< fancybox "cloudinary" "19_nmjj2q.jpg" " Blurry photo, but trust me it was lush!" "gallery" >}}
+
+{{< fancybox "cloudinary" "19a_tdopfu.jpg" " Kitty R. wonders what motivates people to join tribal tourism?" "gallery" >}}
+
+{{< fancybox "cloudinary" "20_jvjj2b.jpg" " Sushi exclusive bar" "gallery" >}}
