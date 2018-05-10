@@ -33,3 +33,13 @@ https://vimeo.com/26653380
 You can simply live peacefully in another country, get soaked in a different culture and climate.
 
 And you can also do nothing; just sit, look around, lie down, drink a mango smoothie very slowly ... **because when else is it better to do nothing in peace if not while on a long journey? **
+
+
+
+{{< fancybox "cloudinary" "1_tgi950.jpg" " Chiang Rai" "gallery" >}}
+
+{{< fancybox "cloudinary" "01_utgz4v.jpg" " Chiang Rai" "gallery" >}}
+
+{{< fancybox "cloudinary" "2_zerfpy.jpg" " Chiang Rai" "gallery" >}}
+
+{{< fancybox "cloudinary" "2a_vzrd5i.jpg" " Welcome to catscafe" "gallery" >}}
