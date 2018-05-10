@@ -71,3 +71,13 @@ And you can also do nothing; just sit, look around, lie down, drink a mango smoo
 {{< fancybox "cloudinary" "15_ulmiao.jpg" " Chiang Mai, night market" "gallery" >}}
 
 {{< fancybox "cloudinary" "15a_su51gm.jpg" " bad photo, pure reality, Chiang Mai" "gallery" >}}
+
+{{< fancybox "cloudinary" "16_untjqx.jpg" " Lunch time in Chiang Mai" "gallery" >}}
+
+{{< fancybox "cloudinary" "17_axixkm.jpg" " Japanese homemade food." "gallery" >}}
+
+{{< fancybox "cloudinary" "17a_cza6uv.jpg" " Another Asian street art example." "gallery" >}}
+
+{{< fancybox "cloudinary" "18_v8ajof.jpg" " Jam session North Gate, Chiang Mai. " "gallery" >}}
+
+{{< fancybox "cloudinary" "19_nmjj2q.jpg" " Blurry" "gallery" >}}
