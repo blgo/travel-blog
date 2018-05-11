@@ -15,7 +15,7 @@ language: pl
 _**\- Co dziś robiłaś Kiciu R.? Czy polecasz jakieś atrakcje?
 **_
 
-_**\- Hm… nie robiłam nic konkretnego. Tak sobie chodziłam, patrzyłam, pojadłam, porobiłam zdjęcia. Fajny dzień. 
+_**\- Hm… nie robiłam nic konkretnego. Tak sobie chodziłam, patrzyłam, pojadłam, porobiłam zdjęcia. Fajny dzień.
 **_
 
 Atrakcje. Kicia R. patrzy na stosy ulotek w hostelowym przedsionku.
@@ -36,55 +36,54 @@ https://vimeo.com/26653380
 
 Można po prostu spokojnie pożyć w innym kraju, w innej kulturze i klimacie.
 
-A można też nie robić nic; posiedzieć, popatrzeć dookoła, poleżeć, popić wolniutko sok z mango…  **jak robić spokojnie nic, to kiedy jak nie w czasie długiej podróży?
-**
+A można też nie robić nic; posiedzieć, popatrzeć dookoła, poleżeć, popić wolniutko sok z mango…  **jak robić spokojnie nic, to kiedy jak nie w czasie długiej podróży?**
 
-{{< fancybox "cloudinary" "1_tgi950.jpg" "   Chiang Rai" "gallery" >}}
+{{< fancybox "cloudinary" "1_tgi950.jpg" "     Chiang Rai" "gallery" >}}
 
-{{< fancybox "cloudinary" "01_utgz4v.jpg" "   Chiang Rai" "gallery" >}}
+{{< fancybox "cloudinary" "01_utgz4v.jpg" "     Chiang Rai" "gallery" >}}
 
-{{< fancybox "cloudinary" "2_zerfpy.jpg" "   Chiang Rai" "gallery" >}}
+{{< fancybox "cloudinary" "2_zerfpy.jpg" "     Chiang Rai" "gallery" >}}
 
-{{< fancybox "cloudinary" "2a_vzrd5i.jpg" "   Witaj w kotokawiarni" "gallery" >}}
+{{< fancybox "cloudinary" "2a_vzrd5i.jpg" "     Witaj w kotokawiarni" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_iu1z40.jpg" "   Kicia R. spotyka Kota W Pudełku" "gallery" >}}
+{{< fancybox "cloudinary" "3_iu1z40.jpg" "     Kicia R. spotyka Kota W Pudełku" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_gas1he.jpg" "  Koty, kawa, zabawa" "gallery" >}}
+{{< fancybox "cloudinary" "4_gas1he.jpg" "    Koty, kawa, zabawa" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_yu6fju.jpg" "  Koty na półkach" "gallery" >}}
+{{< fancybox "cloudinary" "5_yu6fju.jpg" "    Koty na półkach" "gallery" >}}
 
-{{< fancybox "cloudinary" "6_pmqe0z.jpg" "  Tylko dla kotów" "gallery" >}}
+{{< fancybox "cloudinary" "6_pmqe0z.jpg" "    Tylko dla kotów" "gallery" >}}
 
-{{< fancybox "cloudinary" "yellow_byi8xm.jpg" "  Nocny targ w dziennym świetle, Chiang Rai" "gallery" >}}
+{{< fancybox "cloudinary" "yellow_byi8xm.jpg" "    Nocny targ w dziennym świetle, Chiang Rai" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_xkejxs.jpg" "   Chiang Rai" "gallery" >}}
+{{< fancybox "cloudinary" "8_xkejxs.jpg" "     Chiang Rai" "gallery" >}}
 
-{{< fancybox "cloudinary" "9_uydyjz.jpg" "   Witaj... w Chiang Mai" "gallery" >}}
+{{< fancybox "cloudinary" "9_uydyjz.jpg" "     Witaj... w Chiang Mai" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_yvgp1s.jpg" "   Chiang Mai" "gallery" >}}
+{{< fancybox "cloudinary" "10_yvgp1s.jpg" "     Chiang Mai" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_issxth.jpg" "   Colours love" "gallery" >}}
+{{< fancybox "cloudinary" "11_issxth.jpg" "     Colours love" "gallery" >}}
 
-{{< fancybox "cloudinary" "12_cktlmw.jpg" "   Zabawnie czy strasznie? (kiedy było robione to zdjęcia Kicia R. mówiła, że czuje się idiotycznie)" "gallery" >}}
+{{< fancybox "cloudinary" "12_cktlmw.jpg" "     Zabawnie czy strasznie? (kiedy było robione to zdjęcia Kicia R. mówiła, że czuje się idiotycznie)" "gallery" >}}
 
-{{< fancybox "cloudinary" "13_de1nvk.jpg" "   Light love" "gallery" >}}
+{{< fancybox "cloudinary" "13_de1nvk.jpg" "     Light love" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_spjtdg.jpg" "   Street art w Chiang Mai" "gallery" >}}
+{{< fancybox "cloudinary" "14_spjtdg.jpg" "     Street art w Chiang Mai" "gallery" >}}
 
-{{< fancybox "cloudinary" "15_ulmiao.jpg" "   Chiang Mai, nocny targ" "gallery" >}}
+{{< fancybox "cloudinary" "15_ulmiao.jpg" "     Chiang Mai, nocny targ" "gallery" >}}
 
-{{< fancybox "cloudinary" "15a_su51gm.jpg" "   Złe foto, taka prawda. Chiang Mai" "gallery" >}}
+{{< fancybox "cloudinary" "15a_su51gm.jpg" "     Złe foto, taka prawda. Chiang Mai" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_untjqx.jpg" "   Lunch time w Chiang Mai" "gallery" >}}
+{{< fancybox "cloudinary" "16_untjqx.jpg" "     Lunch time w Chiang Mai" "gallery" >}}
 
-{{< fancybox "cloudinary" "17_axixkm.jpg" "  Bar mleczny po japońsku" "gallery" >}}
+{{< fancybox "cloudinary" "17_axixkm.jpg" "    Bar mleczny po japońsku" "gallery" >}}
 
-{{< fancybox "cloudinary" "17a_cza6uv.jpg" "  Kolejny przykład azjatckiej sztuki ulicy" "gallery" >}}
+{{< fancybox "cloudinary" "17a_cza6uv.jpg" "    Kolejny przykład azjatckiej sztuki ulicy" "gallery" >}}
 
-{{< fancybox "cloudinary" "18_v8ajof.jpg" "   Jam session w North Gate, Chiang Mai. " "gallery" >}}
+{{< fancybox "cloudinary" "18_v8ajof.jpg" "     Jam session w North Gate, Chiang Mai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_nmjj2q.jpg" "  Nieostre zdjęcie, ale zaufajcie, muzycy byli profesjonalni jak rzadko!" "gallery" >}}
+{{< fancybox "cloudinary" "19_nmjj2q.jpg" "    Nieostre zdjęcie, ale zaufajcie, muzycy byli profesjonalni jak rzadko!" "gallery" >}}
 
-{{< fancybox "cloudinary" "19a_sjsfzr.jpg" "   Co motywuje ludzi do tribal tourismu?" "gallery" >}}
+{{< fancybox "cloudinary" "19a_sjsfzr.jpg" "     Co motywuje ludzi do tribal tourismu?" "gallery" >}}
 
-{{< fancybox "cloudinary" "20_jvjj2b.jpg" "  Sushi elegancko" "gallery" >}}
+{{< fancybox "cloudinary" "20_jvjj2b.jpg" "    Sushi elegancko" "gallery" >}}
