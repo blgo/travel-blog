@@ -12,11 +12,9 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-**_\- Co dziś robiłaś Kiciu R.? Czy polecasz jakieś atrakcje?
-_**
+**_\- Co dziś robiłaś Kiciu R.? Czy polecasz jakieś atrakcje?_**
 
-**_\- Hm… nie robiłam nic konkretnego. Tak sobie chodziłam, patrzyłam, pojadłam, porobiłam zdjęcia. Fajny dzień. 
-_**
+**_\- Hm… nie robiłam nic konkretnego. Tak sobie chodziłam, patrzyłam, pojadłam, porobiłam zdjęcia. Fajny dzień._**
 
 Atrakcje. Kicia R. patrzy na stosy ulotek w hostelowym przedsionku.
 
