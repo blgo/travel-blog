@@ -24,7 +24,7 @@ Kitty R. thinks that whether tigers are intoxicated or not is just a distraction
 
 **People.** There is a photo of a woman, with golden circles piled up around her neck, which optically lengthens it (in fact their weight just lowers the arms slightly). Her image is already copied on paintings, mugs, in the museums and even on some street walls. This is an incentive to visit the Karen tribe (Padaung), meaning people who are refugees from Myanmar. As refugees, they received land from Thailand, which they could not leave until recently, even to go to school or hospital. They can’t undertake any work other than tourism and handicrafts, or leave the village; all that under the threat of arrest. They do not have any legal document (ID) entitling them to provide a normal life and having rights like other residents in Thailand. Their main task is to smile to please tourists and not to leave the village. Is visiting this so-called _‘human zoo’_ a support for an ethnic group or does it further their exploitation? **Kitty R. wonders what motivates people to join tribal tourism?** Making a lush photo or getting to know another culture and tradition? In the case of the latter, this raises another question: what is authentic there and what is done just for tourism? Maybe if Kitty R. had the certainty that these ethnic groups really wanted it, that this is their decision and the money goes all the way to their hand-stitched pockets, that they have any choice at all… then maybe Kitty R. would look at tribal tourism more within a favorable, less disturbed eye.
 
-https://vimeo.com/26653380 
+{{< vimeo 26653380 >}}
 
 (a short documentary on the topic)
 
