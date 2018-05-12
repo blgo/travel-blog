@@ -28,7 +28,7 @@ A Kicia R. sobie myśli, że to czy tygrysy są odurzane czy nie, jest tylko roz
 
 **Ludzie.** Jest takie zdjęcie, portret kobiety, ze złotymi kręgami piętrzącymi się wokół jej szyji, co optycznie ją wydłuża, a tak naprawdę ich ciężar po prostu obniża trochę ramiona. Jej wizerunek jest już kopiowany na obrazach, kubkach, w muzeach, a nawet ulicznych murach. To zachęta do odwiedzenia plemienia Karen (Padaung), czyli uchodźców z Myanmaru. Jako osoby o statusie uchodźcy, dostali od Tajlandii ziemię z haczykiem, czyli jeszcze do niedawna nie mogli opuszczać terenu, by pójść nawet do szkoły czy do szpitala. Nie mogą też wciąż podjąć żadnej innej pracy poza turystyką i rękodziełem ani opuszczać wioski, pod groźbą aresztu. Nie mają żadnego legalnego dokumentu uprawniającego ich do normalnego życia (m.in. dostęp do opieki medycznej) i posiadania praw jak pozostali mieszkańcy w Tajlandii. Ich zadaniem jest przede wszystkim uśmiechać się do turystów i nie opuszczać terenu wioski. Czy odwiedzanie tego tzw. _ludzkiego zoo_ jest w ogóle wspieraniem tej grupy etnicznej czy ich dalszą eksploatacją? **Kicia R. się zastanawia co w ogóle motywuje ludzi do plemiennej turystyki (tribal tourism)?** Zrobienie klawej foty czy poznanie innej kultury i tradycji? W przypadku tego drugiego, to nasuwa kolejne pytanie: co jest autentyczne, a co jest zrobione pod turystyczny przemysł? Może gdyby Kicia R. miała pewność, że te grupy etniczne tego naprawdę chcą i że jest to ich decyzja, że pieniądze w całości idą do ich ręcznie wyszywanej kieszeni, że mają w ogóle jakiś wybór to, by patrzyła na tribal tourism bardziej przychylnym, mniej zaniepokojonym okiem.  
 
-https://vimeo.com/26653380 
+{{< vimeo id="26653380" class="flex-video" >}}
 
 (krótki dokument na temat)
 
