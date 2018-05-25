@@ -10,11 +10,11 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-Drogi/Droga, 
+Miły/Miła, 
 
-Czy zastanawiałeś/aś się kiedyś jak wiele rzeczy i emocji możesz doświadczyć w ciągu zaledwie jednego dnia? Czy czułeś/aś kiedyś coś niczym przeciążenie sensoryczne? To jest coś takiego, co Kicia R. przeżywa w trakcie podróży: tyle rzeczy, emocji, szczegółów wydarza się nieustannie dookoła niej! Chiang Mai w Tajlandii jest wspaniałym przykładem tego uczucia, dlatego zamiast pisać dziś dłużej, Kicia R. postanowiła zaprezentować krótki filmik o Jednym Dniu w tym mieście. 
+Czy zastanawiałeś/aś się kiedyś jak wiele rzeczy i emocji można doświadczyć w ciągu zaledwie jednego dnia? Czy czułeś/aś kiedyś coś niczym przeciążenie sensoryczne? To jest coś takiego, co Kicia R. przeżywa w trakcie podróży: tyle nowych rzeczy, emocji, szczegółów wydarza się nieustannie dookoła niej! Chiang Mai w Tajlandii jest wspaniałym przykładem tego uczucia, dlatego zamiast pisać dziś dłużej, Kicia R. postanowiła zaprezentować krótki filmik o Jednym Dniu w tym mieście. 
 
-Przyjemnego oglądania i zostaw proszę zwrotko-komentarz, co by Kicia R. wiedziała co myślisz o jej nowej pasji montażu video. 
+Przyjemnego oglądania i zostaw proszę zwrotko-komentarz, co by Kicia R. wiedziała, co myślisz o jej nowej pasji montażu video. 
 
 Z wyrazami miłości, 
 
