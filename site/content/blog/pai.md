@@ -56,3 +56,11 @@ There is nothing more pleasant to discover your own joy here and now.
 Clap! Kitty R. skillfully kills a tiger mosquito; it is larger than a European one, it is black with white stripes and it is said that it is responsible for the spread of dengue. Nothing can destroy Kitty’s personal definition of Zen. Sir Last already grabs mosquitos with his index finger and thumb in flight. Respect!
 
 The problems and battles of the day catch up with her whenever she is in the world, but Asia gave her a good lesson of humility and distance. Humility towards nature, distance from mundane problems. And yet she did not talk to Buddhist monks, nor did she attend spiritual meditations. Was it enough that she only breathed the local air? Kitty R. came to Asia for all this and that's what she found. Self-consciousness.
+
+
+
+{{< fancybox "cloudinary" "00_yuxpq4.jpg" " Daily view over the mountains and rice fields." "gallery" >}}
+
+{{< fancybox "cloudinary" "01_jv7fap.jpg" " The sky in Pai. " "gallery" >}}
+
+{{< fancybox "cloudinary" "1_byzbge.jpg" " Where the rainbow begins.." "gallery" >}}
