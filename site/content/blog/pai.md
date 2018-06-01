@@ -72,3 +72,11 @@ The problems and battles of the day catch up with her whenever she is in the wor
 {{< fancybox "cloudinary" "4_vqrein.jpg" " Mosquitoes net and the sun. " "gallery" >}}
 
 {{< fancybox "cloudinary" "4a_qehexk.jpg" " Welcome" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_uvygre.jpg" " Halo, an optical phenomenon. " "gallery" >}}
+
+{{< fancybox "cloudinary" "5a_aeqy6x.jpg" " Pai" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " On the way to Pai town." "gallery" >}}
+
+{{< fancybox "cloudinary" "7_jfj4xt.jpg" " Rain in town. " "gallery" >}}
