@@ -1,6 +1,6 @@
 ---
 title: PAI
-description: 'Monsoon effect on Kitty''s life. '
+description: 'Monsoon''s influence on Kitty''s life. '
 destinations: THAILAND
 featured: 0title_blyu4f.jpg
 featuredpath: cloudinary
