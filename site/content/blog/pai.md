@@ -64,3 +64,11 @@ The problems and battles of the day catch up with her whenever she is in the wor
 {{< fancybox "cloudinary" "01_jv7fap.jpg" " The sky in Pai. " "gallery" >}}
 
 {{< fancybox "cloudinary" "1_byzbge.jpg" " Where the rainbow begins.." "gallery" >}}
+
+{{< fancybox "cloudinary" "2_r58glt.jpg" " Sir Last makes drawings." "gallery" >}}
+
+{{< fancybox "cloudinary" "3_lv7qyb.jpg" " Outdoor bathroom, what a pleasure to look in the mirror!" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_vqrein.jpg" " Mosquitoes net and the sun. " "gallery" >}}
+
+{{< fancybox "cloudinary" "4a_qehexk.jpg" " Welcome" "gallery" >}}
