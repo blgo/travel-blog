@@ -12,34 +12,34 @@ language: pl
 ---
 Barmanka pyta: 
 
-\-  Co dziś w planach Kiciu?
+_\-  Co dziś w planach Kiciu?
+_
 
+_\-  A znów popatrzę na pola ryżowe i okoliczne góry, popatrzę jak chmury pary unoszą się nad lasami deszczowymi, posłucham dźwięku cykad, rechotu żab i śpiewu ptaków.
+_
 
-\-  A znów popatrzę na pola ryżowe i okoliczne góry, popatrzę jak chmury pary unoszą się nad lasami deszczowymi, posłucham dźwięku cykad, rechotu żab i śpiewu ptaków.
+_\- Wspaniale! A jakie dźwięki wydaje Twoje miasto?
+_
 
+_\- W Warszawie latem słychać dzieci hasające po podwórkach, czasem przejeżdżające tramwaje, a z mojego dachu wieczorami słychać również dźwięki pobliskiego Zoo*. Nocą natomiast można spotkać chrumkające dziki w Parku Praskim. A jak to jest w Nowym Yorku?
+_
 
-\- Wspaniale! A jakie dźwięki wydaje Twoje miasto?
+_\- U nas zależnie od dzielnicy słychać głośną muzykę, gwar samochodów i miauczące nocami koty. Można też spotkać szopy, oposy i kiedyś wkradł się nam do domu skunks.
+_
 
+_\- Cudownie! A powiedz mi V., widziałam w nocy ludzi chodzących po polach ryżowych w czasie deszczu, świecili latarkami i zdaje się coś zbierali, masz pomysł o co chodzi?
+_
 
-\- W Warszawie latem słychać dzieci hasające po podwórkach, czasem przejeżdżające tramwaje, a z mojego dachu wieczorami słychać również dźwięki pobliskiego Zoo*. Nocą natomiast można spotkać chrumkające dziki w Parku Praskim. A jak to jest w Nowym Yorku?
-
-
-\- U nas zależnie od dzielnicy słychać głośną muzykę, gwar samochodów i miauczące nocami koty. Można też spotkać szopy, oposy i kiedyś wkradł się nam do domu skunks.
-
-
-\- Cudownie! A powiedz mi V., widziałam w nocy ludzi chodzących po polach ryżowych w czasie deszczu, świecili latarkami i zdaje się coś zbierali, masz pomysł o co chodzi?
-
-
-\-Hm.. możliwe, że po burzy lokalni ludzie zbierają cykady i koniki polne, bo wtedy jest tych insektów najwięcej na polach. A zbierają je pewnie na pokarm dla uratowanej ostatnio sowy. 
-
+_\-Hm.. możliwe, że po burzy lokalni ludzie zbierają cykady i koniki polne, bo wtedy jest tych insektów najwięcej na polach. A zbierają je pewnie na pokarm dla uratowanej ostatnio sowy. 
+_
 
 Kicia R. patrzy na okoliczne góry pokryte lasami deszczowymi. Gorąco daje się we znaki i odbiera siły na jakiekolwiek spacery czy wyprawy ku większym atrakcjom. Dla Kici R. i tak największą wspaniałością i jednocześnie prawdziwą umiejętnością jest zwyczajnie posiedzieć i popatrzeć na piękno przyrody. Wtedy to dopiero się układają myśli i plany. Od czasu do czasu gorąc przykrywają mroczne, granatowe chmury, które prędko przynoszą kosmiczną ulewę. Wtedy niebo się zrywa, a grzmoty dają efekty dźwiękowe jakby waliły się pobliskie góry. Pioruny i światło wokół nich mają kolor różowo-fioletowy, a ich szybki mig rozgałęzia się ku niebu niewiarygodnie pięknie. Kicia R. obserwuje całość tych przyrodniczych akcji z niepokojem i jednocześnie fascynacją. Po przygodzie, gdy piorun uderzył w barierkę zaledwie kilka metrów od niej, serce bije jej zdecydowanie szybciej w czasie burzy. 
 
-_\- A jak się zrywa taka potężna burza to jak reagują lokalne zwierzęta? - pyta Kicia R.
-_
+\- A jak się zrywa taka potężna burza to jak reagują lokalne zwierzęta? - pyta Kicia R.
 
-_\- Całe dzieciństwo wypasałem wodne bawoły – mówi pewien Laotańczyk - Gdy nadchodziła burza, ja chciałem biec do domu, a bawoły wręcz przeciwnie; to właśnie w czasie deszczu się ożywiały, były szczęśliwe i bardzo trudno było je wtedy zawrócić do gospodarstwa. Niektóre ginęły od uderzeń piorunów; zresztą jak i ludzie, którzy na tereneach wiejskich w czasie burzy nie przerywają pracy w polu, a często są obwieszeni metalowymi ozdobami, które przyciągają pioruny.
- _
+
+\- Całe dzieciństwo wypasałem wodne bawoły – mówi pewien Laotańczyk - Gdy nadchodziła burza, ja chciałem biec do domu, a bawoły wręcz przeciwnie; to właśnie w czasie deszczu się ożywiały, były szczęśliwe i bardzo trudno było je wtedy zawrócić do gospodarstwa. Niektóre ginęły od uderzeń piorunów; zresztą jak i ludzie, którzy na tereneach wiejskich w czasie burzy nie przerywają pracy w polu, a często są obwieszeni metalowymi ozdobami, które przyciągają pioruny.
+
 
 W ogóle Kicia R. jest tu w iście hipnotycznym stanie, bo...
 
