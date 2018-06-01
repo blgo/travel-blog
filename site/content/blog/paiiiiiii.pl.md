@@ -12,26 +12,26 @@ language: pl
 ---
 Barmanka pyta: 
 
-_\-  Co dziś w planach Kiciu?
-_
+\-  Co dziś w planach Kiciu?
 
-_\-  A znów popatrzę na pola ryżowe i okoliczne góry, popatrzę jak chmury pary unoszą się nad lasami deszczowymi, posłucham dźwięku cykad, rechotu żab i śpiewu ptaków.
-_
 
-_\- Wspaniale! A jakie dźwięki wydaje Twoje miasto?
-_
+\-  A znów popatrzę na pola ryżowe i okoliczne góry, popatrzę jak chmury pary unoszą się nad lasami deszczowymi, posłucham dźwięku cykad, rechotu żab i śpiewu ptaków.
 
-_\- W Warszawie latem słychać dzieci hasające po podwórkach, czasem przejeżdżające tramwaje, a z mojego dachu wieczorami słychać również dźwięki pobliskiego Zoo*. Nocą natomiast można spotkać chrumkające dziki w Parku Praskim. A jak to jest w Nowym Yorku?
-_
 
-_\- U nas zależnie od dzielnicy słychać głośną muzykę, gwar samochodów i miauczące nocami koty. Można też spotkać szopy, oposy i kiedyś wkradł się nam do domu skunks.
-_
+\- Wspaniale! A jakie dźwięki wydaje Twoje miasto?
 
-_\- Cudownie! A powiedz mi V., widziałam w nocy ludzi chodzących po polach ryżowych w czasie deszczu, świecili latarkami i zdaje się coś zbierali, masz pomysł o co chodzi?
-_
 
-_\-Hm.. możliwe, że po burzy lokalni ludzie zbierają cykady i koniki polne, bo wtedy jest tych insektów najwięcej na polach. A zbierają je pewnie na pokarm dla uratowanej ostatnio sowy. 
-_
+\- W Warszawie latem słychać dzieci hasające po podwórkach, czasem przejeżdżające tramwaje, a z mojego dachu wieczorami słychać również dźwięki pobliskiego Zoo*. Nocą natomiast można spotkać chrumkające dziki w Parku Praskim. A jak to jest w Nowym Yorku?
+
+
+\- U nas zależnie od dzielnicy słychać głośną muzykę, gwar samochodów i miauczące nocami koty. Można też spotkać szopy, oposy i kiedyś wkradł się nam do domu skunks.
+
+
+\- Cudownie! A powiedz mi V., widziałam w nocy ludzi chodzących po polach ryżowych w czasie deszczu, świecili latarkami i zdaje się coś zbierali, masz pomysł o co chodzi?
+
+
+\-Hm.. możliwe, że po burzy lokalni ludzie zbierają cykady i koniki polne, bo wtedy jest tych insektów najwięcej na polach. A zbierają je pewnie na pokarm dla uratowanej ostatnio sowy. 
+
 
 Kicia R. patrzy na okoliczne góry pokryte lasami deszczowymi. Gorąco daje się we znaki i odbiera siły na jakiekolwiek spacery czy wyprawy ku większym atrakcjom. Dla Kici R. i tak największą wspaniałością i jednocześnie prawdziwą umiejętnością jest zwyczajnie posiedzieć i popatrzeć na piękno przyrody. Wtedy to dopiero się układają myśli i plany. Od czasu do czasu gorąc przykrywają mroczne, granatowe chmury, które prędko przynoszą kosmiczną ulewę. Wtedy niebo się zrywa, a grzmoty dają efekty dźwiękowe jakby waliły się pobliskie góry. Pioruny i światło wokół nich mają kolor różowo-fioletowy, a ich szybki mig rozgałęzia się ku niebu niewiarygodnie pięknie. Kicia R. obserwuje całość tych przyrodniczych akcji z niepokojem i jednocześnie fascynacją. Po przygodzie, gdy piorun uderzył w barierkę zaledwie kilka metrów od niej, serce bije jej zdecydowanie szybciej w czasie burzy. 
 
