@@ -57,30 +57,30 @@ Problemy i potyczki dnia doganiają ją zawsze, gdziekolwiek na świecie nie jes
 
 \*Praga Północ Love
 
-{{< fancybox "cloudinary" "00_yuxpq4.jpg" "  Daily view over the mountains and rice fields." "gallery" >}}
+{{< fancybox "cloudinary" "00_yuxpq4.jpg" " Codzienny widok z malutkiej chatki. " "gallery" >}}
 
-{{< fancybox "cloudinary" "01_jv7fap.jpg" "  The sky in Pai. " "gallery" >}}
+{{< fancybox "cloudinary" "01_jv7fap.jpg" "  Niebo w Pai." "gallery" >}}
 
-{{< fancybox "cloudinary" "1_byzbge.jpg" "  Where the rainbow begins.." "gallery" >}}
+{{< fancybox "cloudinary" "1_byzbge.jpg" " Tam, gdzie zaczyna się tęcza." "gallery" >}}
 
-{{< fancybox "cloudinary" "2_r58glt.jpg" "  Sir Last makes drawings." "gallery" >}}
+{{< fancybox "cloudinary" "2_r58glt.jpg" "  Sir Last rysuje." "gallery" >}}
 
-{{< fancybox "cloudinary" "3_lv7qyb.jpg" "  Outdoor bathroom, what a pleasure to look in the mirror!" "gallery" >}}
+{{< fancybox "cloudinary" "3_lv7qyb.jpg" "  Łazienka na dworzu, co za przyjemność patrzenie w lustro!" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_vqrein.jpg" "  Mosquitoes net and the sun. " "gallery" >}}
+{{< fancybox "cloudinary" "4_vqrein.jpg" "  Moskitiera i słońce. " "gallery" >}}
 
 {{< fancybox "cloudinary" "4a_qehexk.jpg" "  Welcome" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_uvygre.jpg" "  Halo, an optical phenomenon. " "gallery" >}}
+{{< fancybox "cloudinary" "5_uvygre.jpg" "  Halo, optyczne zjawisko." "gallery" >}}
 
 {{< fancybox "cloudinary" "5a_aeqy6x.jpg" "  Pai" "gallery" >}}
 
-{{< fancybox "cloudinary" "34074392_10214422251647533_7564788879845228544_n_lzyrro.jpg" "  On the way to Pai town." "gallery" >}}
+{{< fancybox "cloudinary" "34074392_10214422251647533_7564788879845228544_n_lzyrro.jpg" " W drodze do miasteczka." "gallery" >}}
 
-{{< fancybox "cloudinary" "7_jfj4xt.jpg" "  Rain in town. " "gallery" >}}
+{{< fancybox "cloudinary" "7_jfj4xt.jpg" " Deszcz." "gallery" >}}
 
-{{< fancybox "cloudinary" "9_eousxe.jpg" "  Daily view, much better than netflix ;) " "gallery" >}}
+{{< fancybox "cloudinary" "9_eousxe.jpg" "  Codzienny widok, lepszy niż netflix ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "9a_vj5mxw.jpg" "  No matter how you look, no matter how you feel, you can always have some fun in the rice fields ;) " "gallery" >}}
+{{< fancybox "cloudinary" "9a_vj5mxw.jpg" "  Nieważne jak wyglądasz, nieważne jak się czujesz, zawsze możesz się pobawić w selfie na polach ryżowych. (o zdrowym dystansie do siebie samej)" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_as6psc.jpg" "  The beauty of monsoon time. " "gallery" >}}
+{{< fancybox "cloudinary" "10_as6psc.jpg" "  Piękno monsunowego czasu." "gallery" >}}
