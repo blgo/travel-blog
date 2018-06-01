@@ -81,6 +81,6 @@ The problems and battles of the day catch up with her whenever she is in the wor
 
 {{< fancybox "cloudinary" "9_eousxe.jpg" "  Daily view, much better than netflix ;) " "gallery" >}}
 
-{{< fancybox "cloudinary" "9a_vj5mxw.jpg" "  No matter how you look, no matter how you feel, you can always have some fun in the rice fields ;) " "gallery" >}}
+{{< fancybox "cloudinary" "9a_vj5mxw.jpg" "  No matter how you look, no matter how you feel, you can always have some fun in the rice fields ;) (selfie)" "gallery" >}}
 
 {{< fancybox "cloudinary" "10_as6psc.jpg" "  The beauty of monsoon time. " "gallery" >}}
