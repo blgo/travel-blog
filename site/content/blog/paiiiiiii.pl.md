@@ -1,5 +1,5 @@
 ---
-title: PAIIIIIII
+title: PAI
 description: 'O monsunowych dniach wśród ryżowych pól. '
 destinations: TAJLANDIA
 featured: 0title_ds1hnl.jpg
