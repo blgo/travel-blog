@@ -80,3 +80,9 @@ The problems and battles of the day catch up with her whenever she is in the wor
 {{< fancybox "cloudinary" "undefined" " On the way to Pai town." "gallery" >}}
 
 {{< fancybox "cloudinary" "7_jfj4xt.jpg" " Rain in town. " "gallery" >}}
+
+{{< fancybox "cloudinary" "9_eousxe.jpg" " Daily view better than netflix ;) " "gallery" >}}
+
+{{< fancybox "cloudinary" "9a_vj5mxw.jpg" " Pure fun in the rice fields :D" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_as6psc.jpg" " The beauty of monsoon time. " "gallery" >}}
