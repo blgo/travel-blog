@@ -77,11 +77,11 @@ The problems and battles of the day catch up with her whenever she is in the wor
 
 {{< fancybox "cloudinary" "5a_aeqy6x.jpg" " Pai" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " On the way to Pai town." "gallery" >}}
+{{< fancybox "cloudinary" "34074392_10214422251647533_7564788879845228544_n_lzyrro.jpg" " On the way to Pai town." "gallery" >}}
 
 {{< fancybox "cloudinary" "7_jfj4xt.jpg" " Rain in town. " "gallery" >}}
 
-{{< fancybox "cloudinary" "9_eousxe.jpg" " Daily view better than netflix ;) " "gallery" >}}
+{{< fancybox "cloudinary" "9_eousxe.jpg" " Daily view, much better than netflix ;) " "gallery" >}}
 
 {{< fancybox "cloudinary" "9a_vj5mxw.jpg" " No matter how you look, no matter how you feel, you can always have some fun in the rice fields ;) " "gallery" >}}
 
