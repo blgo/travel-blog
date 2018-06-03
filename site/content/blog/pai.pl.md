@@ -56,7 +56,7 @@ Problemy i potyczki dnia doganiają ją zawsze, gdziekolwiek na świecie nie jes
 
 {{< fancybox "cloudinary" "2_r58glt.jpg" "     Sir Last rysuje." "gallery" >}}
 
-{{< fancybox "cloudinary" "3_lv7qyb.jpg" "     Łazienka na dworzu, co za przyjemność patrzenie w lustro!" "gallery" >}}
+{{< fancybox "cloudinary" "3_lv7qyb.jpg" "     Łazienka na dworzu, co za przyjemność patrzenia w lustro!" "gallery" >}}
 
 {{< fancybox "cloudinary" "4_vqrein.jpg" "     Moskitiera i słońce. " "gallery" >}}
 
