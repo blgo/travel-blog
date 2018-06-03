@@ -12,7 +12,7 @@ language: en
 ---
 The barmaid asks:
 
-\- What are you up to today Kitty?_
+\- What are you up to today Kitty?
 
 \- Well, again I will look at rice fields surrounded by the mountains and I will observe how the clouds of steam float over the rainforest. Also I plan to listen to cicadas, the croaking of frogs and birds singing.
 
@@ -22,7 +22,7 @@ The barmaid asks:
 
 \- Depending on the neighborhood, you can hear loud music, car noise and night cats meowing. You can also meet Racoons and possums and one day even a big skunk sneaked into my family house.
 
-\- Wonderful! And tell me V., I saw people walking in the rice fields in the rain during the night, shining torches and seeming to collect something. Do you have an idea what's going on? _
+\- Wonderful! And tell me V., I saw people walking in the rice fields in the rain during the night, shining torches and seeming to collect something. Do you have an idea what's going on?
 
 \-Well... it is possible that after a storm the local people collect cicadas and grasshoppers to feed a rescued owl they now take care of.
 
