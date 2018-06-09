@@ -67,7 +67,7 @@ Udanej eksplorki Wam!
 
 {{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "   Rowerem w Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_njejuk.jpg" " Po rowerze. Roczny zapas cukru w jednym kubku, a w smaku guma balonówa w płynie. Kicia R. nie poleca. " "gallery" >}}
+{{< fancybox "cloudinary" "19_njejuk.jpg" " Po rowerze tzw. soda. Roczny zapas cukru w jednym kubku, a w smaku guma balonówa w płynie. Kicia R. nie poleca. " "gallery" >}}
 
 {{< fancybox "cloudinary" "20_uyytcx.jpg" " Sukhothai. " "gallery" >}}
 
