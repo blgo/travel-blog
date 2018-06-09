@@ -83,4 +83,8 @@ Choose your own way of exploring and enjoy!
 
 {{< fancybox "cloudinary" "22_tdwiq0.jpg" " The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "22a_usgocn.jpg" " The Old Sukhothai." "gallery" >}}
+
+{{< fancybox "cloudinary" "22b_qg05hq.jpg" " The North part of The Old Sukhothai. " "gallery" >}}
+
+{{< fancybox "cloudinary" "220_btnxf0.jpg" " The Old Sukhothai. " "gallery" >}}
