@@ -53,4 +53,10 @@ Choose your own way of exploring and enjoy!
 
 {{< fancybox "cloudinary" "5_x5yn3z.jpg" " Tuk tuk - the most popular way of transport in Asia" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_u8bdgq.jpg" " At the bus station. " "gallery" >}}
+
+{{< fancybox "cloudinary" "11_x8lzcf.jpg" " Bus in Sukhothai. On the way to The Old City." "gallery" >}}
+
+{{< fancybox "cloudinary" "11a_lsvhbp.jpg" " The Old Town is a calm, great for cycling area." "gallery" >}}
+
+{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" " The beauty of Sukhothai Old Town" "gallery" >}}
