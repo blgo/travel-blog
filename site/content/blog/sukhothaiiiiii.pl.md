@@ -61,24 +61,24 @@ Udanej eksplorki Wam!
 
 {{< fancybox "cloudinary" "15_lbubqo.jpg" "  A ten konkretny ptak oddał na kiciowe ramię kałomocz (zapewne celował w obiektyw!)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jnvkya.jpg" "   The Old City Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "16_jnvkya.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" "   The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" " Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "   Cycling around Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "   Rowerem w Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_njejuk.jpg" "   Kitty R. do not recommend this yearly sugar supply in one go. " "gallery" >}}
+{{< fancybox "cloudinary" "19_njejuk.jpg" " Po rowerze. Roczny zapas cukru w jednym kubku, a w smaku guma balonówa w płynie. Kicia R. nie poleca. " "gallery" >}}
 
-{{< fancybox "cloudinary" "20_uyytcx.jpg" "   The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "20_uyytcx.jpg" " Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" "   The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" " Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "21a_kvey6r.jpg" "   The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "21a_kvey6r.jpg" " Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22_tdwiq0.jpg" "   The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22_tdwiq0.jpg" " Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22a_usgocn.jpg" "   The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22a_usgocn.jpg" " Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22b_qg05hq.jpg" "   The North part of The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "22b_qg05hq.jpg" " Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "220_btnxf0.jpg" "   The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "220_btnxf0.jpg" " Sukhothai. " "gallery" >}}
