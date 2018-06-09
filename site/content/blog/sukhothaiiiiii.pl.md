@@ -33,52 +33,52 @@ A wracając do kwestii pakowania dla tych co do Azji się wybierają. Pamiętajc
 
 Udanej eksplorki Wam! 
 
-{{< fancybox "cloudinary" "001_mnfrgh.jpg" "   Ring." "gallery" >}}
+{{< fancybox "cloudinary" "001_mnfrgh.jpg" "    Ring." "gallery" >}}
 
-{{< fancybox "cloudinary" "002_f7uam1.jpg" "   Muay Thai" "gallery" >}}
+{{< fancybox "cloudinary" "002_f7uam1.jpg" "    Muay Thai" "gallery" >}}
 
-{{< fancybox "cloudinary" "003_rx8p5n.jpg" "   Muay Thai" "gallery" >}}
+{{< fancybox "cloudinary" "003_rx8p5n.jpg" "    Muay Thai" "gallery" >}}
 
-{{< fancybox "cloudinary" "3b_nouqf2.jpg" "   Street art." "gallery" >}}
+{{< fancybox "cloudinary" "3b_nouqf2.jpg" "    Street art." "gallery" >}}
 
-{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "   Kolory miasta." "gallery" >}}
+{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "    Kolory miasta." "gallery" >}}
 
-{{< fancybox "cloudinary" "4_cv7awm.jpg" "   Kociakowa impreza." "gallery" >}}
+{{< fancybox "cloudinary" "4_cv7awm.jpg" "    Kociakowa impreza." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_x5yn3z.jpg" "   Tuk tuk - najpopularniejszy środek transportu w tej części Azji." "gallery" >}}
+{{< fancybox "cloudinary" "5_x5yn3z.jpg" "    Tuk tuk - najpopularniejszy środek transportu w tej części Azji." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_u8bdgq.jpg" "   Na dworcu autobusowym." "gallery" >}}
+{{< fancybox "cloudinary" "10_u8bdgq.jpg" "    Na dworcu autobusowym." "gallery" >}}
 
-{{< fancybox "cloudinary" "11_x8lzcf.jpg" " Forma autobusu w Sukhothai. W drodze do Starego Miasta." "gallery" >}}
+{{< fancybox "cloudinary" "11_x8lzcf.jpg" "  Forma autobusu w Sukhothai. W drodze do Starego Miasta." "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "   Stare Sukhothai to przepiękne, spokojne tereny, idealne dla rowerowania." "gallery" >}}
+{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "    Stare Sukhothai to przepiękne, spokojne tereny, idealne dla rowerowania." "gallery" >}}
 
-{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "  Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "   Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_bna6io.jpg" "   Czy wiesz, że lotosy są jadalne i używane w medycynie chińskiej?" "gallery" >}}
+{{< fancybox "cloudinary" "13_bna6io.jpg" "    Czy wiesz, że lotosy są jadalne i używane w medycynie chińskiej?" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_emsszm.jpg" "   Ten konkretny kwiat Kicia dostała od Przemiłych Pań, które zbierały kwiaty w pobliżu. Poradziły Kici udać się z nim do pobliskiej buddyjskiej świątyni. Poczęstowały również Kicię nasionem lotosu (ciekawy, nowy smak!)" "gallery" >}}
+{{< fancybox "cloudinary" "14_emsszm.jpg" "    Ten konkretny kwiat Kicia dostała od Przemiłych Pań, które zbierały kwiaty w pobliżu. Poradziły Kici udać się z nim do pobliskiej buddyjskiej świątyni. Poczęstowały również Kicię nasionem lotosu (ciekawy, nowy smak!)" "gallery" >}}
 
-{{< fancybox "cloudinary" "15_lbubqo.jpg" "  A ten konkretny ptak oddał na kiciowe ramię kałomocz (zapewne celował w obiektyw!)" "gallery" >}}
+{{< fancybox "cloudinary" "15_lbubqo.jpg" "   A ten konkretny ptak oddał na kiciowe ramię kałomocz (zapewne celował w obiektyw!)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jnvkya.jpg" "  Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "16_jnvkya.jpg" "   Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" " Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "   Rowerem w Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "    Rowerem w Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_njejuk.jpg" " Po rowerze tzw. soda. Roczny zapas cukru w jednym kubku, a w smaku guma balonówa w płynie. Kicia R. nie poleca. " "gallery" >}}
+{{< fancybox "cloudinary" "19_njejuk.jpg" "  Po rowerze tzw. soda. Roczny zapas cukru w jednym kubku, a w smaku guma balonówa w płynie. Kicia R. nie poleca. " "gallery" >}}
 
-{{< fancybox "cloudinary" "20_uyytcx.jpg" " Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "20_uyytcx.jpg" "  Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" " Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "21a_kvey6r.jpg" " Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "21a_kvey6r.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22_tdwiq0.jpg" " Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22_tdwiq0.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22a_usgocn.jpg" " Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22a_usgocn.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22b_qg05hq.jpg" " Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "22b_qg05hq.jpg" "  Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "220_btnxf0.jpg" " Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "220_btnxf0.jpg" "  Sukhothai. " "gallery" >}}
