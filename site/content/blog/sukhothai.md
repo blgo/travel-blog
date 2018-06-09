@@ -60,3 +60,5 @@ Choose your own way of exploring and enjoy!
 {{< fancybox "cloudinary" "11a_lsvhbp.jpg" " The Old Town is a calm, great for cycling area." "gallery" >}}
 
 {{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" " The beauty of Sukhothai Old Town" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_bna6io.jpg" " Did you know lotus is edible and widely use in Chinese medicine?" "gallery" >}}
