@@ -75,4 +75,4 @@ Choose your own way of exploring and enjoy!
 
 {{< fancybox "cloudinary" "19_njejuk.jpg" " Kitty R. do not recommend this yearly sugar supply in one go. " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20_uyytcx.jpg" " The Old Sukhothai. " "gallery" >}}
