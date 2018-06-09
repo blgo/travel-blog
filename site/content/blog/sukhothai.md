@@ -62,3 +62,7 @@ Choose your own way of exploring and enjoy!
 {{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" " The beauty of Sukhothai Old Town" "gallery" >}}
 
 {{< fancybox "cloudinary" "13_bna6io.jpg" " Did you know lotus is edible and widely use in Chinese medicine?" "gallery" >}}
+
+{{< fancybox "cloudinary" "14_emsszm.jpg" " This particular lotus flower was given to Kitty R. by Two Nice Ladies that were collecting flowers and seeds. They advised Kitty to take it to the nearby temple for Buddha and prayers. As well they offered Kitty a few lotus seeds to eat (nice, new taste). " "gallery" >}}
+
+{{< fancybox "cloudinary" "15_lbubqo.jpg" " And this particular bird shit on Kitty's arm (probably was aiming on her lens)" "gallery" >}}
