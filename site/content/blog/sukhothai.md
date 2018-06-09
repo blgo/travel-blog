@@ -69,4 +69,6 @@ Choose your own way of exploring and enjoy!
 
 {{< fancybox "cloudinary" "16_jnvkya.jpg" " The Old City Sukhothai." "gallery" >}}
 
+{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" " The Old Sukhothai." "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
