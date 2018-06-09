@@ -42,3 +42,15 @@ Choose your own way of exploring and enjoy!
 {{< fancybox "cloudinary" "003_rx8p5n.jpg" " Muay Thai" "gallery" >}}
 
 {{< fancybox "cloudinary" "3b_nouqf2.jpg" " Boxing street art" "gallery" >}}
+
+{{< fancybox "cloudinary" "3d_oqpn0y.jpg" " Colours of town" "gallery" >}}
+
+
+
+
+
+{{< fancybox "cloudinary" "4_cv7awm.jpg" " Kitten's party" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_x5yn3z.jpg" " Tuk tuk - the most popular way of transport in Asia" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
