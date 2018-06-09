@@ -4,6 +4,7 @@ description: >-
   Draft notes on what to pack on your trip to Asia (Kitty’s tips) and her way to
   discover new things (Muay Thai among Young People).
 destinations: THAILAND
+featured: 00title_haubed.jpg
 featuredpath: cloudinary
 date: '2018-06-09T07:36:28+01:00'
 type: post
@@ -31,3 +32,13 @@ Kitty R. recommends: google it, as there are many documentaries about children a
 And back to packing when travelling to Asia, consider taking sunscreen, a book and... a mosquito net (or at least good power tape, because mosquito nets provided in hostels very often have big holes). For everything else you may need, you will pay with Bahts, Dongs and Kips. 
 
 Choose your own way of exploring and enjoy!
+
+
+
+{{< fancybox "cloudinary" "001_mnfrgh.jpg" " The ring" "gallery" >}}
+
+{{< fancybox "cloudinary" "002_f7uam1.jpg" " Muay Thai" "gallery" >}}
+
+{{< fancybox "cloudinary" "003_rx8p5n.jpg" " Muay Thai" "gallery" >}}
+
+{{< fancybox "cloudinary" "3b_nouqf2.jpg" " Boxing street art" "gallery" >}}
