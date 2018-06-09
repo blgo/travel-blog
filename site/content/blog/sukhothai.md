@@ -33,52 +33,52 @@ And back to packing when travelling to Asia, consider taking sunscreen, a book a
 
 Choose your own way of exploring and enjoy!
 
-{{< fancybox "cloudinary" "001_mnfrgh.jpg" "      The ring" "gallery" >}}
+{{< fancybox "cloudinary" "001_mnfrgh.jpg" "       The ring" "gallery" >}}
 
-{{< fancybox "cloudinary" "002_f7uam1.jpg" "      Muay Thai" "gallery" >}}
+{{< fancybox "cloudinary" "002_f7uam1.jpg" "       Muay Thai" "gallery" >}}
 
-{{< fancybox "cloudinary" "003_rx8p5n.jpg" "      Muay Thai" "gallery" >}}
+{{< fancybox "cloudinary" "003_rx8p5n.jpg" "       Muay Thai" "gallery" >}}
 
-{{< fancybox "cloudinary" "3b_nouqf2.jpg" "      Boxing street art" "gallery" >}}
+{{< fancybox "cloudinary" "3b_nouqf2.jpg" "       Boxing street art" "gallery" >}}
 
-{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "      Colours of town" "gallery" >}}
+{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "       Colours of town" "gallery" >}}
 
-{{< fancybox "cloudinary" "4_cv7awm.jpg" "      Kitten's party" "gallery" >}}
+{{< fancybox "cloudinary" "4_cv7awm.jpg" "       Kitten's party" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_x5yn3z.jpg" "      Tuk tuk - the most popular way of transport in Asia" "gallery" >}}
+{{< fancybox "cloudinary" "5_x5yn3z.jpg" "       Tuk tuk - the most popular way of transport in Asia" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_u8bdgq.jpg" "      At the bus station. " "gallery" >}}
+{{< fancybox "cloudinary" "10_u8bdgq.jpg" "       At the bus station. " "gallery" >}}
 
-{{< fancybox "cloudinary" "11_x8lzcf.jpg" "      Bus in Sukhothai. On the way to The Old City." "gallery" >}}
+{{< fancybox "cloudinary" "11_x8lzcf.jpg" "       Bus in Sukhothai. On the way to The Old City." "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "      The Old Town is a calm, great for cycling area." "gallery" >}}
+{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "       The Old Town is a calm, great for cycling area." "gallery" >}}
 
-{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "      The beauty of Sukhothai Old Town" "gallery" >}}
+{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "       The beauty of Sukhothai Old Town" "gallery" >}}
 
-{{< fancybox "cloudinary" "13_bna6io.jpg" "      Did you know lotus is edible and widely use in Chinese medicine?" "gallery" >}}
+{{< fancybox "cloudinary" "13_bna6io.jpg" "       Did you know lotus is edible and widely use in Chinese medicine?" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_emsszm.jpg" "      This particular lotus flower was given to Kitty R. by Two Nice Ladies that were collecting flowers and seeds. They advised Kitty to take it to the nearby temple for Buddha and prayers. As well they offered Kitty a few lotus seeds to eat (nice, new taste). " "gallery" >}}
+{{< fancybox "cloudinary" "14_emsszm.jpg" "       This particular lotus flower was given to Kitty R. by Two Nice Ladies that were collecting flowers and seeds. They advised Kitty to take it to the nearby temple for Buddha and prayers. As well they offered Kitty a few lotus seeds to eat (nice, new taste). " "gallery" >}}
 
-{{< fancybox "cloudinary" "15_lbubqo.jpg" "      And this particular bird poo on Kitty's arm (probably was aiming on her lens)" "gallery" >}}
+{{< fancybox "cloudinary" "15_lbubqo.jpg" "       And this particular bird poo on Kitty's arm (probably was aiming on her lens)" "gallery" >}}
 
-{{< fancybox "cloudinary" "16_jnvkya.jpg" "      The Old City Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "16_jnvkya.jpg" "       The Old City Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" "      The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34831496_10214482080983229_9111384823355670528_n_ceyqop.jpg" "       The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "      Cycling around Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "34893324_10214482086463366_4732322677585346560_n_jnrwb3.jpg" "       Cycling around Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "19_njejuk.jpg" "      Kitty R. do not recommend this yearly sugar supply in one go. " "gallery" >}}
+{{< fancybox "cloudinary" "19_njejuk.jpg" "       Kitty R. do not recommend this yearly sugar supply in one go. " "gallery" >}}
 
-{{< fancybox "cloudinary" "20_uyytcx.jpg" "      The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "20_uyytcx.jpg" "       The Old Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" "      The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "34875711_10214482110983979_780918362577305600_n_ua8rie.jpg" "       The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "21a_kvey6r.jpg" "      The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "21a_kvey6r.jpg" "       The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22_tdwiq0.jpg" "      The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22_tdwiq0.jpg" "       The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22a_usgocn.jpg" "      The Old Sukhothai." "gallery" >}}
+{{< fancybox "cloudinary" "22a_usgocn.jpg" "       The Old Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "22b_qg05hq.jpg" "      The North part of The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "22b_qg05hq.jpg" "       The North part of The Old Sukhothai. " "gallery" >}}
 
-{{< fancybox "cloudinary" "220_btnxf0.jpg" "      The Old Sukhothai. " "gallery" >}}
+{{< fancybox "cloudinary" "220_btnxf0.jpg" "       The Old Sukhothai. " "gallery" >}}
