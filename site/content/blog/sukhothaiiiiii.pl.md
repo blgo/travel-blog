@@ -33,33 +33,33 @@ A wracając do kwestii pakowania dla tych co do Azji się wybierają. Pamiętajc
 
 Udanej eksplorki Wam! 
 
-{{< fancybox "cloudinary" "001_mnfrgh.jpg" "   The ring" "gallery" >}}
+{{< fancybox "cloudinary" "001_mnfrgh.jpg" "   Ring." "gallery" >}}
 
 {{< fancybox "cloudinary" "002_f7uam1.jpg" "   Muay Thai" "gallery" >}}
 
 {{< fancybox "cloudinary" "003_rx8p5n.jpg" "   Muay Thai" "gallery" >}}
 
-{{< fancybox "cloudinary" "3b_nouqf2.jpg" "   Boxing street art" "gallery" >}}
+{{< fancybox "cloudinary" "3b_nouqf2.jpg" "   Street art." "gallery" >}}
 
-{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "   Colours of town" "gallery" >}}
+{{< fancybox "cloudinary" "3d_oqpn0y.jpg" "   Kolory miasta." "gallery" >}}
 
-{{< fancybox "cloudinary" "4_cv7awm.jpg" "   Kitten's party" "gallery" >}}
+{{< fancybox "cloudinary" "4_cv7awm.jpg" "   Kociakowa impreza." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_x5yn3z.jpg" "   Tuk tuk - the most popular way of transport in Asia" "gallery" >}}
+{{< fancybox "cloudinary" "5_x5yn3z.jpg" "   Tuk tuk - najpopularniejszy środek transportu w tej części Azji." "gallery" >}}
 
-{{< fancybox "cloudinary" "10_u8bdgq.jpg" "   At the bus station. " "gallery" >}}
+{{< fancybox "cloudinary" "10_u8bdgq.jpg" "   Na dworcu autobusowym." "gallery" >}}
 
-{{< fancybox "cloudinary" "11_x8lzcf.jpg" "   Bus in Sukhothai. On the way to The Old City." "gallery" >}}
+{{< fancybox "cloudinary" "11_x8lzcf.jpg" " Forma autobusu w Sukhothai. W drodze do Starego Miasta." "gallery" >}}
 
-{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "   The Old Town is a calm, great for cycling area." "gallery" >}}
+{{< fancybox "cloudinary" "11a_lsvhbp.jpg" "   Stare Sukhothai to przepiękne, spokojne tereny, idealne dla rowerowania." "gallery" >}}
 
-{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "   The beauty of Sukhothai Old Town" "gallery" >}}
+{{< fancybox "cloudinary" "34860308_10214482010341463_2641693839554772992_n_k32irh.jpg" "  Sukhothai." "gallery" >}}
 
-{{< fancybox "cloudinary" "13_bna6io.jpg" "   Did you know lotus is edible and widely use in Chinese medicine?" "gallery" >}}
+{{< fancybox "cloudinary" "13_bna6io.jpg" "   Czy wiesz, że lotosy są jadalne i używane w medycynie chińskiej?" "gallery" >}}
 
-{{< fancybox "cloudinary" "14_emsszm.jpg" "   This particular lotus flower was given to Kitty R. by Two Nice Ladies that were collecting flowers and seeds. They advised Kitty to take it to the nearby temple for Buddha and prayers. As well they offered Kitty a few lotus seeds to eat (nice, new taste). " "gallery" >}}
+{{< fancybox "cloudinary" "14_emsszm.jpg" "   Ten konkretny kwiat Kicia dostała od Przemiłych Pań, które zbierały kwiaty w pobliżu. Poradziły Kici udać się z nim do pobliskiej buddyjskiej świątyni. Poczęstowały również Kicię nasionem lotosu (ciekawy, nowy smak!)" "gallery" >}}
 
-{{< fancybox "cloudinary" "15_lbubqo.jpg" "   And this particular bird poo on Kitty's arm (probably was aiming on her lens)" "gallery" >}}
+{{< fancybox "cloudinary" "15_lbubqo.jpg" "  A ten konkretny ptak oddał na kiciowe ramię kałomocz (zapewne celował w obiektyw!)" "gallery" >}}
 
 {{< fancybox "cloudinary" "16_jnvkya.jpg" "   The Old City Sukhothai." "gallery" >}}
 
