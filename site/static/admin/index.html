@@ -13,6 +13,9 @@
 <body>
   <script src="https://unpkg.com/netlify-cms@^1.3.1/dist/cms.js"></script>
   <script>
+
+  // Clousinary support for embedded images editor widget
+
     CMS.registerEditorComponent({
       id: "facybox",
       label: "Cloudinary Fancybox",
@@ -32,7 +35,10 @@
 		'<img src="https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/' + obj.public_id + '" alt="The link to the image is broken, check the filename"/> <div> ' + obj.caption  + ' </div>'
         );
       }
-    }); 
+    });
+
+    // Youtube editor widget
+
     CMS.registerEditorComponent({
       id: "youtube",
       label: "Youtube",
@@ -52,6 +58,44 @@
         );
       }
     });
+
+    // Custom Widget collection to capitalise first letter of the word
+
+    // Takes each word and makes the first letter upper case, the rest are made lower case
+    function toTitleCase(str) {
+        return str.replace(/\w\S*/g, function(txt){
+            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+        });
+    }
+
+    var CapitaliseFirstOnly = createClass({
+      handleChange: function(e) {
+        this.props.onChange(toTitleCase(e.target.value));
+      },
+
+      render: function() {
+        var value = this.props.value;
+        var id = this.props.forID;
+        var classgroup = this.props.classNameWrapper;
+        return h('input', {
+          type: 'text',
+          value : value,
+          class: classgroup,
+          id: id,
+          onChange: this.handleChange,
+          name: name
+        });
+      }
+    });
+
+    var CapitalisePreview = createClass({
+      render: function() {
+          return h('h1',{className: "nc-widgetPreview"}, this.props.value);
+      }
+    });
+
+    CMS.registerWidget('capitalisefirst', CapitaliseFirstOnly, CapitalisePreview);
+
   </script>
 </body>
 </html>

@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master
+  # name: github
+  # repo: blgo/test
+  # branch: master
 
 publish_mode: editorial_workflow
 media_folder: "site/static/img/"
@@ -15,9 +18,9 @@ collections: # A list of collections the CMS should be able to edit
       value: en
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
-      - {label: "Country of destination", name: "destinations", widget: "string" , required: true}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
@@ -37,9 +40,9 @@ collections: # A list of collections the CMS should be able to edit
     extension: "pl.md"
     format: "frontmatter"
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Description", name: "description", widget: "string", tagname: "h1", required: false}
-      - {label: "Country of destination", name: "destinations", widget: "string" , required: true}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
@@ -48,11 +51,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
       - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
-      - {label: "Language", name: "language", widget: "hidden", default: "pl"}
+      - {label: "Language", name: "language", widget: "hidden", default: "en"}
   - label: "About Pages"
     name: "pages"
     files:
-    - name: "enabout" 
+    - name: "enabout"
       label: "English About page"
       file: "site/content/about/_index.md"
       description: "About page in English"
@@ -60,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Title", name: "title", widget: "string", tagname: "h1"}
         - {label: "Body", name: "body", widget: "markdown", required: false}
         - {label: "Publish Date", name: "date", widget: "datetime"}
-    - name: "plabout" 
+    - name: "plabout"
       label: "Polish About page"
       file: "site/content/about/_index.pl.md"
       description: "About page in Polish"
