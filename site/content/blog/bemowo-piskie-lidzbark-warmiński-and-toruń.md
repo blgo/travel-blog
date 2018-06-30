@@ -65,3 +65,13 @@ Dear Readers, Kitty R. recommends: if you are in Poland, be sure to check out Wa
 {{< fancybox "cloudinary" "10_z9mg9t.jpg" " Toruń" "gallery" >}}
 
 {{< fancybox "cloudinary" "9b_yknxhv.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_twj2er.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "10a_cve7ba.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "11_s265mi.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_oaifxp.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "13_wotq1w.jpg" " Toruń" "gallery" >}}
