@@ -58,4 +58,10 @@ Dear Readers, Kitty R. recommends: if you are in Poland, be sure to check out Wa
 
 {{< fancybox "cloudinary" "9_geduk5.jpg" " Toruń love" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "9a_by7t2o.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "9b_ov0m1s.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "10_z9mg9t.jpg" " Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "9b_yknxhv.jpg" " Toruń" "gallery" >}}
