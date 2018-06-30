@@ -43,3 +43,13 @@ Dear Readers, Kitty R. recommends: if you are in Poland, be sure to check out Wa
 {{< fancybox "cloudinary" "1a_il5fjq.jpg" " Bemowo Piskie" "gallery" >}}
 
 {{< fancybox "cloudinary" "2_cie8gj.jpg" " Polish girl in Bemowo Piskie " "gallery" >}}
+
+{{< fancybox "cloudinary" "3_vm8hbv.jpg" " Bemowo Piskie Girl ;)" "gallery" >}}
+
+{{< fancybox "cloudinary" "4_arytfn.jpg" " Ełk" "gallery" >}}
+
+{{< fancybox "cloudinary" "5_kgrk6e.jpg" " Lovely S. :)" "gallery" >}}
+
+{{< fancybox "cloudinary" "6_yfavxj.jpg" " Lidzbark Warmiński" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
