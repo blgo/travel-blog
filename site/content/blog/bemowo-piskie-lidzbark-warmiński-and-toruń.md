@@ -52,4 +52,10 @@ Dear Readers, Kitty R. recommends: if you are in Poland, be sure to check out Wa
 
 {{< fancybox "cloudinary" "6_yfavxj.jpg" " Lidzbark Warmiński" "gallery" >}}
 
+{{< fancybox "cloudinary" "7_ehvejy.jpg" " Lidzbark Warmiński" "gallery" >}}
+
+{{< fancybox "cloudinary" "8_ufeyum.jpg" " Panopticon in Toruń" "gallery" >}}
+
+{{< fancybox "cloudinary" "9_geduk5.jpg" " Toruń love" "gallery" >}}
+
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
