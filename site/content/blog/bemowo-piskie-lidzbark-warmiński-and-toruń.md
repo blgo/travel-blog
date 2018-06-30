@@ -37,3 +37,9 @@ As a cherry on the icing of their tour de Pologne, Kitty R. and Sir Last go to T
 
 
 Dear Readers, Kitty R. recommends: if you are in Poland, be sure to check out Warmia, Masuria and Toruń. Maybe you will not end up with visiting museums and monuments, but it is there where you will meet lakes, elks, fresh fish and delicious gingerbreads. That is the unique and true atmosphere of Poland!
+
+{{< fancybox "cloudinary" "1_wgp0i1.jpg" " Bemowo Piskie" "gallery" >}}
+
+{{< fancybox "cloudinary" "1a_il5fjq.jpg" " Bemowo Piskie" "gallery" >}}
+
+{{< fancybox "cloudinary" "2_cie8gj.jpg" " Polish girl in Bemowo Piskie " "gallery" >}}
