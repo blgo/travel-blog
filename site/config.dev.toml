@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Kitty R. around the world"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 10
 disqusShortname = ""
 googleAnalytics = ""
 pluralizeListTitles = false
@@ -194,7 +194,7 @@ DefaultContentLanguage = "en"
     # WeChat and QQ need testing.
     wechat          = ""
     qq              = "" # User ID Number
-  instagram       = "kicia_r_superstar"
+  instagram       = "kicia_r_travels"
   tumblr          = ""
   twitter         = ""
   skype           = ""
