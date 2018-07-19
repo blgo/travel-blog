@@ -5,6 +5,7 @@ description: >-
   w podróży. Jest tu przecież tylko na kilku tygodniową chwilę i wciąż spakowana
   w ten sam od 8 miesięcy plecak. 
 destinations: Polska
+featured: 00title_xnhznt.jpg
 featuredpath: cloudinary
 date: '2018-07-19T20:35:46+01:00'
 type: post
