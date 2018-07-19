@@ -63,4 +63,4 @@ And if you're hungry, there is a simple choice: dumplings or ramen. Because as w
 Kitty R. thinks that when travel ticking off monuments and known places, f or Kitty R., the most important thing is to just stay in town, take a long walk and make things that you just like to do in life, in general. And then the memories will build themselves. And that’s how the memories will be based on what you like to do, so they will simply be the best!
 Kitty R. loves soap bubbles for this example. These can be played always and everywhere. And they are the best when done with great people!
 
-* Kitty R. worked for several years as a street pedagogue, initially at the Mobile School project, later working with her own groups of pupils.
+\*Kitty R. worked for several years as a street pedagogue, initially at the Mobile School project, later working with her own groups of pupils.
