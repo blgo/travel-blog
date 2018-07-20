@@ -71,46 +71,46 @@ Kicia R. na ten przykład uwielbia bańki mydlane. Wiedzieliście? A te można p
 
 \* Kicia R. przez kilka lat pracowała jako pedagożka ulicy, początkowo przy projekcie Szkoły Ruchomej, później pracując z własnymi grupkami podopiecznych dla Gpas.
 
-{{< fancybox "cloudinary" "01_z783bi.jpg" "   Bubbles with B. and M. " "gallery" >}}
+{{< fancybox "cloudinary" "01_z783bi.jpg" "      Bubbles with B. and M. " "gallery" >}}
 
-{{< fancybox "cloudinary" "1_gfj05b.jpg" "   Ławkowanie z Sir Lastem, A. i Ł. Najlepiej przed obiadkiem." "gallery" >}}
+{{< fancybox "cloudinary" "1_gfj05b.jpg" "      Ławkowanie z Sir Lastem, A. i Ł. Najlepiej przed obiadkiem." "gallery" >}}
 
-{{< fancybox "cloudinary" "2_chvmf0.jpg" "   Dziadek T.!!! I Ł.!! I Nieznajoma Pani.  " "gallery" >}}
+{{< fancybox "cloudinary" "2_chvmf0.jpg" "      Dziadek T.!!! I Ł.!! I Nieznajoma Pani.  " "gallery" >}}
 
-{{< fancybox "cloudinary" "3_bgnd3c.jpg" "   Nowy Świat " "gallery" >}}
+{{< fancybox "cloudinary" "3_bgnd3c.jpg" "      Nowy Świat " "gallery" >}}
 
-{{< fancybox "cloudinary" "4_g9foal.jpg" "   Starówka jest zawsze dobra na spacer. Szczegółnie jak się zejdzie z głównych szlaków. " "gallery" >}}
+{{< fancybox "cloudinary" "4_g9foal.jpg" "      Starówka jest zawsze dobra na spacer. Szczegółnie jak się zejdzie z głównych szlaków. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4a_qrulkl.jpg" "  Kapela grająca na żywo pewne praskie piosenki. Można było pośpiewać razem! "Rzuć bracie blagie i chodź na Pragie!"" "gallery" >}}
+{{< fancybox "cloudinary" "4a_qrulkl.jpg" "     Kapela grająca na żywo pewne praskie piosenki. Można było pośpiewać razem! "Rzuć bracie blagie i chodź na Pragie!"" "gallery" >}}
 
-{{< fancybox "cloudinary" "4aa_rcymzt.jpg" "   Praga" "gallery" >}}
+{{< fancybox "cloudinary" "4aa_rcymzt.jpg" "      Praga" "gallery" >}}
 
-{{< fancybox "cloudinary" "4b_tspajh.jpg" "   W oczekiwaniu na autobus, albo przechodząc obok, można sobie popatrzeć na niedźwiedzie. Pozostawiam ocenę sytuacji Wam." "gallery" >}}
+{{< fancybox "cloudinary" "4b_tspajh.jpg" "      W oczekiwaniu na autobus, albo przechodząc obok, można sobie popatrzeć na niedźwiedzie. Pozostawiam ocenę sytuacji Wam." "gallery" >}}
 
-{{< fancybox "cloudinary" "5_pmydix.jpg" "   To nie jest po prostu cerkiew; to strategiczny, bo charakterystyczny punkt spotkań niedaleko mieszkania Kici. " "gallery" >}}
+{{< fancybox "cloudinary" "5_pmydix.jpg" "      To nie jest po prostu cerkiew; to strategiczny, bo charakterystyczny punkt spotkań niedaleko mieszkania Kici. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5a_pkuzto.jpg" "   Siedząc nad Wisłą." "gallery" >}}
+{{< fancybox "cloudinary" "5a_pkuzto.jpg" "      Siedząc nad Wisłą." "gallery" >}}
 
-{{< fancybox "cloudinary" "6_a0rspd.jpg" " Pewnie najpopularniejsza plaża w Warszawie; dla relaksu, dla piwka, dla ogniska." "gallery" >}}
+{{< fancybox "cloudinary" "6_a0rspd.jpg" "    Pewnie najpopularniejsza plaża w Warszawie; dla relaksu, dla piwka, dla ogniska." "gallery" >}}
 
-{{< fancybox "cloudinary" "8_vza242.jpg" " Z L. z Argnetyny, którą Kicia poznała w Laosie, a teraz widzą się w Polsce. Tak przełamują się wymiary :)" "gallery" >}}
+{{< fancybox "cloudinary" "8_vza242.jpg" "    Z L. z Argnetyny, którą Kicia poznała w Laosie, a teraz widzą się w Polsce. Tak przełamują się wymiary :)" "gallery" >}}
 
-{{< fancybox "cloudinary" "8a_yh2nfd.jpg" "   Oto ono. Sekretne miejsce Kici, gdzie się relaksuje najlepiej wśród pól i lasów." "gallery" >}}
+{{< fancybox "cloudinary" "8a_yh2nfd.jpg" "      Oto ono. Sekretne miejsce Kici, gdzie się relaksuje najlepiej wśród pól i lasów." "gallery" >}}
 
-{{< fancybox "cloudinary" "8b_w6pds5.jpg" "   B. i M. byli tam z Kicią." "gallery" >}}
+{{< fancybox "cloudinary" "8b_w6pds5.jpg" "      B. i M. byli tam z Kicią." "gallery" >}}
 
-{{< fancybox "cloudinary" "9_dpodur.jpg" "   Czy jest coś lepszego od gry w backgammona w deszczowe dni i wieczory?" "gallery" >}}
+{{< fancybox "cloudinary" "9_dpodur.jpg" "      Czy jest coś lepszego od gry w backgammona w deszczowe dni i wieczory?" "gallery" >}}
 
-{{< fancybox "cloudinary" "10_ye4pkr.jpg" "   Albo jengę?" "gallery" >}}
+{{< fancybox "cloudinary" "10_ye4pkr.jpg" "      Albo jengę?" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_ahyx6j.jpg" "  Tak fajnie, że aż bańki zabrały ostrość :)" "gallery" >}}
+{{< fancybox "cloudinary" "11_ahyx6j.jpg" "     Tak fajnie, że aż bańki zabrały ostrość :)" "gallery" >}}
 
-{{< fancybox "cloudinary" "12_qn7mya.jpg" "   Z M. " "gallery" >}}
+{{< fancybox "cloudinary" "12_qn7mya.jpg" "      Z M. " "gallery" >}}
 
-{{< fancybox "cloudinary" "13_rymmz2.jpg" " Magia auto-wyzwalacza. Z W. " "gallery" >}}
+{{< fancybox "cloudinary" "13_rymmz2.jpg" "    Magia auto-wyzwalacza. Z W. " "gallery" >}}
 
-{{< fancybox "cloudinary" "14_upbbxe.jpg" "   Łazienki Królewskie. " "gallery" >}}
+{{< fancybox "cloudinary" "14_upbbxe.jpg" "      Łazienki Królewskie. " "gallery" >}}
 
-{{< fancybox "cloudinary" "16_flad6k.jpg" " Z B." "gallery" >}}
+{{< fancybox "cloudinary" "16_flad6k.jpg" "    Z B." "gallery" >}}
 
-{{< fancybox "cloudinary" "17_t4fzfv.jpg" " Kicia R. z dwoma pięknymi Kwiatuszkami, czyli M. i H. (ah, i pozdrowienia dla G.) " "gallery" >}}
+{{< fancybox "cloudinary" "17_t4fzfv.jpg" "    Kicia R. z dwoma pięknymi Kwiatuszkami, czyli M. i H. (ah, i pozdrowienia dla G.) " "gallery" >}}
