@@ -79,3 +79,5 @@ Kitty R. loves soap bubbles for this example. These can be played always and eve
 {{< fancybox "cloudinary" "3_bgnd3c.jpg" " New World St. " "gallery" >}}
 
 {{< fancybox "cloudinary" "4_g9foal.jpg" " The Old Town is always good to walk around. Kitty R. recommends to get out from it's main alleys. " "gallery" >}}
+
+{{< fancybox "cloudinary" "4a_qrulkl.jpg" " A Band playing old songs from Praga District." "gallery" >}}
