@@ -81,3 +81,11 @@ Kitty R. loves soap bubbles for this example. These can be played always and eve
 {{< fancybox "cloudinary" "4_g9foal.jpg" " The Old Town is always good to walk around. Kitty R. recommends to get out from it's main alleys. " "gallery" >}}
 
 {{< fancybox "cloudinary" "4a_qrulkl.jpg" " A Band playing old songs from Praga District." "gallery" >}}
+
+{{< fancybox "cloudinary" "4aa_rcymzt.jpg" " Praga" "gallery" >}}
+
+{{< fancybox "cloudinary" "4b_tspajh.jpg" " People waiting for a bus or just walking around, can always look at nearby bears (apparently those are retired from circus). I let you judge their situation." "gallery" >}}
+
+{{< fancybox "cloudinary" "5_pmydix.jpg" " That's not just an orthodox church; it's a strategic meeting point near Kitty's flat. " "gallery" >}}
+
+{{< fancybox "cloudinary" "5a_pkuzto.jpg" " Sitting next to Vistula river with a view over town centre. " "gallery" >}}
