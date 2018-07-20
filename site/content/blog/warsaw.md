@@ -65,3 +65,7 @@ Kitty R. thinks that when travel ticking off monuments and known places, f or Ki
 Kitty R. loves soap bubbles for this example. These can be played always and everywhere. And they are the best when done with great people!
 
 \*Kitty R. worked for several years as a street pedagogue, initially at the Mobile School project, later working with her own groups of pupils.
+
+
+
+{{< fancybox "cloudinary" "01_z783bi.jpg" " Bubbles with B. and M. " "gallery" >}}
