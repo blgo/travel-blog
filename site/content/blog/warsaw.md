@@ -89,3 +89,15 @@ Kitty R. loves soap bubbles for this example. These can be played always and eve
 {{< fancybox "cloudinary" "5_pmydix.jpg" " That's not just an orthodox church; it's a strategic meeting point near Kitty's flat. " "gallery" >}}
 
 {{< fancybox "cloudinary" "5a_pkuzto.jpg" " Sitting next to Vistula river with a view over town centre. " "gallery" >}}
+
+{{< fancybox "cloudinary" "6_a0rspd.jpg" " The most popular spot in Warsaw to chill ut with a pint and a bonfire. " "gallery" >}}
+
+{{< fancybox "cloudinary" "8_vza242.jpg" " With L. from Argentina, that Kitty met in Laos, was here in Poland. That is dimensions crossing :)" "gallery" >}}
+
+{{< fancybox "cloudinary" "8a_yh2nfd.jpg" " Here it comes. Kitty's secret spot in the village, that's where she chills the best, surrounded by fields and forest. " "gallery" >}}
+
+{{< fancybox "cloudinary" "8b_w6pds5.jpg" " B. and M. in the fields." "gallery" >}}
+
+{{< fancybox "cloudinary" "9_dpodur.jpg" " Is there anything better than playing backgammon during rainy days and nights?" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
