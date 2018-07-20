@@ -100,4 +100,16 @@ Kitty R. loves soap bubbles for this example. These can be played always and eve
 
 {{< fancybox "cloudinary" "9_dpodur.jpg" " Is there anything better than playing backgammon during rainy days and nights?" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "10_ye4pkr.jpg" " Or alter jenga? " "gallery" >}}
+
+{{< fancybox "cloudinary" "11_ahyx6j.jpg" " Out of focus, too much fun!" "gallery" >}}
+
+{{< fancybox "cloudinary" "12_qn7mya.jpg" " With M. " "gallery" >}}
+
+{{< fancybox "cloudinary" "13_rymmz2.jpg" " Magic of self-timer. With W. " "gallery" >}}
+
+{{< fancybox "cloudinary" "14_upbbxe.jpg" " King's Park in Warsaw is a very calm and clean place to have a walk. Peacock and pigeon are real ;)" "gallery" >}}
+
+{{< fancybox "cloudinary" "16_flad6k.jpg" " With B." "gallery" >}}
+
+{{< fancybox "cloudinary" "17_t4fzfv.jpg" " Kitty with two beautiful flowers: M. and H. (with greetings to G.)" "gallery" >}}
