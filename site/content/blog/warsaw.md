@@ -66,50 +66,46 @@ Kitty R. loves soap bubbles for this example. These can be played always and eve
 
 \*Kitty R. worked for several years as a street pedagogue, initially at the Mobile School project, later working with her own groups of pupils.
 
+{{< fancybox "cloudinary" "01_z783bi.jpg" "  Bubbles with B. and M. " "gallery" >}}
 
+{{< fancybox "cloudinary" "1_gfj05b.jpg" "  Benching with SIr Last, A. and Ł. " "gallery" >}}
 
-{{< fancybox "cloudinary" "01_z783bi.jpg" " Bubbles with B. and M. " "gallery" >}}
+{{< fancybox "cloudinary" "2_chvmf0.jpg" "  Grandpa T.! And Ł.! plus unkown Lady. " "gallery" >}}
 
-{{< fancybox "cloudinary" "1_gfj05b.jpg" " Benching with SIr Last, A. and Ł. " "gallery" >}}
+{{< fancybox "cloudinary" "3_bgnd3c.jpg" "  New World St. " "gallery" >}}
 
+{{< fancybox "cloudinary" "4_g9foal.jpg" "  The Old Town is always good to walk around. Kitty R. recommends to get out from it's main alleys. " "gallery" >}}
 
+{{< fancybox "cloudinary" "4a_qrulkl.jpg" "  A Band playing old songs from Praga District." "gallery" >}}
 
-{{< fancybox "cloudinary" "2_chvmf0.jpg" " Grandpa T.! And Ł.! plus unkown Lady. " "gallery" >}}
+{{< fancybox "cloudinary" "4aa_rcymzt.jpg" "  Praga" "gallery" >}}
 
-{{< fancybox "cloudinary" "3_bgnd3c.jpg" " New World St. " "gallery" >}}
+{{< fancybox "cloudinary" "4b_tspajh.jpg" "  People waiting for a bus or just walking around, can always look at nearby bears (apparently those are retired from circus). I let you judge their situation." "gallery" >}}
 
-{{< fancybox "cloudinary" "4_g9foal.jpg" " The Old Town is always good to walk around. Kitty R. recommends to get out from it's main alleys. " "gallery" >}}
+{{< fancybox "cloudinary" "5_pmydix.jpg" "  That's not just an orthodox church; it's a strategic meeting point near Kitty's flat. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4a_qrulkl.jpg" " A Band playing old songs from Praga District." "gallery" >}}
+{{< fancybox "cloudinary" "5a_pkuzto.jpg" "  Sitting next to Vistula river with a view over town centre. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4aa_rcymzt.jpg" " Praga" "gallery" >}}
+{{< fancybox "cloudinary" "6_a0rspd.jpg" "  The most popular spot in Warsaw to chill ut with a pint and a bonfire. " "gallery" >}}
 
-{{< fancybox "cloudinary" "4b_tspajh.jpg" " People waiting for a bus or just walking around, can always look at nearby bears (apparently those are retired from circus). I let you judge their situation." "gallery" >}}
+{{< fancybox "cloudinary" "8_vza242.jpg" "  With L. from Argentina, that Kitty met in Laos, was here in Poland. That is dimensions crossing :)" "gallery" >}}
 
-{{< fancybox "cloudinary" "5_pmydix.jpg" " That's not just an orthodox church; it's a strategic meeting point near Kitty's flat. " "gallery" >}}
+{{< fancybox "cloudinary" "8a_yh2nfd.jpg" "  Here it comes. Kitty's secret spot in the village, that's where she chills the best, surrounded by fields and forest. " "gallery" >}}
 
-{{< fancybox "cloudinary" "5a_pkuzto.jpg" " Sitting next to Vistula river with a view over town centre. " "gallery" >}}
+{{< fancybox "cloudinary" "8b_w6pds5.jpg" "  B. and M. in the fields." "gallery" >}}
 
-{{< fancybox "cloudinary" "6_a0rspd.jpg" " The most popular spot in Warsaw to chill ut with a pint and a bonfire. " "gallery" >}}
+{{< fancybox "cloudinary" "9_dpodur.jpg" "  Is there anything better than playing backgammon during rainy days and nights?" "gallery" >}}
 
-{{< fancybox "cloudinary" "8_vza242.jpg" " With L. from Argentina, that Kitty met in Laos, was here in Poland. That is dimensions crossing :)" "gallery" >}}
+{{< fancybox "cloudinary" "10_ye4pkr.jpg" "  Or alter jenga? " "gallery" >}}
 
-{{< fancybox "cloudinary" "8a_yh2nfd.jpg" " Here it comes. Kitty's secret spot in the village, that's where she chills the best, surrounded by fields and forest. " "gallery" >}}
+{{< fancybox "cloudinary" "11_ahyx6j.jpg" "  Out of focus, too much fun!" "gallery" >}}
 
-{{< fancybox "cloudinary" "8b_w6pds5.jpg" " B. and M. in the fields." "gallery" >}}
+{{< fancybox "cloudinary" "12_qn7mya.jpg" "  With M. " "gallery" >}}
 
-{{< fancybox "cloudinary" "9_dpodur.jpg" " Is there anything better than playing backgammon during rainy days and nights?" "gallery" >}}
+{{< fancybox "cloudinary" "13_rymmz2.jpg" "  Magic of self-timer. With W. " "gallery" >}}
 
-{{< fancybox "cloudinary" "10_ye4pkr.jpg" " Or alter jenga? " "gallery" >}}
+{{< fancybox "cloudinary" "14_upbbxe.jpg" "  King's Park in Warsaw is a very calm and clean place to have a walk. Peacock and pigeon are real ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "11_ahyx6j.jpg" " Out of focus, too much fun!" "gallery" >}}
+{{< fancybox "cloudinary" "16_flad6k.jpg" "  With B." "gallery" >}}
 
-{{< fancybox "cloudinary" "12_qn7mya.jpg" " With M. " "gallery" >}}
-
-{{< fancybox "cloudinary" "13_rymmz2.jpg" " Magic of self-timer. With W. " "gallery" >}}
-
-{{< fancybox "cloudinary" "14_upbbxe.jpg" " King's Park in Warsaw is a very calm and clean place to have a walk. Peacock and pigeon are real ;)" "gallery" >}}
-
-{{< fancybox "cloudinary" "16_flad6k.jpg" " With B." "gallery" >}}
-
-{{< fancybox "cloudinary" "17_t4fzfv.jpg" " Kitty with two beautiful flowers: M. and H. (with greetings to G.)" "gallery" >}}
+{{< fancybox "cloudinary" "17_t4fzfv.jpg" "  Kitty with two beautiful flowers: M. and H. (with greetings to G.)" "gallery" >}}
