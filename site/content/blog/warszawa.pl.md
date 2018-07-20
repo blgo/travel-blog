@@ -69,7 +69,7 @@ Kicia R. sobie myśli, że w podróżowaniu, bez względu na to czy jest się w 
 
 Kicia R. na ten przykład uwielbia bańki mydlane. Wiedzieliście? A te można puszczać zawsze i wszędzie. 
 
-\* Kicia R. przez kilka lat pracowała jako pedagożka ulicy, początkowo przy projekcie Szkoły Ruchomej, później pracując z własnymi grupkami podopiecznych.
+\* Kicia R. przez kilka lat pracowała jako pedagożka ulicy, początkowo przy projekcie Szkoły Ruchomej, później pracując z własnymi grupkami podopiecznych dla Gpas.
 
 {{< fancybox "cloudinary" "01_z783bi.jpg" "   Bubbles with B. and M. " "gallery" >}}
 
