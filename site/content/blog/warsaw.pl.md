@@ -19,31 +19,27 @@ Dziś Warszawa jest dla niej inna. Od kiedy nie jest w tym mieście na mniej lub
 
 _Kicia R. wchodzi do warzywniaka na Prażce._
 
-_Sprzedawczyni: O, myślałam o Pani ostatnio! Pokazywali program w telewizji o tym wózku, co z nim Pani na podwórka do dzieciaków przychodziła. Dawno Pani nie widziałam! *
-_
+_Sprzedawczyni: O, myślałam o Pani ostatnio! Pokazywali program w telewizji o tym wózku, co z nim Pani na podwórka do dzieciaków przychodziła. Dawno Pani nie widziałam! *_
 
-_Kicia: O.. yyy... bardzo to miłe...yyy... w sumie nie mieszkam w Polsce od 3 lat, a dziś w nocy to akurat z Bangkoku przyleciałam...
-_
+_Kicia: O.. yyy... bardzo to miłe...yyy... w sumie nie mieszkam w Polsce od 3 lat, a dziś w nocy to akurat z Bangkoku przyleciałam..._
 
-_Sprzedawczyni: O, to super! To co? Dam truskawek na kompot, nie?
-_
+_Sprzedawczyni: O, to super! To co? Dam truskawek na kompot, nie?_
 
-_Kicia: No pewka! 
-_
+_Kicia: No pewka!_
 
 Dla Kici R. to wszystko jest jak życie w 3 wymiarach. Pierwszy to życie za granicą, czyli w Bristolu. Drugi to życie w podróży, czyli półroczna wyprawa po Azji. Trzeci wymiar to Warszawa, czyli jej rodzinne miasto. I tu zaczynają się dialogowe zagwostki. Jak opowiadać o życiu w Bristolu przyjaciołom z Warszawy, kiedy słowa Kici R. nie mają dla nich konkretnych odwołań do wspomnień czy obrazu? Jak opowiadać ludziom, których poznała w Bristolu, że pochodzi z Warszawy, kiedy te słowa nie przekładają się na żadne konkretne dla nich wyobrażenia? Kto zrozumie i prawdziwie poczuje jak naprawdę było w Laosie? Albo gdzie najlepiej jest zrobić piknik w Bristolu? Albo jak miła sercu może być warszawska Praga? Kto jak nie ten, kto choć trochę tego wszystkiego doświadczył?
 
 Tym razem, wśród intensywności spotkań i istnej kilku tygodniowej gonitwie gościny, Kicia R. przełamała te 3 wymiary. Oto, Argentynka, którą Kicia R. poznała w Laosie, przyjechała do Polski by spędzić z Kicią kilka wspaniałych dni. Kiedy Kicia R. mówi: Hej L., ale w Laosie mają dobrą zupę z dyni! to L. doskonale wie o co chodzi. Nie potrzebuje opisu, bo ona doskonale zna smak i zapach tej zupy. Ona po prostu wie. Albo kiedy do Kici R. przyjeżdżają jej przyjaciele z Anglii, B. i M. i Kicia R. mówi im: hej, posłuchajmy Massive attack, to oni wiedzą, co to za muzyka i skąd ten zespół pochodzi. A sytuacja już w ogóle ma swoje apogeum, gdy Kicia R. spotyka się z W. To dla niego wyjechała w ogóle z Polski. I on wie jak jest w Warszawie, jak jest w Bristolu, podróżował też długo po Azji, a teraz mieszka w Ugandzie. Istny mindfuck (i jakaż przyjemność i zrozumienie w konwersacji jednocześnie!).
 
-_Kicia R. stoi na ulicy Ząbkowskiej przed knajpą o wdzięcznej nazwie: W oparach absurdu. W środku czekają na nią przyjaciele z Anglii i Hiszpanii. Wtem podchodzi do niej barczysty mężczyzna, przystaje, a następnie intesywnie i wyzywająco patrzy Kici R. w oczy. _
+_Kicia R. stoi na ulicy Ząbkowskiej przed knajpą o wdzięcznej nazwie: W oparach absurdu. W środku czekają na nią przyjaciele z Anglii i Hiszpanii. Wtem podchodzi do niej barczysty mężczyzna, przystaje, a następnie intesywnie i wyzywająco patrzy Kici R. w oczy._
 
-_\-Siema! _
+_\-Siema!_
 
 _\-Cześć…_
 
 _\-Nie poznajesz mnie co?_
 
-_\-Masz bardzo znajomą twarz – mówi Kicia R. ostrożnie i prawie przepalają jej się kable pod kopułą, bo nie może skojarzyć imienia. _
+_\-Masz bardzo znajomą twarz – mówi Kicia R. ostrożnie i prawie przepalają jej się kable pod kopułą, bo nie może skojarzyć imienia._
 
 _\- To ja, prowadziłaś z T. dla nas zajęcia tu na Brzeskiej. O, popatrz, a tam stoi moja żona z dzieckiem he he czas płynie, no nie? A co u Ciebie?_
 
@@ -51,9 +47,9 @@ _\- O, super! Gratuluję! Ja nie mieszkam w Polsce. Wszystko ok, dzieny._
 
 _\- Ano, zawsze wiedziałem, że ruszysz kiedyś w świat._
 
-_\- :) _
+_\- :)_
 
-_\- :) _
+_\- :)_
 
 I wtedy Kicia R. przypomina sobie wszystko. Mężczyzna ów należał do prowadzonej przez nią pierwszej grupki podopiecznych 10 lat temu, gdy zaczynała pracę jako pedagog uliczny. Był wtedy młodym nastolatkiem, a dziś ma już swoją rodzinę.  
 
