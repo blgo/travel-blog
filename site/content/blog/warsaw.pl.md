@@ -11,7 +11,7 @@ date: '2018-07-19T20:35:46+01:00'
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
-language: en
+language: pl
 ---
 Warszawa. To tu Kicia R. się urodziła i wychowała. Niby stolica, a jednak dzieciństwo spędziła w przebudowanej stajni, na podwórku z psem na łańcuchu i trzema szklarniami wokół (z ogórkiem, primosusem i liliami). Do dziś uwielbia to dzieciństwo oparte na połączeniu miasta i wsi w tym samym czasie.
 
