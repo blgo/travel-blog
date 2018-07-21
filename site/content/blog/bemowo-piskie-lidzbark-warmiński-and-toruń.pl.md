@@ -10,7 +10,7 @@ date: '2018-06-30T19:02:39+01:00'
 type: post
 author: Kitty R.
 featuredalt: Image hosted by Cloudinary
-language: en
+language: pl
 ---
 O porannych eksplozjach, pięknie spływu wśród łabędzi i o ulubionym mieście Kici R., czyli nietypowe atrakcje w Polsce. 
 
