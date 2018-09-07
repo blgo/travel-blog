@@ -14,6 +14,7 @@ Today no text, just a piece of hard work and the combination of true passions: t
 
 Enjoy and ... do you like it? 
 
-PS. Kitty recommends to watch with headphone and with full HD. 
+PS. Kitty recommends to watch with headphones and with full HD.
 
-<br>{{< youtube =PGzhVUg-2Uk&t >}}</br>
+<br>{{< youtube PGzhVUg-2Uk&t= >}}</br>
+
