@@ -13,3 +13,5 @@ language: pl
 Dzisiaj nie będzie tekstu. Dzisiaj będzie o kombinacji kiciowych pasji: podróżowaniu i robieniu filmików. 
 
 Miłego oglądania i ... dajcie znać czy Wam się podoba tj. czy Kicia ma iść tą drogą?
+
+<br>{{< youtube -Lz4KXMxiBk >}}</br>
