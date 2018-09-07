@@ -1,7 +1,7 @@
 ---
 title: 'AZJA by Kicia R. '
 description: 'Krótki film o Azji Południowo-Wschodniej oczami Kici R. '
-destinations: 'Tajlandia, Kamobodża, Wietnam, Laos'
+destinations: 'Tajlandia, Kambodża, Wietnam, Laos'
 featured: DSCF4657_vwqom9.jpg
 featuredpath: cloudinary
 date: '2018-09-07T17:03:42+01:00'
