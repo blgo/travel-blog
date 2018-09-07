@@ -2,6 +2,7 @@
 title: 'ASIA by Kitty R. '
 description: 'A short movie about Southeast Asia through Kitty''s eyes. '
 destinations: 'Thailand, Cambodia, Vietnam, Laos '
+featured: DSCF4657_vwqom9.jpg
 featuredpath: cloudinary
 date: '2018-09-07T16:49:15+01:00'
 type: post
@@ -13,4 +14,6 @@ Today no text, just a piece of hard work and the combination of true passions: t
 
 Enjoy and ... do you like it? 
 
-<br>{{< youtube =PGzhVUg-2Uk&t=36s >}}</br>
+PS. Kitty recommends to watch with headphone and with full HD. 
+
+<br>{{< youtube PGzhVUg-2Uk&t >}}</br>
