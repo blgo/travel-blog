@@ -14,4 +14,6 @@ Dzisiaj nie będzie tekstu. Dzisiaj będzie o kombinacji kiciowych pasji: podró
 
 Miłego oglądania i ... dajcie znać czy Wam się podoba tj. czy Kicia ma iść tą drogą?
 
+PS. Kicia poleca oglądanie na słuchawkach oraz w jakości full HD. 
+
 <br>{{< youtube -Lz4KXMxiBk >}}</br>
