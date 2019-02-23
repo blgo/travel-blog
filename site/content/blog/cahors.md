@@ -12,6 +12,4 @@ language: en
 ---
 Kitty R.goes to France to experience delicious food, discover the story of the Devil and find out the weirdest handles ever. It's the first part of her french adventures. In the next episode she visits French Pyrenees and discovers that... Fat is Life. \[TURN ON SUBTITLES]
 
-
-
 <br>{{< youtube CgOG7yIVsvg >}}</br>
