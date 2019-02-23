@@ -18,6 +18,4 @@ W następnej części Kicia R. jedzie w Pireneje i odkrywa, że...
 
 FAT IS LIFE!
 
-
-
-<br>{{< youtube undefined >}}</br>
+<br>{{< youtube CgOG7yIVsvg >}}</br>
