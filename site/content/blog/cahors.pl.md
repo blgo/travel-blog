@@ -12,7 +12,7 @@ language: pl
 ---
 Kicia R. jedzie do Francji, aby doświadczyć pysznego jedzenia, odkryć historię o Diable i Architekcie oraz znaleźć najdziwniejsze kołatki ever. To jest pierwsza część jej przygód we Francji. 
 
-Film po angielsku, ale włączcie napisy, bo jest i fragment po francusku! 
+Film po angielsku, ale włączcie napisy ENG, bo jest i fragment po francusku! 
 
 W następnej części Kicia R. jedzie w Pireneje i odkrywa, że... 
 
