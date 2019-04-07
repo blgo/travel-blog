@@ -11,12 +11,12 @@
 	{{ if (ne $.Params.featuredpath "cloudinary") }}
 
         <a href="{{ .RelPermalink }}" class="image featured">
-            <img src="{{ $path | relURL }}/`{{ .Params.image | replaceRE "^https?://.*/([^/]+).*" "$1" }}"
+            <img data-src="{{ $path | relURL }}/`{{ .Params.image | replaceRE "^https?://.*/([^/]+).*" "$1" }}"
 	    	alt="{{ $alt }}">
         </a>
 	{{ else }}
         <a href="{{ .RelPermalink }}" class="image featured">
-            <img src="{{ $path | relURL }}/{{ .Params.image | replaceRE "^https?://.*/([^/]+).*" "$1" }}"
+            <img data-src="{{ $path | relURL }}/{{ .Params.image | replaceRE "^https?://.*/([^/]+).*" "$1" }}"
 	    	alt="{{ $alt }}" class="cld-responsive">
         </a>
 	{{ end }}
