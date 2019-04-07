@@ -60,7 +60,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
-      - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
+      - label: 'Heading - Image filename'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
