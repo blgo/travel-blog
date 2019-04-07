@@ -4,7 +4,7 @@ description: >-
   O mocnych spojrzeniach, nieturystycznym targowisku i khmerskich dzieciach z
   drugiej strony obiektywu. 
 destinations: Kambodża
-featured: 0_b59o04.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_b59o04.jpg
 featuredpath: cloudinary
 date: 2018-03-06T04:06:19.051Z
 type: post

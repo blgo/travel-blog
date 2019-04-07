@@ -4,7 +4,7 @@ description: >-
   Kicia R. i Sir Last poznają nowe oblicze gry w ‘kółko i krzyżyk’, badają krew
   w kierunku ptasiej grypy, a następnie witają Kambodżę
 destinations: Kambodża
-featured: title_qewlel.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_qewlel.jpg
 featuredpath: cloudinary
 date: 2018-02-14T06:12:26.008Z
 type: post

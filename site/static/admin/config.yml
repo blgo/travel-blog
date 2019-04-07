@@ -1,13 +1,25 @@
 backend:
-  name: git-gateway
+  #name: git-gateway
+  #branch: master
+  name: github
+  repo: blgo/test
   branch: master
-  # name: github
-  # repo: blgo/test
-  # branch: master
 
 publish_mode: editorial_workflow
 media_folder: "site/static/img/"
 display_url: https://www.kittyr.com
+
+media_library:
+  name: cloudinary
+  output_filename_only: false
+  config:
+    cloud_name: dkdpqgjhi
+    api_key: 861354653557333
+    default_transformations:
+      -   - fetch_format: auto
+            width: 300    
+            quality: auto
+            crop: fill
 
 collections: # A list of collections the CMS should be able to edit
   - name: "enblog" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -18,10 +30,15 @@ collections: # A list of collections the CMS should be able to edit
       value: en
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
-      - {label: "Heading - Image filename", name: "featured", widget: "string", required: false}
+      - label: 'Heading - Image filename'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}

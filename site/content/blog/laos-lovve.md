@@ -4,7 +4,7 @@ description: >-
   About being full of love, accepting death and assimilating new norms. Here and
   Now. Oh, and how Kitty R. almost gets hit by a lightning.
 destinations: Laos
-featured: 00title_nxhdm9.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_nxhdm9.jpg
 featuredpath: cloudinary
 date: '2018-04-28T14:45:47+01:00'
 type: post

@@ -4,7 +4,7 @@ description: >-
   Kicia R. i Sir Last jadą nocnym autobusem do lasu deszczowego. Dzika przyroda,
   zwierzęta i ludzkie jezioro. 
 destinations: Tajlandia
-featured: 0_lwfusw.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_lwfusw.jpg
 featuredpath: cloudinary
 date: 2018-01-18T15:24:34.147Z
 type: post

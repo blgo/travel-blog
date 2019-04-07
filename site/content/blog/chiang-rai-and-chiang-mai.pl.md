@@ -4,7 +4,7 @@ description: >-
   O tygrysach, słoniach i grupach etnicznych, czyli tajskie atrakcje okiem Kici
   R. 
 destinations: Tajlandia
-featured: 00title_wzpfy7.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_wzpfy7.jpg
 featuredpath: cloudinary
 date: '2018-05-10T11:15:38+01:00'
 type: post

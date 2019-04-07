@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Sir Last take the night bus to the rainforest. Wild nature,
   animals and human lake.
 destinations: Thailand
-featured: 0_kknwz8.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_kknwz8.jpg
 featuredpath: cloudinary
 date: 2018-01-18T16:13:07.991Z
 type: post

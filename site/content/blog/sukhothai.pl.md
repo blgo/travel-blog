@@ -5,7 +5,7 @@ description: >-
   Południowo-Wschodniej i o jej podejściu do nowych kulturowych przeżyć, czyli o
   udziale dzieci w tajskim boksie.
 destinations: Tajlandia
-featured: 00title_vrfl0z.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_vrfl0z.jpg
 featuredpath: cloudinary
 date: '2018-06-09T08:22:03+01:00'
 type: post

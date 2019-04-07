@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Sir Last get totally defeated by the relaxation that a tropical
   island imposes on them. Nothing really happens. Almost nothing.
 destinations: Thailand
-featured: title_photo_ae9xzv.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_photo_ae9xzv.jpg
 featuredpath: cloudinary
 date: 2018-01-31T07:40:24.259Z
 type: post

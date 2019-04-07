@@ -5,7 +5,7 @@ description: >-
   najmokrzej! Oraz o weryfikacji stereotypów w podróży i trochę o prawdzie
   blogowania vs rzeczywistości.
 destinations: Laos
-featured: 00title_hmgccj.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_hmgccj.jpg
 featuredpath: cloudinary
 date: '2018-04-20T17:05:16+01:00'
 type: post

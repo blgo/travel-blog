@@ -4,7 +4,7 @@ description: >-
   About frustration-globalization, backpacker's network, vietnamese train and an
   abandoned water park.
 destinations: Vietnam
-featured: 0title_qe1mvi.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0title_qe1mvi.jpg
 featuredpath: cloudinary
 date: '2018-03-23T12:15:45+00:00'
 type: post

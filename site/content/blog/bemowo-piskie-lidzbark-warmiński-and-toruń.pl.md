@@ -4,7 +4,7 @@ description: >-
   O porannych eksplozjach, pięknie spływu wśród łabędzi i o ulubionym mieście
   Kici R., czyli nietypowe atrakcje w Polsce. 
 destinations: Polska
-featured: DSCF4904_p55dgr.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/DSCF4904_p55dgr.jpg
 featuredpath: cloudinary
 date: '2018-06-30T19:02:39+01:00'
 type: post

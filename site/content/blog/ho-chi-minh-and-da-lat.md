@@ -4,7 +4,7 @@ description: >-
   A short story about a snow lotus, egg coffee and a turtle, which takes one
   man’s sword.
 destinations: Vietnam
-featured: 0title_yjzqzs.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0title_yjzqzs.jpg
 featuredpath: cloudinary
 date: '2018-03-15T13:49:25+00:00'
 type: post

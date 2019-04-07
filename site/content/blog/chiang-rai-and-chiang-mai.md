@@ -2,7 +2,7 @@
 title: CHIANG RAI AND CHIANG MAI
 description: 'About tigers, elephants and ethnic groups; Thai attractions by Kitty''s eye.'
 destinations: Thailand
-featured: 00title_wzpfy7.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_wzpfy7.jpg
 featuredpath: cloudinary
 date: '2018-05-10T10:22:31+01:00'
 type: post

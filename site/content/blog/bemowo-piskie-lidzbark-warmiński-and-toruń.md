@@ -4,7 +4,7 @@ description: >-
   About morning explosions, beautiful trips among swans, Kitty’s favourite town
   and generally unusual attractions in Poland.
 destinations: Poland
-featured: DSCF4904_ngiwhy.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/DSCF4904_ngiwhy.jpg
 featuredpath: cloudinary
 date: '2018-06-30T18:41:33+01:00'
 type: post

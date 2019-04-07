@@ -2,7 +2,7 @@
 title: Cahors
 description: 'Kitty R. we Francji, część I'
 destinations: Francja
-featured: DSCF6481_rp8puj.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/DSCF6481_rp8puj.jpg
 featuredpath: cloudinary
 date: '2019-02-23T15:34:26+00:00'
 type: post

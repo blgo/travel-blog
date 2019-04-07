@@ -2,7 +2,7 @@
 title: PAI
 description: 'O monsunowych dniach wśród ryżowych pól. '
 destinations: Tajlandia
-featured: 0title_ds1hnl.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0title_ds1hnl.jpg
 featuredpath: cloudinary
 date: '2018-06-01T10:42:01+01:00'
 type: post

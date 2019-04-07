@@ -4,7 +4,7 @@ description: >-
   Draft notes on what to pack on your trip to Asia (Kitty’s tips) and her way to
   discover new things (Muay Thai among Young People).
 destinations: Thailand
-featured: 00title_haubed.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_haubed.jpg
 featuredpath: cloudinary
 date: '2018-06-09T07:36:28+01:00'
 type: post

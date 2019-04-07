@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Sir Last do not rave about the capital and then land in a place
   full of garbage, crabs and pepper straight from the bush.
 destinations: Cambodia
-featured: 0_s7fx4z.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_s7fx4z.jpg
 featuredpath: cloudinary
 date: 2018-02-23T09:27:32.883Z
 type: post

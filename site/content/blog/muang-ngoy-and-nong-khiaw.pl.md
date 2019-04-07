@@ -4,7 +4,7 @@ description: >-
   O losie w Laosie, pięknie rzecznego życia wśród gór i dżungli oraz jakie moce
   ma owadzi mocz.
 destinations: Laos
-featured: 000_czljsk.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/000_czljsk.jpg
 featuredpath: cloudinary
 date: '2018-04-09T10:22:11+01:00'
 type: post

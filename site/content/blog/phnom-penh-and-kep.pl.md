@@ -4,7 +4,7 @@ description: >-
   Kicia R. i Sir Last nie zachwycają się stolicą, a potem lądują w miejscu,
   gdzie są śmieci, kraby i pieprz prosto z krzaka.
 destinations: Kambodża
-featured: 0_ixfiu0.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_ixfiu0.jpg
 featuredpath: cloudinary
 date: 2018-02-23T07:58:00.197Z
 type: post
