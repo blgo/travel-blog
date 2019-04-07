@@ -5,7 +5,7 @@ description: >-
   she is on the go. She’s here only for a few weeks and still packed in the same
   backpack as for the last 8 months.
 destinations: Poland
-featured: 00title_xnhznt.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_xnhznt.jpg
 featuredpath: cloudinary
 date: '2018-07-19T20:32:32+01:00'
 type: post

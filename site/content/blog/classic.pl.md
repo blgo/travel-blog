@@ -4,7 +4,7 @@ description: >-
   Klasyczna historia o dobrych ludziach, których Kicia R. i Dziadek T. spotykają
   na swej drodze.
 destinations: Maroko
-featured: 386526_2562951310509_1220752190_n_twrqk9.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/386526_2562951310509_1220752190_n_twrqk9.jpg
 featuredpath: cloudinary
 tag: morocco2
 date: 2015-01-15T19:53:42.557Z

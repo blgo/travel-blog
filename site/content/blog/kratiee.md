@@ -4,7 +4,7 @@ description: >-
   About strong looks, a non-touristic marketplace and Khmer children on the
   other side of the camera lens.
 destinations: Cambodia
-featured: 0_bc6msz.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0_bc6msz.jpg
 featuredpath: cloudinary
 date: 2018-03-06T05:06:23.058Z
 type: post

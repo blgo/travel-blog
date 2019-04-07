@@ -2,7 +2,7 @@
 title: Essaouira
 description: 'O spaniu wśród wydm oceanicznych i na pustyni. '
 destinations: Maroko
-featured: title_tfss7f.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_tfss7f.jpg
 featuredpath: cloudinary
 date: 2017-12-22T21:55:15.699Z
 type: post

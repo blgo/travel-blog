@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Grandpa T. sleep in a date palm grove and the next day they experience
   crazy ride through Atlas Mountains.
 destinations: Morocco
-featured: title_photo_eytwyf.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_photo_eytwyf.jpg
 featuredpath: cloudinary
 featuredalt: "Image hosted by Cloudinary"
 type: post

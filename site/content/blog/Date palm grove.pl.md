@@ -4,7 +4,7 @@ description: >-
   Kicia R. i Dziadek T. śpią na dziko, a rano zaliczają szalony przejazd przez
   Atlas Wysoki. 
 destinations: Maroko
-featured: title_photo_lbv6di.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_photo_lbv6di.jpg
 featuredpath: cloudinary
 featuredalt: "Image hosted by Cloudinary"
 type: post

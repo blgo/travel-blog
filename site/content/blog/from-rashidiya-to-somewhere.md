@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Grandpa T. meet a Man and His Sheep and have the stars within
   arm's reach.
 destinations: Morocco
-featured: Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/Morocco/10425350_10204653577076774_2924049683883364252_n_1_xauaxl.jpg
 featuredpath: cloudinary
 date: 2015-01-17T19:53:42.557Z
 type: post

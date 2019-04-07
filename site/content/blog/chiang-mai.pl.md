@@ -2,7 +2,7 @@
 title: CHIANG MAI
 description: 'O przeciążeniu sensorycznym, czyli Jeden Dzień w Chiang Mai. '
 destinations: Tajlandia
-featured: DSCF3782_bryfpp.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/DSCF3782_bryfpp.jpg
 featuredpath: cloudinary
 date: '2018-05-25T09:26:59+01:00'
 type: post

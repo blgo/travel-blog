@@ -2,7 +2,7 @@
 title: PAI
 description: 'About monsoon''s influence on Kitty''s life. '
 destinations: Thailand
-featured: 0title_blyu4f.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0title_blyu4f.jpg
 featuredpath: cloudinary
 date: '2018-06-01T10:14:28+01:00'
 type: post

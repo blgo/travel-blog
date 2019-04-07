@@ -4,7 +4,7 @@ description: >-
   Trochę po prostu o tym co tam i jak tam. I jak udało im się trafić do wsi
   spokojnej. I trochę o odpowiedzialnym podróżowaniu. 
 destinations: Wietnam
-featured: 00title_ox2w3g.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_ox2w3g.jpg
 featuredpath: cloudinary
 date: '2018-04-01T06:50:14+01:00'
 type: post

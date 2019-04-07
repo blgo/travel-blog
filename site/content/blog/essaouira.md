@@ -2,7 +2,7 @@
 title: Essaouira
 description: 'About sleeping on the dunes and in the middle of nowhere. '
 destinations: Morocco
-featured: title_aahjmg.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_aahjmg.jpg
 featuredpath: cloudinary
 date: 2017-12-22T20:36:41.551Z
 type: post

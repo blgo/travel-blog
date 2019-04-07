@@ -2,7 +2,7 @@
 title: Bangkok
 description: 'Kicia R. leci do Azji. Z biletem w jedną stronę. '
 destinations: Tajlandia
-featured: title_wblgud.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_wblgud.jpg
 featuredpath: cloudinary
 date: 2018-01-13T12:09:17.334Z
 type: post

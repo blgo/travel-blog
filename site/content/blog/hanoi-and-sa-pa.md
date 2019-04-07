@@ -4,7 +4,7 @@ description: >-
   Simply about what's up and how Kitty R. and Sir Last made it to a lovely,
   quiet village. And a bit about responsible travelling. 
 destinations: Vietnam
-featured: 00title_ox2w3g.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_ox2w3g.jpg
 featuredpath: cloudinary
 date: '2018-04-01T06:56:04+01:00'
 type: post

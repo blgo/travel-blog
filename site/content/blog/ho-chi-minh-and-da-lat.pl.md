@@ -4,7 +4,7 @@ description: >-
   Krótka historia o śnieżnym lotosie, kawie z jajkiem i żółwiu, co zabrał
   ludziom miecz.
 destinations: Wietnam
-featured: 0title_yjzqzs.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/0title_yjzqzs.jpg
 featuredpath: cloudinary
 date: '2018-03-15T12:54:06+00:00'
 type: post

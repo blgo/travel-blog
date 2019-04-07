@@ -2,7 +2,7 @@
 title: CHIANG MAI
 description: 'About sensory overload, One Day in Chiang Mai.'
 destinations: Thailand
-featured: DSCF3782_megvli.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/DSCF3782_megvli.jpg
 featuredpath: cloudinary
 date: '2018-05-25T09:03:23+01:00'
 type: post

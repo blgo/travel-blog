@@ -4,7 +4,7 @@ description: >-
   Kitty R. and Sir Last get to know the new version of 'noughts and crosses'
   game, experience test blood for bird flu and then greet Cambodia.
 destinations: Cambodia
-featured: title_y6kfsh.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/title_y6kfsh.jpg
 featuredpath: cloudinary
 date: 2018-02-14T06:37:02.690Z
 type: post

@@ -4,7 +4,7 @@ description: >-
   O byciu pełną miłości,  akceptacji śmierci i o przyswajaniu nowych norm. Tu i
   teraz. A, i jeszcze jak  prawie trafił ją piorun.
 destinations: Laos
-featured: 00title_nxhdm9.jpg
+image: https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/00title_nxhdm9.jpg
 featuredpath: cloudinary
 date: '2018-04-28T14:12:46+01:00'
 type: post

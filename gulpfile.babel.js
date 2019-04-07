@@ -15,7 +15,7 @@ const browserSync = BrowserSync.create();
 // Hugo arguments
 const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
-const hugoArgsDev = ["-d", "../dist", "-s", "site", "-v", "--config", "site/config.dev.toml"];
+const hugoArgsDev = ["-d", "../dist", "-s", "site", "-v"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
