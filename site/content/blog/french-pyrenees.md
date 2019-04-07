@@ -13,6 +13,4 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-
-
 <br>{{< youtube UqFIG2U7thc >}}</br>
