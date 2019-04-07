@@ -1,4 +1,6 @@
 ---
+image: >-
+  https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,e_grayscale,f_auto,q_auto,w_300/16_flad6k.jpg
 title: TEST
 destinations: Test
 featured: ''
