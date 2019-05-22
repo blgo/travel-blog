@@ -1,9 +1,9 @@
 ---
 title: Saloniki
 description: >-
-  Kicia R. postanowiła spontanicznie odwiedzić znajomych w Salonikach, w Grecji.
-  Nie poszła zwiedzać Białej Wieży ani ruin, muzeów czy też kościołów. W zamian
-  doświadczyła lekkości greckiego flow na swój sposób. 
+  Kicia R. postanowiła spontanicznie odwiedzić Rafesa i Asię w Salonikach, w
+  Grecji. Nie poszła zwiedzać Białej Wieży ani ruin, muzeów czy też kościołów. W
+  zamian doświadczyła lekkości greckiego flow na swój sposób. 
 destinations: Grecja
 image: >-
   https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1558526323/DSCF7935_wtkmav.jpg
@@ -14,7 +14,7 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-Kicia R. postanowiła spontanicznie odwiedzić znajomych w Salonikach, w Grecji. Nie poszła zwiedzać Białej Wieży ani ruin, muzeów czy też kościołów. W zamian doświadczyła lekkości greckiego flow na swój sposób. 
+Kicia R. postanowiła spontanicznie odwiedzić Rafesa i Asię w Salonikach, w Grecji. Nie poszła zwiedzać Białej Wieży ani ruin, muzeów czy też kościołów. W zamian doświadczyła lekkości greckiego flow na swój sposób. 
 
 <br>{{< youtube =enfHPPbtWWs&t >}}</br>
 
