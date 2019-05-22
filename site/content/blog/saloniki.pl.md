@@ -16,7 +16,7 @@ Kicia R. postanowiła spontanicznie odwiedzić znajomych w Salonikach, w Grecji.
 
 
 
-<br>{{< youtube =enfHPPbtWWs&t=336s >}}</br>
+<br>{{< youtube =enfHPPbtWWs&t >}}</br>
 
 {{< fancybox "cloudinary" "DSCF7935_mne3tk.jpg" "  selfie z aparatu" "gallery" >}}
 
