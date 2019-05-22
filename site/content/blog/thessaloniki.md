@@ -18,28 +18,28 @@ Kitty R. decided to spontaneously visit her friends in Thessaloniki, Greece. She
 
 <br>{{< youtube enfHPPbtWWs >}}</br>
 
-{{< fancybox "cloudinary" "DSCF7559_yvprsa.jpg" "         harbour" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7559_yvprsa.jpg" " harbour" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7458_cxpf5w.jpg" "         exploring some buildings" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7458_cxpf5w.jpg" " exploring some buildings" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7446_bpgel1.jpg" "         Thessaloniki" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7446_bpgel1.jpg" " Thessaloniki" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7523_jwqlsn.jpg" "         cat" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7523_jwqlsn.jpg" " cat" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7530_dj9zqm.jpg" "         fish market" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7530_dj9zqm.jpg" " fish market" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7577_jzvey4.jpg" "         me too ;)" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7577_jzvey4.jpg" " me too ;)" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7774_waggwm.jpg" "         reggae boys and the girl" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7774_waggwm.jpg" " reggae boys and the girl" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7902_lxxve7.jpg" "         the world" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7902_lxxve7.jpg" " the world" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7800_keowey.jpg" "         the centre" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7800_keowey.jpg" " the centre" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7870_gsyz8b.jpg" "         math" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7870_gsyz8b.jpg" " math" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7571_tpld05.jpg" "        me" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7571_tpld05.jpg" "         me" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7781_pwbrg4.jpg" "        in the bar" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7781_pwbrg4.jpg" "         in the bar" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7899_kbe8xi.jpg" "        sunset" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7899_kbe8xi.jpg" "         sunset" "gallery" >}}
