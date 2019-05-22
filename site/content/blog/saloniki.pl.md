@@ -16,7 +16,7 @@ language: pl
 ---
 Kicia R. postanowiła spontanicznie odwiedzić Rafesa i Asię w Salonikach, w Grecji. Nie poszła zwiedzać Białej Wieży ani ruin, muzeów czy też kościołów. W zamian doświadczyła lekkości greckiego flow na swój sposób. 
 
-<br>{{< youtube =enfHPPbtWWs&t >}}</br>
+<br>{{< youtube =enfHPPbtWWs >}}</br>
 
 {{< fancybox "cloudinary" "DSCF7559_yvprsa.jpg" "   przystań" "gallery" >}}
 
