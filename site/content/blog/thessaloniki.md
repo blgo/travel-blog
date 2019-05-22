@@ -38,8 +38,8 @@ Kitty R. decided to spontaneously visit her friends in Thessaloniki, Greece. She
 
 {{< fancybox "cloudinary" "DSCF7870_gsyz8b.jpg" " math" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7571_tpld05.jpg" "         me" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7571_tpld05.jpg" " me" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7781_pwbrg4.jpg" "         in the bar" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7781_pwbrg4.jpg" " in the bar" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF7899_kbe8xi.jpg" "         sunset" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF7899_kbe8xi.jpg" " sunset" "gallery" >}}
