@@ -13,4 +13,4 @@ language: pl
 ---
 Pierwszej nocy w Dartmoor Kicia R. i jej przyjaciele obserwują satelity Muska przecinające rozgwieżdżone niebo. Nastęnego dnia Kicia R. wstrzymuje oddech podziwiając piękno okolicy, a co najważniejsze: SPOTYKA DZIKIE KUCE! Kicia R. obiecuje powrócić w te rejony, aby zrobić porządniejsze video. W międzyczasie obejrzyjcie preludium ;)
 
-<br>{{< youtube N4sNhQUr0jk&t=194s >}}</br>
+<br>{{< youtube N4sNhQUr0jk >}}</br>
