@@ -13,4 +13,4 @@ language: en
 ---
 First night in Dartmoor Kitty R. and her friends observe Musk's satelites crossing the stary sky. The very next day Kitty R. holds her breath while admiring the beauty of the moors, and most important of all: SHE MEETS WILD PONIES! Kitty promises to come back to make a proper video. Till then enjoy the teaser.
 
-<br>{{< youtube N4sNhQUr0jk&t=194s >}}</br>
+<br>{{< youtube N4sNhQUr0jk >}}</br>
