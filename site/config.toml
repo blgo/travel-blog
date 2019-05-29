@@ -164,7 +164,7 @@ DefaultContentLanguage = "en"
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github          = "blgo/travel-blog"
+  github          = ""
   gitlab          = ""
   stackoverflow   = "" # User Number
   bitbucket       = ""
