@@ -1,5 +1,5 @@
 ---
-title: 'Date palm grove. '
+title: 'Date palm grove. 2 '
 description: >-
   Kitty R. and Grandpa T. sleep in a date palm grove and the next day they experience
   crazy ride through Atlas Mountains.
