@@ -12,4 +12,4 @@ language: pl
 ---
 W moim rodzinnym kraju Parada Równości jest daleka od zwykłego świętowania. Nie jest czysto pokojowym wydarzeniem. Mam nadzieję, że to video wniesie trochę nadzieji, że jest możliwe święto równości bez strachu i bójek. LGBTQ+to nie ideologia. To ludzie. (zasłyszane w rozmowie)
 
-<br>{{< youtube CB9BNHsK5ho&t >}}</br>
+<br>{{< youtube CB9BNHsK5ho >}}</br>
