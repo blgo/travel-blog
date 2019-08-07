@@ -12,4 +12,4 @@ language: en
 ---
 In my homeland Pride is far from being just a celebration. It is not peacaful. This video is to bring hope to all Polish, that it is possible to have a Pride with no fear and no fights. LGBT is not ideology. It's people.
 
-{{< fancybox "cloudinary" "CB9BNHsK5ho&t=88s" " Bristol Pride" "gallery" >}}
+<br>{{< youtube CB9BNHsK5ho&t >}}</br>
