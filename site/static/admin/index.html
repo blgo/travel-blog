@@ -41,18 +41,22 @@
       id: "youtube",
       label: "Youtube",
       fields: [{name: 'id', label: 'Youtube Video ID'}],
-      pattern: /^<br>{{<\s?youtube (\S+)\s?>}}<\/br>/,
+      pattern: /^<br>{{<\s?youtube (.*)\s+>}}<\/br>/,
       fromBlock: function(match) {
         return {
-          id: match[1]
+          id: match[1].replace(/(https?:\/\/)?(www\.)?(youtu\.be\/|youtube\.com\/)?(watch\?(.*&)?v=|(embed|v)?\/)?([^\?&"'>]+)(\?t=[0-9]*)?|(&.*)?/g, '$7')
         };
       },
       toBlock: function(obj) {
-        return '<br>{{< youtube ' + obj.id + ' >}}</br>';
+        return '<br>{{< youtube '
+        + obj.id.replace(/(https?:\/\/)?(www\.)?(youtu\.be\/|youtube\.com\/)?(watch\?(.*&)?v=|(embed|v)?\/)?([^\?&"'>]+)(\?t=[0-9]*)?|(&.*)?/g, '$7')
+        + ' >}}</br>';
       },
       toPreview: function(obj) {
         return (
-          '<img src="https://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+          '<img src="https://img.youtube.com/vi/' 
+          + obj.id.replace(/(https?:\/\/)?(www\.)?(youtu\.be\/|youtube\.com\/)?(watch\?(.*&)?v=|(embed|v)?\/)?([^\?&"'>]+)(\?t=[0-9]*)?|(&.*)?/g, '$7')
+          + '/0.jpg" alt="Youtube Video"/>'
         );
       }
     });
