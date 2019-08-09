@@ -13,6 +13,8 @@
             }
         });
         }
+
+        netlifyIdentity.on('login', user => console.log('login', user));
     </script>
     <div id="main">
         {{ range first 1 (where .Site.Pages "Type" "post") }} 

@@ -13,7 +13,7 @@
   <script>
 
   // Clousinary support for embedded images editor widget
-
+    window.CMS_MANUAL_INIT = true
     CMS.registerEditorComponent({
       id: "facybox",
       label: "Cloudinary Fancybox",
@@ -98,6 +98,18 @@
 
     CMS.registerWidget('capitalisefirst', CapitaliseFirstOnly, CapitalisePreview);
 
+import CMS, { init } from 'netlify-cms'
+
+init({
+  config: {
+    media_library: {
+      config: {
+        signature: <signature>,
+      },
+    },
+  },
+})
+    
   </script>
 </body>
 </html>
