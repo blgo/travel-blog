@@ -2,6 +2,8 @@
 title: Macedonia
 description: 'Kitty R. and Grandpa T. hitchhike again. (VIDEO) '
 destinations: Macedonia
+image: >-
+  https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668922/DSCF2404_hzpwgu.jpg
 featuredpath: cloudinary
 date: 2019-09-16T20:50:35.342Z
 type: post
