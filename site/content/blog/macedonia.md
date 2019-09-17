@@ -17,28 +17,28 @@ The hitchhiking adventure begins. At this point you have no idea where you will 
 
 <br>{{< youtube VlvqR6MjZsw >}}</br>
 
-{{< fancybox "cloudinary" "DSCF2377_ooiued.jpg" "blurry hitchhike" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2377_ooiued.jpg" " blurry hitchhike" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2427_bsghtl.jpg" "rainbow" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2427_bsghtl.jpg" " rainbow" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2463_rnxle0.jpg" "ohrid" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2463_rnxle0.jpg" " ohrid" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2445_mqwpzd.jpg" "snake" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2445_mqwpzd.jpg" " snake" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2451_imhfyq.jpg" "ohrid" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2451_imhfyq.jpg" " ohrid" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2340_eaggkw.jpg" "sunset" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2340_eaggkw.jpg" " sunset" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2433_jtbll4.jpg" "sunset" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2433_jtbll4.jpg" " sunset" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2344_wzu6cy.jpg" "thessaloniki" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2344_wzu6cy.jpg" " thessaloniki" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2349_ihcnja.jpg" "thessaloniki" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2349_ihcnja.jpg" " thessaloniki" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2407_hftvp1.jpg" "hitchhike stop" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2407_hftvp1.jpg" " hitchhike stop" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2389_dehdcf.jpg" "sunrise" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2389_dehdcf.jpg" " sunrise" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2511_thwa90.jpg" "final destination - wedding in skopje" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2511_thwa90.jpg" " final destination - wedding in skopje" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF2588_a76joy.jpg" "me and my Macedonian boys during Dime's wedding" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF2588_a76joy.jpg" " me and my Macedonian boys during Dime's wedding" "gallery" >}}
