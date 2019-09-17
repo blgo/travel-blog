@@ -17,28 +17,28 @@ The hitchhiking adventure begins. At this point you have no idea where you will 
 
 <br>{{< youtube VlvqR6MjZsw >}}</br>
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668649/DSCF2377_ooiued.jpg "blurry hitchhike")
+{{< fancybox "cloudinary" "DSCF2377_ooiued.jpg" "blurry hitchhike" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669104/DSCF2427_bsghtl.jpg "rainbow")
+{{< fancybox "cloudinary" "DSCF2427_bsghtl.jpg" "rainbow" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669184/DSCF2463_rnxle0.jpg "ohrid")
+{{< fancybox "cloudinary" "DSCF2463_rnxle0.jpg" "ohrid" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669108/DSCF2445_mqwpzd.jpg "snake")
+{{< fancybox "cloudinary" "DSCF2445_mqwpzd.jpg" "snake" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669228/DSCF2451_imhfyq.jpg "ohrid")
+{{< fancybox "cloudinary" "DSCF2451_imhfyq.jpg" "ohrid" "gallery" >}}
 
-![sunset](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668694/DSCF2340_eaggkw.jpg "sunset")
+{{< fancybox "cloudinary" "DSCF2340_eaggkw.jpg" "sunset" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668998/DSCF2433_jtbll4.jpg "sunset")
+{{< fancybox "cloudinary" "DSCF2433_jtbll4.jpg" "sunset" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668629/DSCF2344_wzu6cy.jpg "thessaloniki")
+{{< fancybox "cloudinary" "DSCF2344_wzu6cy.jpg" "thessaloniki" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668676/DSCF2349_ihcnja.jpg "thessaloniki")
+{{< fancybox "cloudinary" "DSCF2349_ihcnja.jpg" "thessaloniki" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669003/DSCF2407_hftvp1.jpg "hitchhike stop")
+{{< fancybox "cloudinary" "DSCF2407_hftvp1.jpg" "hitchhike stop" "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF2389_dehdcf.jpg" "sunrise" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669393/DSCF2511_thwa90.jpg "final destination - wedding in skopje")
+{{< fancybox "cloudinary" "DSCF2511_thwa90.jpg" "final destination - wedding in skopje" "gallery" >}}
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669412/DSCF2588_a76joy.jpg "me and my Macedonian boys during Dime's wedding")
+{{< fancybox "cloudinary" "DSCF2588_a76joy.jpg" "me and my Macedonian boys during Dime's wedding" "gallery" >}}
