@@ -37,7 +37,7 @@ The hitchhiking adventure begins. At this point you have no idea where you will 
 
 ![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669003/DSCF2407_hftvp1.jpg "hitchhike stop")
 
-![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568668848/DSCF2389_dehdcf.jpg "sunrise")
+{{< fancybox "cloudinary" "DSCF2389_dehdcf.jpg" "sunrise" "gallery" >}}
 
 ![](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_fill,f_auto,q_auto,w_300/v1568669393/DSCF2511_thwa90.jpg "final destination - wedding in skopje")
 
