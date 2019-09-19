@@ -8,7 +8,11 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "site/static/img/"
 display_url: https://www.kittyr.com
-
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dkdpqgjhi
+    api_key: 861354653557333
 
 collections: # A list of collections the CMS should be able to edit
   - name: "enblog" # Used in routes, ie.: /admin/collections/:slug/edit
