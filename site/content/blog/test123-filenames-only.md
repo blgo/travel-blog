@@ -10,3 +10,5 @@ featuredalt: Image hosted by Cloudinary
 language: en
 ---
 ![](DSCF7523_jwqlsn.jpg)
+
+{{< fancybox "cloudinary" "DSCF7523_jwqlsn.jpg" " undefined" "gallery" >}}
