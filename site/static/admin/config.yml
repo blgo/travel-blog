@@ -11,7 +11,7 @@ display_url: https://www.kittyr.com
 
 media_library:
   name: cloudinary
-  output_filename_only: false
+  output_filename_only: true
   config:
     cloud_name: dkdpqgjhi
     api_key: 861354653557333
@@ -39,6 +39,8 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'image'
         required: false
         tagname: ''
+        media_library:
+          output_filename_only: false
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
