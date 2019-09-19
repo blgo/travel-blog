@@ -15,9 +15,9 @@
   // Clousinary support for embedded images editor widget
 
     CMS.registerEditorComponent({
-      id: "facybox",
-      label: "Cloudinary Fancybox",
-	    fields: [{name: 'public_id', label: 'Image filename'}, {name: 'caption', label: 'Caption'}],
+      id: "Images in Fancybox",
+      label: "Images in Fancybox",
+	    fields: [{name: 'public_id', widget: 'image', label: 'Image filename'}, {name: 'caption', label: 'Caption'}],
       pattern: /^{{<\s?fancybox\s"(.*)"\s"(.*)"\s"(.*)"\s"(.*)"\s?>}}/,
       fromBlock: function(match) {
         return {
