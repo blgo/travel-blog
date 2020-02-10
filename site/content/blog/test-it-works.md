@@ -9,4 +9,4 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-![](/site/static/img/DSCF5496_ack4vg.jpg)
+![]()
