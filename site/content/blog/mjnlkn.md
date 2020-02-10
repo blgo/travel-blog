@@ -12,4 +12,4 @@ language: en
 ---
 {{< fancybox "cloudinary" "DSCF5496_ack4vg.jpg" "  undefined" "gallery" >}}
 
-![](DSCF5496_ack4vg.jpg)
+{{< fancybox "cloudinary" "DSCF5496_ack4vg.jpg" "undefined" "gallery" >}}
