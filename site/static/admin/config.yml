@@ -36,7 +36,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - label: 'Heading - Image filename'
         name: 'image'
-        widget: 'image'
+        widget: 'string'
         required: false
         tagname: ''
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - label: 'Heading - Image filename'
         name: 'image'
-        widget: 'image'
+        widget: 'string'
         required: false
         tagname: ''
       - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
