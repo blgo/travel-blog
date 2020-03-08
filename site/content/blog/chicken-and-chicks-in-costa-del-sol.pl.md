@@ -5,6 +5,7 @@ description: >-
   energetyczna dziewczyne!Widzialy kurczaki wsord kaktusow, spaly w vanie i
   dzielily sloneczne momenty. Dziekuje!
 destinations: Hiszpania
+image: v1583625501/DSCF3399_ui6vdu.jpg
 featuredpath: cloudinary
 date: 2020-03-08T00:18:56.430Z
 type: post
@@ -36,8 +37,10 @@ undefined
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625579/DSCF3412_dhxxhz.jpg)
 
-![](blob:https://www.kittyr.com/679e7577-e4cd-1d4a-b081-4b81d698c3ba)
+![]()
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/undefined)
+![The link to the image is broken, check the filename](/site/static/img/DSCF3418_oqmhm6.jpg)
+
+![]()
 
 undefined
