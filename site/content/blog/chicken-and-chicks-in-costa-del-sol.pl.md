@@ -13,22 +13,23 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
+
 <br>{{< youtube zrJJVQJK7OU >}}</br>
 
-{{< fancybox "cloudinary" "DSCF3356_hykwzu.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3356_hykwzu.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3307_lkqaqe.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3307_lkqaqe.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3297_torzld.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3297_torzld.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3350_lx7x8o.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3350_lx7x8o.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3401_he0vja.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3401_he0vja.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3399_ui6vdu.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3399_ui6vdu.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3412_dhxxhz.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3412_dhxxhz.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "   undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "  " "gallery" >}}
