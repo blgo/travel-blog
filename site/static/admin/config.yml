@@ -29,35 +29,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - label: 'Heading - Image filename'
         name: 'image'
-        widget: 'image'
+        widget: 'string'
         required: false
         tagname: ''
-        media_library:
-          name: cloudinary
-          output_filename_only: false
-          config:
-            cloud_name: dkdpqgjhi
-            api_key: 861354653557333
-            default_transformations:
-              -   - fetch_format: auto
-                    width: 300    
-                    quality: auto
-                    crop: fill
-      - label: "Images provider"
-        name: "featuredpath" 
-        widget: "hidden"
-        default: "cloudinary"
-        media_library:
-          name: cloudinary
-          output_filename_only: true
-          config:
-            cloud_name: dkdpqgjhi
-            api_key: 861354653557333
-            default_transformations:
-              -   - fetch_format: auto
-                    width: 300    
-                    quality: auto
-                    crop: fill
+      - {label: "Images provider", name: "featuredpath", widget: "hidden", default: "cloudinary" }
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
@@ -80,7 +55,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Country of destination", name: "destinations", widget: "capitalisefirst" , required: true}
       - label: 'Heading - Image filename'
         name: 'image'
-        widget: 'image'
+        widget: 'string'
         required: false
         tagname: ''
         media_library:
