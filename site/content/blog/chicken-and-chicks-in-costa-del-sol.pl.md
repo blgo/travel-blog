@@ -5,7 +5,7 @@ description: >-
   energetyczna dziewczyne!Widzialy kurczaki wsord kaktusow, spaly w vanie i
   dzielily sloneczne momenty. Dziekuje!
 destinations: Hiszpania
-image: v1583625501/DSCF3399_ui6vdu.jpg
+image: DSCF3399_ui6vdu.jpg
 featuredpath: cloudinary
 date: 2020-03-08T00:18:56.430Z
 type: post
@@ -13,34 +13,22 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-![Youtube Video](https://img.youtube.com/vi/zrJJVQJK7OU/0.jpg)
+<br>{{< youtube zrJJVQJK7OU >}}</br>
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625496/DSCF3356_hykwzu.jpg)
+{{< fancybox "cloudinary" "DSCF3356_hykwzu.jpg" "   undefined" "gallery" >}}
 
-undefined
+{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "   undefined" "gallery" >}}
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583626248/DSCF3418_oqmhm6.jpg)
+{{< fancybox "cloudinary" "DSCF3307_lkqaqe.jpg" "   undefined" "gallery" >}}
 
-undefined
+{{< fancybox "cloudinary" "DSCF3297_torzld.jpg" "   undefined" "gallery" >}}
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625456/DSCF3307_lkqaqe.jpg)
+{{< fancybox "cloudinary" "DSCF3350_lx7x8o.jpg" "   undefined" "gallery" >}}
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625427/DSCF3297_torzld.jpg)
+{{< fancybox "cloudinary" "DSCF3401_he0vja.jpg" "   undefined" "gallery" >}}
 
-![](blob:https://www.kittyr.com/679e7577-e4cd-1d4a-b081-4b81d698c3ba)
+{{< fancybox "cloudinary" "DSCF3399_ui6vdu.jpg" "   undefined" "gallery" >}}
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625470/DSCF3350_lx7x8o.jpg)
+{{< fancybox "cloudinary" "DSCF3412_dhxxhz.jpg" "   undefined" "gallery" >}}
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625526/DSCF3401_he0vja.jpg)
-
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625501/DSCF3399_ui6vdu.jpg)
-
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/v1583625579/DSCF3412_dhxxhz.jpg)
-
-![]()
-
-![The link to the image is broken, check the filename](/site/static/img/DSCF3418_oqmhm6.jpg)
-
-![]()
-
-undefined
+{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "   undefined" "gallery" >}}
