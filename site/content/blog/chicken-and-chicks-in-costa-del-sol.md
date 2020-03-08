@@ -15,24 +15,18 @@ language: en
 ---
 <br>{{< youtube zrJJVQJK7OU >}}</br>
 
-{{< fancybox "cloudinary" "v1583625496/DSCF3356_hykwzu.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3356_hykwzu.jpg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583626248/DSCF3418_oqmhm6.jpg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3418_oqmhm6.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583625456/DSCF3307_lkqaqe.jpg" "  " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3307_lkqaqe.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583625427/DSCF3297_torzld.jpg" "  " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3297_torzld.jpg" "  " "gallery" >}}
 
-![]()
+{{< fancybox "cloudinary" "DSCF3350_lx7x8o.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583625470/DSCF3350_lx7x8o.jpg" "  " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3401_he0vja.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583625526/DSCF3401_he0vja.jpg" "  " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3399_ui6vdu.jpg" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "v1583625501/DSCF3399_ui6vdu.jpg" "  " "gallery" >}}
-
-{{< fancybox "cloudinary" "v1583625579/DSCF3412_dhxxhz.jpg" "  " "gallery" >}}
-
-![]()
-
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3412_dhxxhz.jpg" "  " "gallery" >}}
