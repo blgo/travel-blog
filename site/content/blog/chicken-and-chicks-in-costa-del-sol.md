@@ -14,6 +14,18 @@ language: en
 ---
 <br>{{< youtube zrJJVQJK7OU >}}</br>
 
+{{< fancybox "cloudinary" "v1583625456/DSCF3307_lkqaqe.jpg" "  undefined" "gallery" >}}
 
+{{< fancybox "cloudinary" "v1583625427/DSCF3297_torzld.jpg" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+![]()
+
+{{< fancybox "cloudinary" "v1583625470/DSCF3350_lx7x8o.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "v1583625526/DSCF3401_he0vja.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "v1583625501/DSCF3399_ui6vdu.jpg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "v1583625579/DSCF3412_dhxxhz.jpg" " undefined" "gallery" >}}
+
+![]()
