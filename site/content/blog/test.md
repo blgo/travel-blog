@@ -10,4 +10,4 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-{{< fancybox "cloudinary" "v1583625496/DSCF3356_hykwzu.jpg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF3356_hykwzu.jpg" "  undefined" "gallery" >}}
