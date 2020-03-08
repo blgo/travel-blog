@@ -10,5 +10,5 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-{{< fancybox "cloudinary" "https://res.cloudinary.com/dkdpqgjhi/image/upload/DSCF5496_ack4vg.jpg" "   undefined" "gallery" >}}
+{{< fancybox path="cloudinary" file="https://res.cloudinary.com/dkdpqgjhi/image/upload/DSCF5496_ack4vg.jpg" caption="   undefined" gallery="gallery" >}}
 {{< fancybox "cloudinary" "4_arytfn.jpg" " Ełk" "gallery" >}}
