@@ -5,6 +5,7 @@ description: >-
   energetic girl in the world! They have seen chickens among cactuses, slept in
   a van and shared sunny moments. Thank you!
 destinations: Spain
+image: v1583625501/DSCF3399_ui6vdu.jpg
 featuredpath: cloudinary
 date: 2020-03-07T23:32:59.920Z
 type: post
