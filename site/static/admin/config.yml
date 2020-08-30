@@ -44,7 +44,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
       - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
-      - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
       - {label: "Language", name: "language", widget: "hidden", default: "en"}
   - name: "plblog" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -70,7 +69,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
       - {label: "author", name: "author", widget: "hidden", default: "Kitty R."}
-      - {label: "featured path", name: "featuredpath", widget: "hidden", default: "cloudinary"}
       - {label: "featured alt", name: "featuredalt", widget: "hidden", default: "Image hosted by Cloudinary"}
       - {label: "Language", name: "language", widget: "hidden", default: "pl"}
   - label: "About Pages"
