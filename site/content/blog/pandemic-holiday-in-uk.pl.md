@@ -4,7 +4,7 @@ description: "Opis niepotrzebny, wiecie jak jest. Po prostu życzę Wam
   wspaniałych lokalnych odkryć! Na filmie i zdjęciach:  (St. Ives, Porthcurno
   areas, Dartmoor)"
 destinations: Wielka Brytania
-image: DSCF4256_vscx16
+image: DSCF4258_yv8hxg
 featuredpath: cloudinary
 date: 2020-08-30T11:51:57.954Z
 type: post
