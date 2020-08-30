@@ -18,17 +18,17 @@ language: en
 
 {{< fancybox "cloudinary" "DSCF4467_csddhn" "   ." "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4413_r4vgd2" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4413_r4vgd2" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4424_dgwfgw" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4424_dgwfgw" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4430_p7mnfg" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4430_p7mnfg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4460_pzb1nb" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4460_pzb1nb" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4480_wta4hf" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4480_wta4hf" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4486_g8aasu" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4486_g8aasu" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF4526_rtecpy" " undefined" "gallery" >}}
 
