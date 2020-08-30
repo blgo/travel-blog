@@ -13,3 +13,17 @@ featuredalt: Image hosted by Cloudinary
 language: en
 ---
 <br>{{< youtube KM9_lguNf2M >}}</br>
+
+{{< fancybox "cloudinary" "DSCF4409_aq6ze2" "  ." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4467_csddhn" "  ." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4413_r4vgd2" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4424_dgwfgw" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4430_p7mnfg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4460_pzb1nb" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
