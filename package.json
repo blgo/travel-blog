@@ -5,6 +5,7 @@
   "repository": "netlify/victor-hugo",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "hugo": "gulp hugo",
     "build": "gulp build",
     "build-preview": "gulp build-preview",
@@ -41,5 +42,8 @@
     "url-loader": "^0.5.7",
     "webpack": "3.6.0",
     "whatwg-fetch": "^1.0.0"
+  },
+    "resolutions": {
+    	"graceful-fs": "^4.2.4"
   }
 }
