@@ -1,5 +1,5 @@
 ---
-title: Around the corner - The Lockdown in Bristol
+title: Around the corner - The Lockdown in Bristol [video]
 description: "A short story about the lockdown and it's impact on  Kitty
   R.    Adaptation and new ways of travelling to Around  the Corner Land. "
 destinations: United Kingdom
