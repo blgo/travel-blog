@@ -30,6 +30,8 @@ language: en
 
 {{< fancybox "cloudinary" "DSCF4486_g8aasu" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4526_rtecpy" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4526_rtecpy" " ." "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF4528_ivrvwn" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF4528_ivrvwn" " ." "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4530_rpb46r" " ." "gallery" >}}
