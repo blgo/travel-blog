@@ -13,4 +13,3 @@ language: en
 ---
 <br>{{< youtube W4SjOMI6_kw >}}</br>
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
