@@ -1,7 +1,8 @@
 ---
 title: Pandemic holiday in UK
-description: "Opis niepotrzebny. Po prostu życzę Wam wspaniałych lokalnych
-  odkryć! Na filmie i zdjęciach:  (St. Ives, Porthcurno areas, Dartmoor)"
+description: "Opis niepotrzebny, wiecie jak jest. Po prostu życzę Wam
+  wspaniałych lokalnych odkryć! Na filmie i zdjęciach:  (St. Ives, Porthcurno
+  areas, Dartmoor)"
 destinations: Wielka Brytania
 image: DSCF4256_vscx16
 featuredpath: cloudinary
