@@ -4,7 +4,7 @@ description: No description needed. Just wishing you all the best local
   discoveries!   Also, it was fun to make a video after a longer break.   (St.
   Ives, Porthcurno areas, Dartmoor)
 destinations: United Kingdom
-image: DSCF4256_vscx16
+image: DSCF4258_yv8hxg
 featuredpath: cloudinary
 date: 2020-08-30T11:27:24.958Z
 type: post
