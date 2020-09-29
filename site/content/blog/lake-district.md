@@ -10,8 +10,40 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-
 An irreverant amble through towns both popular and obscure in the North of England. Also, we take a closer look to the difference between hiking and laughing in the Lake District. 
 As a bonus: Aga teaches the cobra pose! 
 Thank you Girls! :)
 
+
+
+{{< fancybox "cloudinary" "DSCF4817_bymhet" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4886_u3uhdv" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4994_homlwf" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF5049_wqia7a" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF5039_pqdkf0" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4994_homlwf" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4984_kn6ksl" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4714_eo8rhv" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4687_sylkd5" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4722_vyoyud" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4845_c73gwg" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4754_wjcfbr" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4836_c5zzxc" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4781_eukwr8" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4813_bm2q2e" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF4958_z7joeb" " undefined" "gallery" >}}
