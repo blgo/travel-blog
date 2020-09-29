@@ -12,7 +12,11 @@ language: pl
 ---
 <!--StartFragment-->
 
-An irreverant amble through towns both popular and obscure in the North of England. Also, we take a closer look to the difference between hiking and laughing in the Lake District. As a bonus: Aga teaches the cobra pose! Thank you Girls! :)
+<!--StartFragment-->
+
+Tak tam wędrówka po popularnych i mało znanych miastach i miasteczkach północnej Anglii. Przyjrzymy się również bliżej różnicy między wędrówkami a śmiechem w Lake District. Jako bonus: Aga uczy pozy kobry! Dziękuję wam Dziewczyny! :)
+
+<!--EndFragment-->
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/DSCF4817_bymhet)
 
