@@ -18,6 +18,8 @@ Tak tam wędrówka po popularnych i mało znanych miastach i miasteczkach półn
 
 <!--EndFragment-->
 
+<br>{{< youtube zrJJVQJK7OU >}}</br>
+
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/DSCF4817_bymhet)
 
 Lake Wasdale
