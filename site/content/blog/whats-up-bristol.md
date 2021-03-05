@@ -16,8 +16,8 @@ No travels... no problem. Let me take the biggest video challenge on - film the 
 
 PS. This was an exeptional weekend in Bristol. After many months the warm sun has shown up and people just went outside to enjoy the sun. Trust me, it was not a typical lockdown day in Bristol. 
 
-youtube tyfiE-yteNo
-
+{{< youtube tyfiE-yteNo >}}
+</br></br>
 {{< fancybox "cloudinary" "155517867_3225423884226389_8820405000226223007_n_jzsrqd" " ." "gallery" >}}
 
 {{< fancybox "cloudinary" "155389071_853904928721519_3068899360705175885_n_uroogn" " ." "gallery" >}}
