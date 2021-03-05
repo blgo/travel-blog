@@ -1,5 +1,8 @@
 ---
 title: What's up Bristol?
+description: No travels... no problem. Let me take the biggest video challenge
+  on - film the town I actually live in at the moment! Let me show you Bristol
+  from a local perspective. Thank you Tomasz, you are the best video buddy ever!
 destinations: United Kingdom
 image: 157207598_3717226668332395_5014591488358915194_n_szrdji
 featuredpath: cloudinary
