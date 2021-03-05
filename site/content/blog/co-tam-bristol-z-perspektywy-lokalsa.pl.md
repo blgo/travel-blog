@@ -1,5 +1,5 @@
 ---
-title: "Co tam Bristol! z perspektywy lokalsa! "
+title: "Co tam Bristol! Z perspektywy lokalsa! "
 destinations: Wielka Brytania
 image: 157207598_3717226668332395_5014591488358915194_n_szrdji
 featuredpath: cloudinary
