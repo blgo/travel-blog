@@ -1,5 +1,5 @@
 ---
-title: What's up Bristol?
+title: What's up Bristol? [video]
 description: No travels... no problem. Let me take the biggest video challenge
   on - film the town I actually live in at the moment! Let me show you Bristol
   from a local perspective. Thank you Tomasz, you are the best video buddy ever!
