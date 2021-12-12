@@ -54,6 +54,11 @@ module.exports = {
         to: "fonts/",
         flatten: true
       }
-    ])
+    ]),
+
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery"
+    })
   ]
 };

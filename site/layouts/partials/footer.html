@@ -8,15 +8,6 @@
       {{ $.Scratch.Set "jsFiles" false }}
     {{ end }}
 
-    <!-- If the value "default" is passed into the param then we will first
-     load the standard js files associated with the theme -->
-    {{ if or (in ($.Scratch.Get "jsFiles") "default") (eq ($.Scratch.Get "jsFiles") false) }}
-      <script
-			  src="https://code.jquery.com/jquery-3.4.1.min.js"
-			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-			  crossorigin="anonymous"></script>
-    {{ end }}
-
     {{ if ne ($.Scratch.Get "jsFiles") false }}
       {{ range $.Scratch.Get "jsFiles" }}
         {{ if ne . "default" }}
