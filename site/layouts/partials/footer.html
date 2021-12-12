@@ -15,7 +15,6 @@
 			  src="https://code.jquery.com/jquery-3.4.1.min.js"
 			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
 			  crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
     {{ end }}
 
     {{ if ne ($.Scratch.Get "jsFiles") false }}
@@ -30,11 +29,6 @@
   {{ with $script.js }}
     <script src="{{ relURL . }}"></script>
   {{ end }}
-
-    <!-- This is called by default since this theme uses highlight.js -->
-    <script>hljs.initHighlightingOnLoad();</script>
-    
-
 
   </body>
 </html>
