@@ -5,6 +5,7 @@
 */
 
 (function($) {
+	var skel = require('./skel')
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
