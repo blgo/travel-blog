@@ -1,9 +1,8 @@
 ---
-title: Wakacje w UK w czasach pandemii - gdzie pójść, co zobaczyć?
-description: "Wielka Brytania to nie tylko piętrowe autobusy, czerwone budki
-  telefoniczne i piwo. Wielka Brytania jest pełna zachwycających widoków i
-  natury! Pembrokeshire, Cornwall, Devon, Snowdonia - wszystkie rejony
-  odwiedzone w trakcie wakacyjnych weekendów minionego lata! :) "
+title: Staycation in the UK - where to go, what to see?
+description: The UK is not all about double-deckers, red phone booths and pints.
+  It is full of amazing landscapes and nature! Pembrokeshire, Cornwall, Devon
+  and Snowdonia - all visited during the last summer weekends :)
 destinations: United Kingdom
 featuredpath: cloudinary
 date: 2022-04-09T20:11:20.896Z
