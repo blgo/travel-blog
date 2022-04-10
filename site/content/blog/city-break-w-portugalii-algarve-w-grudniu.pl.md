@@ -4,6 +4,7 @@ description: "W grudniu 2021 postanowiłam spontanicznie polecieć do Portugalii
   Zrobiłam to video z powodów jak zwykle - żeby móc do niego wracać i z
   przyjemnością wspominać. "
 destinations: "Portugalia "
+image: DSCF8821_hrndjw
 featuredpath: cloudinary
 date: 2022-04-09T20:23:27.287Z
 type: post
