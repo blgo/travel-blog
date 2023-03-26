@@ -1,5 +1,5 @@
 ---
-title: Roczcnicowy weekend, Queen's vs Ours
+title: Rocznicowy weekend, Queen's vs Ours
 destinations: Wielka Brytania
 image: ""
 featuredpath: cloudinary
