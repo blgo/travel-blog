@@ -8,6 +8,8 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
+youtube o8dprLs7Y3M
+
 <!--StartFragment-->
 
 Ku wspomnieniom wspaniałego weekendu z: Agieszką, Piotrkiem, Sebastianem i Tomaszem. Zdrowia i za kolejne 70 lat z Królową! Dzięki Ziomki! 
