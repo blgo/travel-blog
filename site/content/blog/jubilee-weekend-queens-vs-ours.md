@@ -8,7 +8,7 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-<!--StartFragment-->
+<https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s><!--StartFragment-->
 
 For memories of a lush weekend away with the gang : Agnieszka, Piotrek, Sebastian, Tomasz. For another 70 years with you, cheers guys!
 
