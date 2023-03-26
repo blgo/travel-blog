@@ -9,7 +9,7 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-[](https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s)
+youtube o8dprLs7Y3M
 
 youtube 
 
