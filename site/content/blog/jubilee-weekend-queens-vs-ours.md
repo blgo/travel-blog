@@ -1,7 +1,7 @@
 ---
 title: Jubilee weekend, Queen's vs Ours
 destinations: United Kingdom
-image: DSCF1918_njucyk
+image: ""
 featuredpath: cloudinary
 date: 2023-03-26T19:21:00.474Z
 type: post
@@ -11,7 +11,7 @@ language: en
 ---
 [](https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s)
 
-youtube o8dprLs7Y3M
+youtube 
 
 [](https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s)<!--StartFragment-->
 
