@@ -1,7 +1,7 @@
 ---
 title: Jubilee weekend, Queen's vs Ours
 destinations: Wielka Brytania
-image: DSCF1918_njucyk
+image: ""
 featuredpath: cloudinary
 date: 2023-03-26T19:21:35.595Z
 type: post
