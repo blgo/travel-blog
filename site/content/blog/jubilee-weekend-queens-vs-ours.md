@@ -10,7 +10,7 @@ language: en
 ---
 [](https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s)
 
-youtube https://youtu.be/o8dprLs7Y3M
+youtube o8dprLs7Y3M
 
 [](https://www.youtube.com/watch?v=o8dprLs7Y3M&t=66s)<!--StartFragment-->
 
