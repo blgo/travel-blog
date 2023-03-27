@@ -11,7 +11,7 @@ language: pl
 ---
 <!--StartFragment-->
 
-Całe mohe dzieciństwo jeździłam z rodzicami do Szwecji. Każdego lata. po wielu latach, znów pojechałam do Szwecji. Z Tatą, Tomaszem i Wojtkiem. Ten krótki film stworzyłam jak zwykle ku wspomnieniom a także dla moich *Hygge* towarzyszy :) 
+Całe moje dzieciństwo jeździłam z rodzicami do Szwecji. Każdego lata. Teraz po wielu latach, znów pojechałam do Szwecji. Z Tatą, Tomaszem i Wojtkiem. Ten krótki film stworzyłam jak zwykle ku wspomnieniom a także dla moich *Hygge* towarzyszy :) 
 
 <!--EndFragment-->
 
