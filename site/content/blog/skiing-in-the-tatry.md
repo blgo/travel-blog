@@ -15,7 +15,10 @@ Trip from Bristol to Zakopane in March 2023. Amazing people, beautiful places, f
 
 
 
-Music: Zobol - Astronomical Significance from: whoispaula.bandcamp.com/merch And from Audio Library YT more videos on: kittyr.com or yt: kittyrtravels Sebastian (our driver) - FB: Bus Woznica Zakopane
+Music: Zobol - Astronomical Significance from: whoispaula.bandcamp.com/merch 
+
+And from Audio Library YT 
+Sebastian (our driver) - FB: Bus Woznica Zakopane
 
 <!--EndFragment-->
 
