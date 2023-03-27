@@ -1,5 +1,8 @@
 ---
 title: Na nartach w Tatrach
+description: Wycieczka z Britolu do Zakopanego w Marcu 2023. Z baną wspaniałych
+  ludzi z Anglii, wśród wspaniałych widoków, zabawy, kilku siniaków i czystej
+  radości! Love you all!
 destinations: Polska
 image: DSCF1918_njucyk
 featuredpath: cloudinary
@@ -16,3 +19,5 @@ Wycieczka z Britolu do Zakopanego w Marcu 2023. Z baną wspaniałych ludzi z Ang
 Zobol - Astronomical Significance from: whoispaula.bandcamp.com/merch Sebastian (nasz kierowca) - FB: Bus Woźnica Zakopane
 
 <!--EndFragment-->
+
+<br>{{< youtube xinVeCrS-wQ >}}</br>
