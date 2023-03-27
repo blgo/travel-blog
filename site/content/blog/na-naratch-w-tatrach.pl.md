@@ -14,7 +14,9 @@ language: pl
 ---
 <!--StartFragment-->
 
-Wycieczka z Britolu do Zakopanego w Marcu 2023. Z bandą wspaniałych ludzi z Anglii, wśród wspaniałych widoków, zabawy, kilku siniaków i czystej radości! Love you all! Muzyka Jona (jednego ze współtowarzyszy): 
+Wycieczka z Britolu do Zakopanego w Marcu 2023. Z bandą wspaniałych ludzi z Anglii, wśród wspaniałych widoków, zabawy, kilku siniaków i czystej radości! Love you all! 
+
+Muzyka Jona (jednego ze współtowarzyszy): 
 
 Zobol - Astronomical Significance from: whoispaula.bandcamp.com/merch 
 
