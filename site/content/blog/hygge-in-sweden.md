@@ -15,6 +15,4 @@ Throughout my childhood I used to go with my parents to Sweden every summer time
 
 <!--EndFragment-->
 
-
-
-youtube W0kzlcxg6HY
+<br>{{< youtube W0kzlcxg6HY >}}</br>
