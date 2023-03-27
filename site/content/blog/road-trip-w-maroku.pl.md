@@ -1,6 +1,7 @@
 ---
 title: Road trip w Maroku
 destinations: Maroko
+image: 20221013_140148_kstmho
 featuredpath: cloudinary
 date: 2023-03-26T19:32:03.613Z
 type: post
