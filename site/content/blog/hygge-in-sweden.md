@@ -1,7 +1,7 @@
 ---
 title: Hygge in Sweden
 destinations: Sweden
-image: 334569183_629511072321840_982477482986386682_n_kzfsop
+image: DSCF1413_pesmim
 featuredpath: cloudinary
 date: 2023-03-26T19:40:21.463Z
 type: post
