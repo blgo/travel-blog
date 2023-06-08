@@ -3,7 +3,7 @@ title: Road trip przez Bałkany
 description: "Road trip przez Bałkany, a konkretnie Chorwację, Bośnię i
   Herzegowinę. Zapierające dech wodospady, piękne wybrzeże, sky walk i spotkanko
   z ziomkami. Bośnia i Herzegowina podbija serduszko! "
-destinations: Bosnia And Herzegovina
+destinations: Bosnia
 image: DSCF2296_ephv6e
 featuredpath: cloudinary
 date: 2023-06-08T13:38:36.702Z
