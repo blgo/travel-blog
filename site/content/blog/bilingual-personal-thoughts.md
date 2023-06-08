@@ -13,10 +13,8 @@ language: en
 ---
 <!--StartFragment-->
 
-here is something really bothering me... what are the advantages and disadvantages of being bilingual? In which language should I create my videos?! By the way, for the first time I did Polish subtitles \[hells bells, what a job!] :) also, many many thanks to Asia who helped with the shoots! xxx
+There is something really bothering me... what are the advantages and disadvantages of being bilingual? In which language should I create my videos?! By the way, for the first time I did Polish subtitles \[hells bells, what a job!] :) also, many many thanks to Asia who helped with the shoots! xxx
 
 <!--EndFragment-->
-
-
 
 <br>{{< youtube kQ8KeM5GXqw >}}</br>
