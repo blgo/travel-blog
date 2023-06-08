@@ -29,3 +29,9 @@ language: en
 {{< fancybox "cloudinary" "DSCF2104_ys9m5a" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF2232_bpdhnq" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2461_tkxofk" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2437_egwjvy" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF2412_ghftls" " " "gallery" >}}
