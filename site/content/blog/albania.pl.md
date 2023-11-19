@@ -12,8 +12,7 @@ featuredalt: Image hosted by Cloudinary
 language: pl
 ---
 <!--StartFragment-->
-
-![Youtube Video]()
+<br>{{< youtube  >}}</br>
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/)
 
