@@ -4,6 +4,7 @@ description: Jak jest w Albanii? Czy warto odwiedzić? A co z bezdomnymi psami?
   Czy chodzi tylko o rakiję, jedzenie i... co jeszcze? Uroczy wyjazd do Albanii,
   gdzie poczułam się „jak w domu”!
 destinations: Albania
+image: 371473196_167447086454272_64973943075933447_n_w1h9ab
 featuredpath: cloudinary
 date: 2023-11-19T13:01:19.255Z
 type: post
