@@ -11,9 +11,9 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-<br>{{< youtube fS2IsQc6sn8&t >}}</br>
+<br>{{< youtube fS2IsQc6sn8?si >}}</br>
 
-{{< fancybox "cloudinary" "" "    undefined" "gallery" >}}
+{{< fancybox "cloudinary" "" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF3588_bxtafy" "    " "gallery" >}}
 
