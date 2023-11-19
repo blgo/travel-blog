@@ -1,5 +1,8 @@
 ---
-title: "Albania "
+title: Albania - roadtrip z Balkanskimi ziomkami [video]
+description: Jak jest w Albanii? Czy warto odwiedzić? A co z bezdomnymi psami?
+  Czy chodzi tylko o rakiję, jedzenie i... co jeszcze? Uroczy wyjazd do Albanii,
+  gdzie poczułam się „jak w domu”!
 destinations: Albania
 featuredpath: cloudinary
 date: 2023-11-19T12:49:41.006Z
