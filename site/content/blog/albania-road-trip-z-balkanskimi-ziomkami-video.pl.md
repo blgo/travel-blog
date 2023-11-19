@@ -14,7 +14,9 @@ language: pl
 ---
 <br>{{< youtube fS2IsQc6sn8 >}}</br>
 
-{{< fancybox "cloudinary" "" "  " "gallery" >}}
+
+
+
 
 {{< fancybox "cloudinary" "DSCF3588_bxtafy" "     " "gallery" >}}
 
