@@ -1,5 +1,5 @@
 ---
-title: Albania road trip with Balkan friends
+title: Albania road trip with Balkan friends [video]
 description: How is it in Albania? Is it worth visiting? How about stray dogs?
   Is it all about rakija, food and... what else? A lovely trip to Albania, where
   I felt 'like at home'!
