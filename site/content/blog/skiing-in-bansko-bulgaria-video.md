@@ -3,6 +3,7 @@ title: "Skiing in Bansko (Bulgaria) - video "
 description: "Winter ski trip to Bansko in Bulgaria with the lovely dream team
   :)  Interested about the slopes in Bansko? Or skiing in Bulgaria? "
 destinations: Bulgaria
+image: 429783551_2144233385916159_5929645920148031917_n_bczqpg
 featuredpath: cloudinary
 date: 2024-03-02T19:19:14.972Z
 type: post
