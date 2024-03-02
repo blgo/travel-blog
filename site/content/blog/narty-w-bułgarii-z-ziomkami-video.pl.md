@@ -4,6 +4,7 @@ description: "Nie tylko dla fanów sportów zimowych! Filmik z wyjazdu na narty 
   Bansko w Bułgarii! Jak wyglądają stoki? Jak się jeżdzi na nartach w Bansko?
   Transport i jedzenie w Bansko :) "
 destinations: Bułgaria
+image: 429783551_2144233385916159_5929645920148031917_n_bczqpg
 featuredpath: cloudinary
 date: 2024-03-02T19:27:02.627Z
 type: post
