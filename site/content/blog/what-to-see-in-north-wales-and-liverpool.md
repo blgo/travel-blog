@@ -1,5 +1,5 @@
 ---
-title: What to see in North Wales and Liverpool?
+title: What to see in North Wales and Liverpool?  [video]
 description: Relaxed vlogging from visiting the best places in North Wales! Lush
   waterfall, amazing beach and colourful welsh towns! As a bonus a little bit of
   Royal Albert dock in Liverpool :)
