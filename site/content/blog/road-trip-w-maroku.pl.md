@@ -7,7 +7,7 @@ description: "Witajcie w moim ukochanym Maroku! Po wielu podróżach po Maroku, 
   wyjazdem kupiłam sportową kamerkę do kolegi :) Zapraszam zatem do filmiku o
   jakości nczym z lat 80tych, choć wyprawa wydarzyła się w 2022 :) "
 destinations: Maroko
-image: 20221013_140148_kstmho
+image: 435066376_981856303413386_3691459399846128851_n_hmeah9
 featuredpath: cloudinary
 date: 2023-03-26T19:32:03.613Z
 type: post
