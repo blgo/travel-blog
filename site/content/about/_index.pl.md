@@ -4,6 +4,7 @@ date: 2017-11-24
 ---
 Potrzebuję zmiany...
 KittyR ma długą historię (opisaną po krótce poniżej). Planuję robić video i posty z podróży bardziej regularnie i czuję, że czas zmienić nazwę na taką bardziej rezonującą ze mną obecnie.
+
 Co powiecie na Hop Hop Traveles? Tak jak hop on/wskakujesz do autobusu czy samolotu albo... tak jak nawołujesz kogoś w lesie: hej hej hop hop!  🧐 
 Dajcie znać co myślicie, ja z chęcią tworzę filmiki i zdjęcia, ale przecież przede wszystkim dla Waszej przyjemności! 💕
 
