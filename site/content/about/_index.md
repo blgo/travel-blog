@@ -3,6 +3,7 @@ title: About
 date: 2017-11-24
 ---
 I need a change... 
+
 KittyR has a long history background and as I am thinking of making videos more regularly and more pro, I guess it's time to change the account name into something rezonating better with myself these days and in direction I am heading towards.
 
 What would you say to Hop Hop travels?  As when you hop on... or call someone in the woods, hey hey hop hop! 🧐 
