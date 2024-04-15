@@ -4,7 +4,7 @@ description: How is it in Albania? Is it worth visiting? How about stray dogs?
   Is it all about rakija, food and... what else? A lovely trip to Albania, where
   I felt 'like at home'!
 destinations: Albania
-image: 371473196_167447086454272_64973943075933447_n_w1h9ab
+image: albania_thumbnail_tngexx
 featuredpath: cloudinary
 date: 2023-11-19T12:20:55.973Z
 type: post
