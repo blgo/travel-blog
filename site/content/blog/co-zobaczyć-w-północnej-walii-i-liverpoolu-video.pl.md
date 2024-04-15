@@ -3,6 +3,7 @@ title: Co zobaczyć w Północnej Walii i Liverpoolu? [video]
 description: Lużny vlog z wycieczki do Północnej Walii, a w nim wodospady, zamki
   i najlepsza plaża
 destinations: Wielka Brytania
+image: DSCF4612_-_frame_at_0m26s_fwo2mz
 featuredpath: cloudinary
 date: 2024-04-15T11:40:33.959Z
 type: post
