@@ -4,6 +4,7 @@ description: Relaxed vlogging from visiting the best places in North Wales! Lush
   waterfall, amazing beach and colourful welsh towns! As a bonus a little bit of
   Royal Albert dock in Liverpool :)
 destinations: United Kingdom
+image: DSCF4612_-_frame_at_0m26s_fwo2mz
 featuredpath: cloudinary
 date: 2024-04-15T11:23:33.562Z
 type: post
