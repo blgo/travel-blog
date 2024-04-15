@@ -7,7 +7,7 @@ description: Welcome to my beloved Morocco! After multiple travels there, it was
   and sport camera from my friend. Therefore enjoy the charm of video quality
   from the 80s, while the trip actually happened in 2022 :)
 destinations: Morocco
-image: 20221013_140148_kstmho
+image: 435066376_981856303413386_3691459399846128851_n_hmeah9
 featuredpath: cloudinary
 date: 2023-03-26T19:30:03.920Z
 type: post
