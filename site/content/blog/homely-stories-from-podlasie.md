@@ -10,6 +10,7 @@ description: Here is the second part of the film from my time in Poland. In this
   night. Enjoy watching  and please leave a comment, so I know if I should
   continue with making videos! 🙂
 destinations: Poland
+image: 450548532_466325862851427_8802639974848182385_n_xa6ubn
 featuredpath: cloudinary
 date: 2024-08-11T15:40:58.368Z
 type: post
