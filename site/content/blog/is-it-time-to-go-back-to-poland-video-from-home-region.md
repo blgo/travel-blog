@@ -5,6 +5,7 @@ description: What do I miss, what surprised me and what moved me when visiting
   Masovia? I invite you to watch and comment as I am genuinely interested what
   you think :)
 destinations: Poland
+image: 451632066_890304536457960_1081380216228470699_n_aa6kea
 featuredpath: cloudinary
 date: 2024-08-11T15:15:35.637Z
 type: post
