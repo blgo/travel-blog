@@ -9,6 +9,7 @@ description: Przed Wami druga część filmu z mojego pobytu w Polsce. W tej
   nagrać wyjących wilków, które słyszeliśmy w nocy. Zapraszam do oglądania i
   komentowania! 🙂
 destinations: Polska
+image: 450548532_466325862851427_8802639974848182385_n_xa6ubn
 featuredpath: cloudinary
 date: 2024-08-11T15:38:37.258Z
 type: post
