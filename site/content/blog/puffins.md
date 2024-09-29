@@ -8,6 +8,7 @@ description: "In this episode, I make my dream come true and go to see puffins!
   #davidattenborough #naturelovers #wales #visitskomer #birds #birdslover
   #dreambig #wildlifeanimals #puffin"
 destinations: United Kingdom
+image: IMG_9785_h8ywo8
 featuredpath: cloudinary
 date: 2024-09-27T13:55:39.592Z
 type: post
