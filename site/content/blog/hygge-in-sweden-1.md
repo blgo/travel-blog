@@ -30,3 +30,19 @@ language: en
 {{< fancybox "cloudinary" "20240907_170536_ccvfve" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "20240910_163937_ocgbgk" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20240910_212951_dm1stf" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20240910_105408_ajxwkq" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20240910_105803_oj9el1" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20240914_114604_tchefb" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20240911_155119_usgiwa" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF5741_u1xxwx" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF5800_kx24bz" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF5811_ytdehr" " undefined" "gallery" >}}
