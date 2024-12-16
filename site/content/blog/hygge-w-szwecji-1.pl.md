@@ -1,11 +1,11 @@
 ---
 title: Hygge w Szwecji
-description: "Jeżdżę do Szwecji odkąd byłem dzieckiem. Tak się złożyło, że
-  siostra mojej babci wyszła za Szweda i tak się zaczęło... Szwecja i Norwegia
-  zagościły w moim sercu, kiedy byłam małym dzieckiem! Dzisiaj zabieram Was do
-  Szwecji, kraju o niesamowitej naturze - jeziorach, lasach i dzikiej
-  przyrodzie. Wybierzemy się na prawdziwie skandynawską wyprawę wędkarską i
-  pokażę Wam, dlaczego Szwecja jest rajem dla miłośników natury :) "
+description: "Jeżdżę do Szwecji od dziecka. Tak się złożyło, że siostra mojej
+  babci poslubila Szweda i tak się zaczęło... Szwecja i Norwegia zagościły w
+  moim sercu na zawsze. Dzisiaj zabieram Was do Szwecji, kraju o niesamowitej
+  naturze - jeziorach, lasach i dzikiej przyrodzie. Wybierzemy się na prawdziwie
+  skandynawską wyprawę wędkarską i pokażę Wam, dlaczego Szwecja jest rajem dla
+  miłośników natury :) "
 destinations: Szwecja
 image: 20240908_171353_pzfg57
 featuredpath: cloudinary
