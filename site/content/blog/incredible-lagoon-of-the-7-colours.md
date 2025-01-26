@@ -15,20 +15,28 @@ language: en
 ---
 <br>{{< youtube D8sjC2Tvvn4 >}}</br>
 
-{{< fancybox "cloudinary" "20250112_140414_bn07ky" " " "gallery" >}}
+{{< fancybox "cloudinary" "DJI_0025_whazpz" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250112_124211_hwpeeh" " " "gallery" >}}
+{{< fancybox "cloudinary" "DJI_0029_ue6aru" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250112_140414_bn07ky" " " "gallery" >}}
+{{< fancybox "cloudinary" "DJI_0026_wmezmz" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250110_192646_aczrjm" " " "gallery" >}}
+{{< fancybox "cloudinary" "DJI_0027_cjh6s7" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250111_210446_dweieo" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250112_140414_bn07ky" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250114_151948_ukcng2" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250112_124211_hwpeeh" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250111_213351_qbzptb" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250112_140414_bn07ky" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250114_160741_dhpoc0" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250110_192646_aczrjm" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250111_210446_dweieo" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250114_151948_ukcng2" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250111_213351_qbzptb" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250114_160741_dhpoc0" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" "  " "gallery" >}}
