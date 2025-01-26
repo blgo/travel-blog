@@ -18,26 +18,26 @@ My dream became reality today and expectations were exceeded as we had the cenot
 
 <br>{{< youtube hvc8aJBvlCE >}}</br>
 
-{{< fancybox "cloudinary" "20250109_102300_rbj6m7" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_102300_rbj6m7" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_123458_qz7zei" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_123458_qz7zei" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_105457_m9czne" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_105457_m9czne" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_102044_ottylb" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_102044_ottylb" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_105711_bcdftc" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_105711_bcdftc" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_123455_pzbsn6" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_123455_pzbsn6" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_123458_qz7zei" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_123458_qz7zei" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_120524_g3rjc9" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_120524_g3rjc9" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_123754_s83clv" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_123754_s83clv" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_142643_pyu5lv" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_142643_pyu5lv" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_123814_tnqnvx" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_123814_tnqnvx" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250109_124330_mgx8zr" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250109_124330_mgx8zr" "  " "gallery" >}}
