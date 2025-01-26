@@ -14,12 +14,12 @@ language: en
 ---
 <br>{{< youtube LmBYkWI-LFk >}}</br>
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250104_003323_vmlase" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250104_141446_em0eou" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250104_141356_aqkvx6" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "   undefined" "gallery" >}}
