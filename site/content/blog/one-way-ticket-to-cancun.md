@@ -5,6 +5,7 @@ description: "Hello! Today I invite you to the first episode that begins our
   the gateway to Central America!  #cancun #oneway #travelvlog #mexico #meksyk
   #amerykacentralna #podróże #kittyrtravels #latinoamerica"
 destinations: Mexico
+image: 473821517_3822593504621767_7039605669404449792_n_ub9g97
 featuredpath: cloudinary
 date: 2025-01-21T19:01:14.933Z
 type: post
