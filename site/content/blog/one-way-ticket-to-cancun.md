@@ -12,14 +12,14 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-<br>{{< youtube Yc-AT_VQLzqrqQKF >}}</br>
+<br>{{< youtube LmBYkWI-LFk >}}</br>
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
