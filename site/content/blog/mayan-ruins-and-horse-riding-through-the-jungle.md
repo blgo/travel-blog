@@ -20,27 +20,28 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
+{{< fancybox "cloudinary" "20250126_154305_vtbhsh" " " "gallery" >}}
+
 <br>{{< youtube  >}}</br>
 
-{{< fancybox "cloudinary" "DSCF6181_k7sjjb" " " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6181_k7sjjb" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF6160_u5y2xf" " " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6160_u5y2xf" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF6177_bm0yac" " " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6177_bm0yac" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF6173_xfsnw4" " " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6173_xfsnw4" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250125_103422_ugi5m1" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250125_103422_ugi5m1" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250127_110055_tz08fj" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250127_110055_tz08fj" "   undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF6161_bbpmhl" " " "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6161_bbpmhl" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250125_094656_hldggd" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250125_094656_hldggd" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250126_154626_frskwq" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250126_154626_frskwq" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250127_121317_wnohs3" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250127_121317_wnohs3" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250127_131902_utcahh" " " "gallery" >}}
-
+{{< fancybox "cloudinary" "20250127_131902_utcahh" "   " "gallery" >}}
