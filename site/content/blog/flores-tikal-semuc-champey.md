@@ -13,7 +13,7 @@ description: "This is the first city in Guatemala we visit. We stayed in the
   #dronefootage #dronevideo #flores #tikal #howlermonkey #wyjec #gwatemala
   #indykperlowy #mrowkojad #anteater #rainforest #jungle #lasdeszczowy #mayans"
 destinations: Guatemala
-image: 20250201_161809_an1hbt
+image: 20250201_161809_wdmnht
 featuredpath: cloudinary
 date: 2025-02-22T03:48:39.701Z
 type: post
