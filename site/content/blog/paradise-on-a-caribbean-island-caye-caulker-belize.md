@@ -13,18 +13,30 @@ language: en
 ---
 <br>{{< youtube hdO7pM0aFjk >}}</br>
 
-{{< fancybox "cloudinary" "20250118_122719_ru2bzv" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250117_125106_akzvpk" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250118_155444_rwgjok" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250117_124257_nxclk5" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250118_122719_ru2bzv" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250118_155444_rwgjok" "  " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250118_124304_pbi0zo" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250118_124344_ll1euu" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250118_124344_ll1euu" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250117_125106_akzvpk" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250118_121954_bh15gi" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250117_144306_z5mqs4" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250118_122205_smw0td" "  " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250117_155227_d2rzlr" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250117_212204_mdqdum" "  undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250117_133508_gplrhb" "  undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250117_133121_vhfssn" "  undefined" "gallery" >}}
