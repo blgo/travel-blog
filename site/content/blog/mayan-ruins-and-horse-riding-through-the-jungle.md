@@ -20,9 +20,9 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-{{< fancybox "cloudinary" "20250126_154305_vtbhsh" " " "gallery" >}}
+<br>{{< youtube undefined >}}</br>
 
-<br>{{< youtube  >}}</br>
+{{< fancybox "cloudinary" "20250126_154305_vtbhsh" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "DSCF6181_k7sjjb" "   " "gallery" >}}
 
@@ -45,3 +45,9 @@ language: en
 {{< fancybox "cloudinary" "20250127_121317_wnohs3" "   " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250127_131902_utcahh" "   " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250125_103003_wvcd1e" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250125_095408_v13hgt" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
