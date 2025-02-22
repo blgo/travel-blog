@@ -13,7 +13,7 @@ description: "Flores. To pierwsze miasto w Gwatemali, do którego trafiamy.
   #dronevideo #belizetravel #travelvlog #centralamericatravel #dronevideo
   #drones"
 destinations: Gwatemala
-image: 20250201_161809_an1hbt
+image: 20250201_161809_wdmnht
 featuredpath: cloudinary
 date: 2025-02-22T03:57:00.509Z
 type: post
