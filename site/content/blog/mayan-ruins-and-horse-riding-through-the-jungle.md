@@ -50,4 +50,4 @@ language: en
 
 {{< fancybox "cloudinary" "20250125_095408_v13hgt" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250125_103422_oqxnuj" " " "gallery" >}}
