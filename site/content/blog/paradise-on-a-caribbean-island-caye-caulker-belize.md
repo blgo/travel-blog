@@ -4,6 +4,7 @@ description: Crystal-clear waters, white sands, and endless island
   vibes—experience the magic of the Caribbean with me.  Get ready for pure
   tropical bliss with us and Go slow!
 destinations: Belize
+image: 20250122_163646_y33i4f
 featuredpath: cloudinary
 date: 2025-02-22T02:39:17.571Z
 type: post
