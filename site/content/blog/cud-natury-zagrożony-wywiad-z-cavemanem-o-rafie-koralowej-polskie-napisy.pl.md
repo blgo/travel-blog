@@ -9,6 +9,7 @@ description: "#Caveman to niezwykły człowiek, który urzekł mnie swoją wiedz
   możemy zrobić dla rafy koralowej i zwierząt tu żyjących. Bardzo polecam
   wysłuchać rozmowę z tym niezwykle ciekawym człowiekiem! "
 destinations: Belize
+image: 475750737_1162136778807662_3647812381440702709_n_qndzha
 featuredpath: cloudinary
 date: 2025-02-22T03:21:09.386Z
 type: post
