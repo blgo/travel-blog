@@ -4,6 +4,7 @@ description: Krystalicznie czyste wody, białe piaski i niekończące się
   wyspiarskie klimaty — doświadcz magii Karaibów ze mną. Przygotuj się na czystą
   tropikalną błogość z nami i Go slow!
 destinations: Belize
+image: 20250122_163646_y33i4f
 featuredpath: cloudinary
 date: 2025-02-22T02:56:09.305Z
 type: post
