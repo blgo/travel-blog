@@ -12,6 +12,7 @@ description: "San Ignacio, a border town in Belize, from which, in good weather,
   #dronevideo #belizetravel #travelvlog #centralamericatravel #dronevideo
   #drones"
 destinations: Belize
+image: DSCF6180_ckk1h4
 featuredpath: cloudinary
 date: 2025-02-22T03:23:13.773Z
 type: post
@@ -19,3 +20,18 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
+<br>{{< youtube  >}}</br>
+
+{{< fancybox "cloudinary" "DSCF6181_k7sjjb" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF6160_u5y2xf" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF6177_bm0yac" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF6173_xfsnw4" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250125_103422_ugi5m1" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250127_110055_tz08fj" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "DSCF6161_bbpmhl" " undefined" "gallery" >}}
