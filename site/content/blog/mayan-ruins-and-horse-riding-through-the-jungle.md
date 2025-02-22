@@ -34,4 +34,13 @@ language: en
 
 {{< fancybox "cloudinary" "20250127_110055_tz08fj" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "DSCF6161_bbpmhl" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "DSCF6161_bbpmhl" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250125_094656_hldggd" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250126_154626_frskwq" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250127_121317_wnohs3" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250127_131902_utcahh" " " "gallery" >}}
+
