@@ -21,36 +21,36 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-<br>{{< youtube undefined >}}</br>
+<br>{{< youtube HmuBjohgjko >}}</br>
 
-{{< fancybox "cloudinary" "20250129_105448_srvzbk" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_105448_srvzbk" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250129_112738_ur1vta" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_112738_ur1vta" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250129_113628_ebvj7l" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_113628_ebvj7l" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250131_072959_xkwjpo" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250131_072959_xkwjpo" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250129_114235_fcdfmx" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_114235_fcdfmx" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250129_105502_n7byf9" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_105502_n7byf9" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250129_115413_kfvcak" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250129_115413_kfvcak" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_105205_cx0sss" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_105205_cx0sss" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_105237_qcjlfy" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_105237_qcjlfy" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_170856_swfink" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_170856_swfink" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_105212_xuvjtb" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_105212_xuvjtb" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_161809_an1hbt" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_161809_an1hbt" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_105325_eepagf" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_105325_eepagf" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_112512_jytmo9" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_112512_jytmo9" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_105831_qijxv2" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_105831_qijxv2" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250201_172529_eg4hkg" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250201_172529_eg4hkg" "  " "gallery" >}}
