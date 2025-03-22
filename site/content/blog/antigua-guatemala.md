@@ -12,7 +12,7 @@ language: en
 ---
 <!--StartFragment-->
 
-Gwatemala. Przepiękne w swej prostocie miasteczko u podnóży aktywnych wulkanòw: Volcán de Agua, Acatenango, i Volcán de Fuego . Niezwykłe widoki i rześkie powietrze zachwycają nas nieustannie🌋 Jak tylko wysiadłam z autobusu to pomyślałam, że tu odpocznę, ale los zaserwował nam inny plan. Od dnia przyjazdu stoczyliśmy walkę z pchłami (wygranej po wizycie u lekarza), opadliśmy z sił z powodu.... (walka trwa), byliśmy w dwóch szpitalach z których wyszłam bez diagnozy, ale z receptą na migreny i elektrolity. A i tak największym przeżyciem w tym wszystkim było trzęsienie ziemi! A to wszystko w zaledwie 48h. Kolejne dni mijały na spacerach, jedzeniu, wizycie w muzeum i drzemkach. A później, w drugiej części, udało się nam nawet zapisać do szkoły hiszpañskiego. Tak to czasem w tych podróżach bywa. Na szczęście zachwyt miasteczkiem trwa i zostanie w moim serduszku na długo 💕 może kiedyś tu wrócę i jednak wejdę na jakiś wulkan?
+Antigua Guatemala. A town beautifully simple at the foot of active volcanoes: Volcán de Agua, Acatenango, and Volcán de Fuego. The extraordinary views and fresh air delight us constantly🌋 As soon as I got off the bus, I thought I would rest here, but fate had a different plan for us. From the day we arrived, we fought a battle with fleas (which we won after visiting a doctor), we lost our strength due to ... (the fight continues), we were in two hospitals from which I left without a diagnosis, but with a prescription for migraines and electrolytes. And the biggest experience of all this was the earthquake! And all this in 48 hours. The next days passed on walks, eating, visiting a museum and naps. And later, in the second part, we even managed to sign up for a Spanish school. That's how it sometimes is on these trips. Fortunately, the delight with the town lasts and will remain in my heart for a long time 💕 maybe I will come back here someday and climb a volcano? #antiguaguatemala #guatemalatravel #gwatemala #dronevideo #dronefootage #volcanology #spanishlessons #amerykacentralna #hiszpańskidlapoczątkujących #podróże #latinamerica #earthquake #kittyr #trzęsienieziemi
 
 <!--EndFragment-->
 
@@ -25,52 +25,52 @@ But! My dears, even more often than the above, I think about how wonderful the p
 
 <!--EndFragment-->
 
-{{< fancybox "cloudinary" "DJI_0487_yt5r6s" " " "gallery" >}}
+{{< fancybox "cloudinary" "DJI_0487_yt5r6s" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250303_175152_wuw3wa" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250303_175152_wuw3wa" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250301_103131_a2ehad" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250301_103131_a2ehad" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250302_123527_ue6442" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250302_123527_ue6442" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250228_175841_afed8o" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250228_175841_afed8o" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250303_155715_hmksvx" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250303_155715_hmksvx" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250228_173816_viwo5c" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250228_173816_viwo5c" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250228_173301_nwkpqa" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250228_173301_nwkpqa" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250222_124731_hebd3e" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250222_124731_hebd3e" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250222_124634_kqnsju" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250222_124634_kqnsju" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250221_175434_nyd51m" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250221_175434_nyd51m" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250221_170037_wafhef" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250221_170037_wafhef" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250220_150607_kom5j2" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250220_150607_kom5j2" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250220_161223_s3yopt" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250220_161223_s3yopt" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250205_101719_uhiusw" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250205_101719_uhiusw" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250206_180439_gboyij" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250206_180439_gboyij" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250204_120505_jbecp7" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250204_120505_jbecp7" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250206_103927_ehj4b5" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250206_103927_ehj4b5" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250207_102324_qpzh9h" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250207_102324_qpzh9h" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250205_124918_k3u2hx" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250205_124918_k3u2hx" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250205_114248_sfkogo" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250205_114248_sfkogo" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250203_172953_vlykbw" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250203_172953_vlykbw" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250203_170525_twqawy" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250203_170525_twqawy" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250203_115014_coixnv" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250203_115014_coixnv" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250203_111826_fwbukr" " " "gallery" >}}
+{{< fancybox "cloudinary" "20250203_111826_fwbukr" "  " "gallery" >}}
