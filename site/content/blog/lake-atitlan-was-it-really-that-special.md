@@ -42,3 +42,23 @@ San Pedro de Laguna on Lake Atitlan. I have had very mixed feelings since we arr
 {{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250213_123440_umbiwp" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250213_123443_ik3hut" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250213_123428_jkdudx" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250212_101455_s53bdl" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250211_181848_tfghta" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250211_151246_nmgnfl" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250211_151055_xkzqo2" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250211_102147_wy5yco" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250210_113237_fmhv34" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250209_215657_jgsca1" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250209_142747_lu3lcg" " " "gallery" >}}
