@@ -40,3 +40,17 @@ language: en
 {{< fancybox "cloudinary" "20250309_160608_yqgq2m" "  " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250309_134425_yf53ub" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250306_185101_xupu05" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250309_134206_shbj7s" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250308_180351_hejmcc" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250307_165613_url5jv" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250306_143825_qjlvgs" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250306_180309_hxuhj2" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250308_174315_sb5r9o" " undefined" "gallery" >}}
