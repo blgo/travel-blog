@@ -5,6 +5,7 @@ description: "until recently, it was a country with one of the highest murder
   today and what totally surprised me? And of course, what do you like the most,
   so I will give you the prices, in other words, enjoy the video "
 destinations: Salvador
+image: 20250306_151510_ebgjod
 featuredpath: cloudinary
 date: 2025-03-30T21:27:15.086Z
 type: post
@@ -12,32 +13,30 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-
-
 <br>{{< youtube qyUQdArJpTs >}}</br>
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250314_173905_jorday" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250312_235654_y9sm0b" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250312_141033_u7iroj" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250314_125024_udfe9u" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250313_192111_eqendi" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250310_221829_lxp52w" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250312_213834_pk6ptr" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250310_175448_ydp2ck" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250310_163016_mi2hrw" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250309_160942_tvmahu" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250310_163616_rnhm0f" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250309_160608_yqgq2m" "  " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250309_134425_yf53ub" " " "gallery" >}}
