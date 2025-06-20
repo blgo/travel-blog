@@ -4,6 +4,7 @@ description: "In today's episode, total madness:      Manuel Antonio National
   Park in Costa Rica     cages for people     wild animals     night walk in the
   jungle"
 destinations: Costa Rica
+image: 20250329_074734_v407hy
 featuredpath: cloudinary
 date: 2025-06-20T04:39:56.547Z
 type: post
