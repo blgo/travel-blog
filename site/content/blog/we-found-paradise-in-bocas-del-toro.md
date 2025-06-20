@@ -56,3 +56,7 @@ language: en
 {{< fancybox "cloudinary" "20250406_172255_yvmobx" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250406_161757_qwm5na" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250407_094750_mpms99" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250407_123601_htoyau" " undefined" "gallery" >}}
