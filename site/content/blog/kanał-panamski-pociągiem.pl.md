@@ -3,6 +3,7 @@ title: "Kanał Panamski pociągiem! "
 description: "W dzisiejszym odcinku spełniamy marzenie Tomka i jedziemy
   pociągiem od Pacyfiku do Atlantyku wzdłuż Kanału Panamskiego! "
 destinations: Panama
+image: 20250412_095502_lr3iwt
 featuredpath: cloudinary
 date: 2025-06-20T06:40:38.785Z
 type: post
