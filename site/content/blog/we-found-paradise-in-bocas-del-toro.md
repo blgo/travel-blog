@@ -34,3 +34,25 @@ language: en
 {{< fancybox "cloudinary" "20250403_125211_b7lmap" "  undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250403_121816_tdavlt" "  undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250403_125557_f2vlqn" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250403_133732_tshrju" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250403_142157_tgykc1" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250403_233433_pq1opt" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250404_120324_eso1te" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250404_120242_yrtucq" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250406_123940_kpadfa" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250406_161845_xcpvv0" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250404_123839_gpphrp" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250406_172255_yvmobx" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250406_161757_qwm5na" " undefined" "gallery" >}}
