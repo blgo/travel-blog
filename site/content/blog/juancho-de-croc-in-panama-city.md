@@ -4,6 +4,7 @@ description: "Is Panama City the Dubai of Central America? I invite you to a
   casual vlog from Panama City. There will be skyscrapers, a crocodile, a walk
   around the city and Colombian coffee. "
 destinations: Panama
+image: 20250412_165414_kygfyf
 featuredpath: cloudinary
 date: 2025-06-20T06:14:56.372Z
 type: post
@@ -34,3 +35,9 @@ language: en
 {{< fancybox "cloudinary" "20250411_144107_y5wuny" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250412_142849_c7abu7" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250412_182923_epdnev" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250412_165414_kygfyf" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250412_211420_saukjh" " " "gallery" >}}
