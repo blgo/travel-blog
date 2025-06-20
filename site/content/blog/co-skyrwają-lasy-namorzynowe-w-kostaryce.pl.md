@@ -1,5 +1,5 @@
 ---
-title: Co skyrwają lasy namorzynowe w Kostaryce?
+title: Co skrywają lasy namorzynowe w Kostaryce?
 description: "W dzisiejszym odcinku popłyniemy łódką przez lasy namorzynowe w
   Kostaryce. Zobaczymy różne zwierzęta jak krokodyle, małpy, jaszczurki i wiele
   innych. Pojedziemy najlepszą taksówką na świecie po plaży, by uczestniczyć w
