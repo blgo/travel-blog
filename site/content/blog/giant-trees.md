@@ -47,6 +47,8 @@ American dream. Man all his life watched American films, drank Cola, wore jeans 
 
 {{< fancybox "cloudinary" "20250420_151345_eepk12" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250419_142645_som0iy" " undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250419_174326_fnh9sr" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250421_171725_bggach" " undefined" "gallery" >}}
