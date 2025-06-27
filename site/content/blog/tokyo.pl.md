@@ -1,5 +1,5 @@
 ---
-title: "Tokyo "
+title: Marzyłam o Tokyo!
 destinations: Japonia
 featuredpath: cloudinary
 date: 2025-06-27T04:00:40.476Z
