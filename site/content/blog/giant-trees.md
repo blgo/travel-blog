@@ -19,36 +19,46 @@ American dream. Man all his life watched American films, drank Cola, wore jeans 
 
 <br>{{< youtube undefined >}}</br>
 
-{{< fancybox "cloudinary" "20250420_173220_fxcbz7" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_173220_fxcbz7" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_173734_nvdv6z" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_173734_nvdv6z" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_174702_w885xk" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_174702_w885xk" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_175147_jsyqgf" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_175147_jsyqgf" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_171827_netxcq" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_171827_netxcq" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_180710_r94ypu" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_180710_r94ypu" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_182014_uqbnvn" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_182014_uqbnvn" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_182026_woy3oy" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_182026_woy3oy" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_182100_qcq0ty" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_182100_qcq0ty" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_191546_kj6nxg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_191546_kj6nxg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_182030_otvkfx" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_182030_otvkfx" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_191633_ellbmw" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_191633_ellbmw" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_180527_c8njzh" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_180527_c8njzh" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250420_151345_eepk12" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250420_151345_eepk12" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250419_142645_som0iy" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250419_142645_som0iy" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250419_174326_fnh9sr" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250419_174326_fnh9sr" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250421_171725_bggach" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250421_171725_bggach" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250421_171725_bggach" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250420_192949_j3qyow" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250420_192422_ysbfdg" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250420_182725_tvxxgq" " " "gallery" >}}
+
+{{< fancybox "cloudinary" "20250420_191549_kok8iw" " " "gallery" >}}
