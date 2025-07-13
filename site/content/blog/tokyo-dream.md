@@ -1,6 +1,7 @@
 ---
 title: Tokyo dream
 destinations: Japan
+image: 20250430_121536_jewwd9
 featuredpath: cloudinary
 date: 2025-06-27T03:58:15.689Z
 type: post
