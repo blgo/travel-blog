@@ -15,6 +15,7 @@ description: "Z Tokyo pojechaliśmy do Osaki. Tam po raz pierwszy zmagam się z
   wydarzeń (tak jakbyśmy mogli udźwignąć więcej wrażeń?): koncert jazzowy w
   świątyni buddyjskiej! Seriously, co jeszcze ten świat nam pokaże? "
 destinations: Japonia
+image: 20250503_163448_0_ax8evn
 featuredpath: cloudinary
 date: 2025-07-13T05:49:47.043Z
 type: post
