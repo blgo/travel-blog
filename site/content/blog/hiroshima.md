@@ -1,5 +1,5 @@
 ---
-title: Hiroshima and forest bath
+title: Hiroshima and forest bathing
 description: "Today's episode may be a bit triggering as we visit Hiroshima and
   the museum. Second half of the video is way more relaxing as I take you in the
   nature for forest bathing. We visit buddist temple deep in the forest. "
