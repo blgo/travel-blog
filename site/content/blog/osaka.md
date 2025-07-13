@@ -104,4 +104,6 @@ language: en
 
 {{< fancybox "cloudinary" "20250430_140133_ze0ub5" " " "gallery" >}}
 
+
+
 {{< fancybox "cloudinary" "20250501_202928_u3jjlw" " " "gallery" >}}
