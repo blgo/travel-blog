@@ -1,5 +1,20 @@
 ---
 title: OSAKA
+description: "From Tokyo, we went to Osaka. For the first time, I struggled with
+  being refused entry to a restaurant because I was a foreigner. But I found
+  other options, where I was warmly welcomed, so it was fine. Tired of the city,
+  we headed out of town for a good forest bath. We walked along the river and
+  through a thousand shades of green to a Buddhist monastery somewhere in the
+  mountains. Along the way, we passed small Buddhist shrines, and at our
+  destination, I lit a candle and incense. After using Google Translate, it
+  turned out it was for good luck on my exams, so if anyone needs it, let me
+  know, because my intentions were different, and I've already passed my final
+  exams. On the way back, we got lost, but unintentionally hitchhiked with a
+  very nice Japanese woman who had the most beautiful laugh in the world! She
+  dropped us off in town, and it was a quick ride home. We arrived again proudly
+  as Chopin's descendants. A fantastic adventure! And the cherry on top (as if
+  we could handle any more excitement?): a jazz concert at a Buddhist temple!
+  Seriously, what else will this world show us?"
 destinations: Japan
 image: 20250503_163448_0_ax8evn
 featuredpath: cloudinary
