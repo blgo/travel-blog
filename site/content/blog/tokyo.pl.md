@@ -21,50 +21,50 @@ I jeszcze jedzenie. Co to są za smaki wspaniałe; od grillowanej makreli, tatar
 
 {{< fancybox "cloudinary" "20250429_205609_wecpgl" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_214109_gclkog" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_214109_gclkog" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250430_121600_fwvbse" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250430_121600_fwvbse" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_185555_wd4afo" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_185555_wd4afo" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_204055_gvv63g" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_204055_gvv63g" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_165334_qs9gkk" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_165334_qs9gkk" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_164438_vfhcwe" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_164438_vfhcwe" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_164536_rzcdho" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_164536_rzcdho" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250428_165412_f31pq2" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250428_165412_f31pq2" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250428_164302_glkz4u" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250428_164302_glkz4u" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250428_164254_gcwxb8" "  undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250428_164254_gcwxb8" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_134700_xr4wfh" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_134700_xr4wfh" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250429_142921_cxygeq" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250429_142921_cxygeq" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250428_160724_or3nhi" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250428_160724_or3nhi" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_220000_ouuph8" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_220000_ouuph8" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250428_160526_bouiim" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250428_160526_bouiim" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250427_162635_onycl8" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250427_162635_onycl8" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250427_124424_r5826n" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250427_124424_r5826n" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250427_133713_fpfwi3" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250427_133713_fpfwi3" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_183854_lxhtxw" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_183854_lxhtxw" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_190529_p93ieq" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_190529_p93ieq" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_190311_mtz93n" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_190311_mtz93n" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_205330_q9tqfa" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_205330_q9tqfa" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_182645_tiwjrs" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_182645_tiwjrs" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250426_203530_bxf5jc" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250426_203530_bxf5jc" " " "gallery" >}}
