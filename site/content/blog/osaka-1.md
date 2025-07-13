@@ -1,6 +1,7 @@
 ---
 title: OSAKA
 destinations: Japan
+image: 20250503_163448_0_ax8evn
 featuredpath: cloudinary
 date: 2025-07-13T12:10:34.140Z
 type: post
