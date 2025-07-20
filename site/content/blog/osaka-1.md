@@ -24,10 +24,7 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: en
 ---
-<!--StartFragment-->
-
-\
-{{< youtube >}}
+<br>{{< youtube XONFlEuW-dk >}}</br>
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/20250504_154852_oy5cni)
 
