@@ -1,5 +1,5 @@
 ---
-title: OSAKA
+title: Osaka w rytmie jazz
 description: "Z Tokyo pojechaliśmy do Osaki. Tam po raz pierwszy zmagam się z
   niewpuszczeniem do knajpy, ponieważ jestem obcokrajowcem. Ale znajduję inne
   opcje, gdzie mnie przyjmują miło, więc jest dobrze. Zmęczeni miastem, jedziemy
