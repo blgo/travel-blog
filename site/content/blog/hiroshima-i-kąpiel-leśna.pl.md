@@ -1,6 +1,7 @@
 ---
 title: Hiroshima i kąpiel leśna
 destinations: Japonia
+image: th12345546855_dgszsg
 featuredpath: cloudinary
 date: 2025-07-13T12:34:48.474Z
 type: post
