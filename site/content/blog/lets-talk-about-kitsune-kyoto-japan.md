@@ -8,7 +8,7 @@ description: In today's episode, I'm taking you to Kyoto. We'll visit a famous
   in the evening. We start with a classic vlog, a coffee break, and a journey
   from Osaka to Kyoto! Enjoy! :)
 destinations: Japan
-image: 20250508_152353_h8blzx
+image: 20250508_163238_ns3pjw
 featuredpath: cloudinary
 date: 2025-08-03T03:46:50.866Z
 type: post
