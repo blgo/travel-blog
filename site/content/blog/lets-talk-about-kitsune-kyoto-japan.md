@@ -26,52 +26,52 @@ In today's episode, I'm taking you to Kyoto. We'll visit a famous sacred site, w
 
 <br>{{< youtube undefined >}}</br>
 
-{{< fancybox "cloudinary" "20250507_111451_m1pygb" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250507_111451_m1pygb" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_152221_pjbjbj" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_152221_pjbjbj" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250507_173938_a3rekg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250507_173938_a3rekg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250504_211332_bna2d3" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250504_211332_bna2d3" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250507_182611_tmzhot" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250507_182611_tmzhot" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_152222_vvngpr" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_152222_vvngpr" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_152352_nkqzar" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_152352_nkqzar" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_152346_leh9f2" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_152346_leh9f2" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_161650_xgkxz3" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_161650_xgkxz3" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_160506_glj2bg" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_160506_glj2bg" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_152958_wrlfsh" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_152958_wrlfsh" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_153831_x6hd1c" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_153831_x6hd1c" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_155640_ljmhkd" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_155640_ljmhkd" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_153016_vltbeo" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_153016_vltbeo" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_162305_whdbfs" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_162305_whdbfs" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_162000_cbqfcs" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_162000_cbqfcs" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_162351_d76o1x" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_162351_d76o1x" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_163124_dfppz0" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_163124_dfppz0" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_163238_ns3pjw" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_163238_ns3pjw" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250509_151441_jdwq3y" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250509_151441_jdwq3y" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_185910_dcuj2o" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_185910_dcuj2o" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_200029_zagz0a" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_200029_zagz0a" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_185820_aa9cju" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_185820_aa9cju" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_182022_bwnqvj" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_182022_bwnqvj" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250508_182018_urykqk" " undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250508_182018_urykqk" " " "gallery" >}}
