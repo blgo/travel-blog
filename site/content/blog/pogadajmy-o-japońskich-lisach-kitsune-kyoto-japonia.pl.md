@@ -8,7 +8,7 @@ description: "W dzisiejszym odcinku zabieram Was do Kyoto. Odwiedzimy słynne
   klimatyczne miejsca wieczorem. Zaczynamy od klasycznej vlogowej kawusi i
   podróży z Osaki do Kyoto! Zapraszam :) "
 destinations: Japonia
-image: 20250508_152353_h8blzx
+image: 20250508_163238_ns3pjw
 featuredpath: cloudinary
 date: 2025-08-03T04:00:25.717Z
 type: post
