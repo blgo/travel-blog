@@ -4,6 +4,7 @@ description: "Today's episode may be a bit triggering as we visit Hiroshima and
   the museum. Second half of the video is way more relaxing as I take you in the
   nature for forest bathing. We visit buddist temple deep in the forest. "
 destinations: Japan
+image: th12345546855_dgszsg
 featuredpath: cloudinary
 date: 2025-07-13T12:19:55.371Z
 type: post
