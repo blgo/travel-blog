@@ -16,6 +16,8 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
+<br>{{< youtube _jqyIgYKiK0 >}}</br>
+
 <!--StartFragment-->
 
 <!--StartFragment-->
@@ -27,8 +29,6 @@ W dzisiejszym odcinku zabieram Was do Kyoto. Odwiedzimy słynne święte miejsce
 <!--EndFragment-->
 
 <!--EndFragment-->
-
-![Youtube Video](http://img.youtube.com/vi/undefined/0.jpg)
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/20250507_111451_m1pygb)
 
