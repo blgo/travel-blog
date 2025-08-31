@@ -10,9 +10,9 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-<!--StartFragment-->
+<br>{{< youtube IMPcYJ2Udm0 >}}</br>
 
-![Youtube Video](http://img.youtube.com/vi/undefined/0.jpg)
+<!--StartFragment-->
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/20250513_143307_ufudbo)
 
