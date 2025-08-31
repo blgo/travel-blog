@@ -2,6 +2,7 @@
 title: Życie w podróży w Kyoto, czyli o tym co jemy i robimy
 description: Życie w podróży w Kyoto, czyli o tym co jemy i robimy w Japonii
 destinations: Japonia
+image: 20250511_162033_dassvz
 featuredpath: cloudinary
 date: 2025-08-31T05:45:58.490Z
 type: post
