@@ -2,6 +2,7 @@
 title: Welcome to Phillippines - Bohol Island
 description: ""
 destinations: Phillippines
+image: 20250521_164315_x4sqsh
 featuredpath: cloudinary
 date: 2025-08-31T05:50:46.540Z
 type: post
