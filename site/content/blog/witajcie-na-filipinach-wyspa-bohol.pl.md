@@ -1,5 +1,5 @@
 ---
-title: Witajcie na Filipinach - wyspa Bohol
+title: Hanys na Filipinach - wyspa Bohol
 destinations: Filipiny
 image: 20250521_164315_x4sqsh
 featuredpath: cloudinary
