@@ -20,30 +20,30 @@ The Philippines. First impressions. We flew here straight from Japan, so the cul
 
 <!--EndFragment-->
 
-<br>{{< youtube undefined >}}</br>
+<br>{{< youtube SU41Ni-xPow >}}</br>
 
-{{< fancybox "cloudinary" "20250519_133040_oitgpx" "    undefined" "gallery" >}}
+{{< fancybox "cloudinary" "20250519_133040_oitgpx" "     undefined" "gallery" >}}
 
-{{< fancybox "cloudinary" "20250519_232204_kbigjm" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250519_232204_kbigjm" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250519_132250_vj0x9g" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250519_132250_vj0x9g" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250519_161911_ihddup" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250519_161911_ihddup" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250519_160157_tncfhe" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250519_160157_tncfhe" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250519_132241_ayu1u6" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250519_132241_ayu1u6" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250515_103555_kescyw" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250515_103555_kescyw" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250517_100058_xumtdj" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250517_100058_xumtdj" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250515_104222_rwivan" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250515_104222_rwivan" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250517_200549_q6uzyj" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250517_200549_q6uzyj" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250517_200446_c8vswt" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250517_200446_c8vswt" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250517_104452_kv4heh" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250517_104452_kv4heh" "   " "gallery" >}}
 
-{{< fancybox "cloudinary" "20250521_164256_lpmiok" "  " "gallery" >}}
+{{< fancybox "cloudinary" "20250521_164256_lpmiok" "   " "gallery" >}}
