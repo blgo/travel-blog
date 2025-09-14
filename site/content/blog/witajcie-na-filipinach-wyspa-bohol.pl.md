@@ -17,9 +17,9 @@ Filipiny. Pierwsze wrażenia. Przylecieliśmy tu prosto z Japonii, więc szok ku
 
 <!--EndFragment-->
 
-![Youtube Video](http://img.youtube.com/vi/undefined/0.jpg)
 
-![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/20250519_133040_oitgpx)
+
+<br>{{< youtube SU41Ni-xPow >}}</br>
 
 undefined
 
