@@ -13,15 +13,15 @@ author: Kitty R.
 featuredalt: Image hosted by Cloudinary
 language: pl
 ---
-
-
 <!--StartFragment-->
 
 W dzisiejszym odcinku jedziemy w gościnę i zamieszkujemy w domku w środku dżungli na Fiipińskiej wyspie Negros. Jest dzika przyroda i klimat jak z filmów przyrodniczych. Jedziemy na lokalny targ i zaznajemy niewiarygodnego relaksu wśród wiecznie głośnego lasu deszczowego.
 
 <!--EndFragment-->
 
-![Youtube Video](http://img.youtube.com/vi/undefined/0.jpg)
+
+
+<br>{{< youtube OzkEMd0VcUc >}}</br>
 
 ![The link to the image is broken, check the filename](https://res.cloudinary.com/dkdpqgjhi/image/upload/c_scale,w_600/20250524_101040_ng4i2s)
 
