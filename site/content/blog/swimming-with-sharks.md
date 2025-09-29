@@ -30,8 +30,6 @@ language: en
 
 {{< fancybox "cloudinary" "20250601_171346_kfpqx1" " " "gallery" >}}
 
-{{< fancybox "cloudinary" "undefined" " " "gallery" >}}
-
 {{< fancybox "cloudinary" "20250602_120256_jmvvqr" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250603_164338_splqss" " " "gallery" >}}
@@ -39,8 +37,6 @@ language: en
 {{< fancybox "cloudinary" "20250604_115314_p5wxjn" " " "gallery" >}}
 
 {{< fancybox "cloudinary" "20250606_144656_dgqmhl" " " "gallery" >}}
-
-{{< fancybox "cloudinary" "undefined" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250603_181744_rxdxma" " " "gallery" >}}
 
