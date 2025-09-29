@@ -1,7 +1,7 @@
 ---
 title: Hanys na Filipinach - wyspa Bohol
 destinations: Filipiny
-image: 20250521_164315_x4sqsh
+image: Hanys_na_Filipinach_2_xnxw31
 featuredpath: cloudinary
 date: 2025-08-31T06:02:28.111Z
 type: post
