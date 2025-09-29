@@ -51,3 +51,23 @@ language: en
 {{< fancybox "cloudinary" "20250610_202850_vbjvmz" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250610_152929_kfnezp" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250611_093956_sacrqn" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250611_153026_obedyp" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250611_144202_g1irml" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250606_144700_hxvn83" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250614_051538_sdv1wp" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250614_052312_qtevum" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250615_083730_yhrde8" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250615_100008_dbh7bp" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250615_131536_eqhkmz" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "rekin_3_yznrkz" " undefined" "gallery" >}}
