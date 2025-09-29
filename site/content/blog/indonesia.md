@@ -61,3 +61,15 @@ Break from travels for a holiday on an Indonesian Island - Ceningan! OMG, what a
 {{< fancybox "cloudinary" "20250619_152101_cdalop" " undefined" "gallery" >}}
 
 {{< fancybox "cloudinary" "20250619_092135_kc34h2" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250617_203001_dvkhtd" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250617_174539_rtjvkd" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250617_182301_jjejnv" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250618_171218_t6aguv" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250617_182423_mhs5tj" " undefined" "gallery" >}}
+
+{{< fancybox "cloudinary" "20250617_182306_lxn2fc" " undefined" "gallery" >}}
