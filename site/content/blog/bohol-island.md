@@ -2,7 +2,7 @@
 title: "Bohol Island "
 description: Chocolate Hills, Tarsiers and Tinikling (Philippines)
 destinations: Phillipines
-image: 20250521_164315_0_rfoh0w
+image: Hanys_na_Filipinach_2_xnxw31
 featuredpath: cloudinary
 date: 2025-09-10T05:04:08.208Z
 type: post
