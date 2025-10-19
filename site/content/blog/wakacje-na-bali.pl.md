@@ -13,7 +13,7 @@ language: pl
 ---
 Przerwa w podróży na wakacje w Indonezji! Co to za miejsca, co za relaks i co za fale!!!!
 
-<br>{{< youtube undefined >}}</br>
+<br>{{< youtube JFy5co8lh8s >}}</br>
 
 {{< fancybox "cloudinary" "20250629_093532_ivzvhv" "  " "gallery" >}}
 
